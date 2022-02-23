@@ -1,2 +1,5 @@
-Le but étant de traduire partiellement les balises <H2> de la page internet https://linuxcommandlibrary.com/basic/oneliners#372, sans traduire le code bash !!!
-la 2è étape est de recréer index.html avec les titres <H2>
+- Le but étant de traduire uniquement les balises H2 qui correspondent aux titres de la page internet https://linuxcommandlibrary.com/basic/oneliners#372, sans traduire le code bash présent sur cette page !
+
+- La 2è étape consite à recréer index.html avec les nouveaux titres H2 traduit en francais
+
+**script: code.sh**
