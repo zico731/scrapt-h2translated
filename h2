@@ -1,0 +1,1025 @@
+Run the last command as root
+Serve current directory tree at http://$HOSTNAME:8000/
+Runs previous command but replacing
+Rapidly invoke an editor to write a long, complex, or tricky command
+Place the argument of the most recent command on the shell
+Salvage a borked terminal
+Currently mounted filesystems in nice layout
+Execute a command at a given time
+Get your external IP address
+Quick access to the ascii table.
+Query Wikipedia via console over DNS
+Output your microphone to a remote computer's speaker
+Type partial command, kill this command, check something you forgot, yank the command, resume typing.
+Mount folder/filesystem through SSH
+Mount a temporary ram partition
+Download an entire website
+Clear the terminal screen
+Update twitter via curl
+Compare a remote file with a local file
+A very simple and useful stopwatch
+SSH connection through host in the middle
+Watch Star Wars via telnet
+Make 'less' behave like 'tail -f'.
+Close shell keeping all subprocess running
+Put a console clock in top right corner
+Shutdown a Windows machine from Linux
+List of commands you use most often
+Set audible alarm when an IP address comes online
+32 bits or 64 bits?
+Reboot machine when everything is hanging
+Simulate typing
+Display the top ten running processes - sorted by memory usage
+Quickly rename a file
+Push your present working directory to a stack that you can pop later
+Escape any command aliases
+Easy and fast access to often executed commands that are very long and complex.
+Watch Network Service Activity in Real-time
+Diff two unsorted files without creating temporary files
+Create a script of the last executed command
+Delete all files in a folder that don't match a certain file extension
+Show apps that use internet connection at the moment. (Multi-Language)
+Sharing file through http 80 port
+Reuse all parameter of the previous command line
+Display a block of text with AWK
+Set CDPATH to ease navigation
+Backticks are evil
+Save command output to image
+Add Password Protection to a file your editing in vim.
+Show File System Hierarchy
+Kills a process that is locking a file.
+Remove duplicate entries in a file without sorting.
+Find Duplicate Files (based on size first, then MD5 hash)
+Python smtp server
+Insert the last command without the last argument (bash)
+Display which distro is installed
+Copy your SSH public key on a remote machine for passwordless login - the easy way
+Extract tarball from internet without local saving
+Find the process you are looking for minus the grepped one
+Google Translate
+Matrix Style
+Rip audio from a video file.
+Inserts the results of an autocompletion in the command line
+Copy your ssh public key to a server from a machine that doesn't have ssh-copy-id
+Replace spaces in filenames with underscores
+A fun thing to do with ram is actually open it up and take a peek. This command will show you all the string (plain text) values in ram
+Create a CD/DVD ISO image from disk.
+Intercept stdout/stderr of another process
+Define a quick calculator function
+Stream YouTube URL directly to mplayer.
+Copy a file using pv and watch its progress
+Graphical tree of sub-directories
+Easily search running processes (alias).
+Rapidly invoke an editor to write a long, complex, or tricky command
+Git remove files which have been deleted
+Mkdir & cd into it as single command
+Create a pdf version of a manpage
+Remove all but one specific file
+Make directory including intermediate directories
+Multiple variable assignments from command output in BASH
+Show apps that use internet connection at the moment. (Multi-Language)
+Edit a file on a remote host using vim
+Job Control
+Generate a random password 30 characters long
+Monitor progress of a command
+Graph # of connections for each hosts.
+Search for a <pattern> string inside all files in the current directory
+Record a screencast and convert it to an mpeg
+Convert seconds to human-readable format
+Monitor the queries being run by MySQL
+Send pop-up notifications on Gnome
+Show numerical values for each of the 256 colors in bash
+Remove security limitations from PDF documents using ghostscript
+Check your unread Gmail from the command line
+Search commandlinefu.com from the command line using the API
+Display a cool clock on your terminal
+(Debian/Ubuntu) Discover what package a file belongs to
+Processor / memory bandwidthd? in GB/s
+Mount a .iso file in UNIX/Linux
+Get the 10 biggest files/folders for the current direcotry
+Create a persistent connection to a machine
+Remove a line in a text file. Useful to fix
+Open Finder from the current Terminal location
+Makes the permissions of file2 the same as file1
+Show a 4-way scrollable process tree with full details.
+Attach screen over ssh
+Run a command only when load average is below a certain threshold
+List all bash shortcuts
+Start COMMAND, and kill it if still running after 5 seconds
+Pretend to be busy in office to enjoy a cup of coffee
+Recursively remove all empty directories
+Create a quick back-up copy of a file
+To print a specific line from a file
+Directly ssh to host B that is only accessible through host A
+Remove all files previously extracted from a tar(.gz) file.
+Share a terminal screen with others
+RTFM function
+Broadcast your shell thru ports 5000, 5001, 5002 ...
+Edit a google doc with vim
+Eavesdrop on your system
+Run a file system check on your next boot.
+Nice weather forecast on your shell
+Retry the previous command until it exits successfully
+Synchronize date and time with a server over ssh
+Google text-to-speech in mp3 format
+List only the directories
+What is my public IP-address?
+Which program is this port belongs to ?
+Sort the size usage of a directory tree by gigabytes, kilobytes, megabytes, then bytes.
+Duplicate installed packages from one machine to the other (RPM-based systems)
+Draw kernel module dependancy graph.
+Download Youtube video with wget!
+Binary Clock
+Remind yourself to leave in 15 minutes
+Download all images from a site
+Find out how much data is waiting to be written to disk
+Backup all MySQL Databases to individual files
+Bring the word under the cursor on the :ex line in Vim
+Make directory tree
+Convert Youtube videos to MP3
+Using `!#$' to referance backward-word
+Use tee to process a pipe with two or more processes
+Get your outgoing IP address
+Port Knocking!
+Compare two directory trees.
+Add timestamp to history
+Search recursively to find a word or phrase in certain file types, such as C code
+Recursively change permissions on files, leave directories alone.
+Find files that have been modified on your system in the past 60 minutes
+Quick access to ASCII code of a key
+Find files in a date range
+Run complex remote shell cmds over ssh, without escaping quotes
+A robust, modular log coloriser
+Intercept, monitor and manipulate a TCP connection.
+Block known dirty hosts from reaching your machine
+Check site ssl certificate dates
+Control ssh connection
+Python version 3: Serve current directory tree at http://$HOSTNAME:8000/
+Ls not pattern
+Show apps that use internet connection at the moment.
+Colorized grep in less
+Given a file path, unplug the USB device on which the file is located (the file must be on an USB device !)
+Remove a line in a text file. Useful to fix "ssh host key change" warnings
+Save a file you edited in vim without the needed permissions (no echo)
+Analyze traffic remotely over ssh w/ wireshark
+Create a directory and change into it at the same time
+Exclude multiple columns using AWK
+Easily find megabyte eating files or directories
+Exclude .svn, .git and other VCS junk for a pristine tarball
+Remove blank lines from a file using grep and save output to new file
+Delete a line from your shell history
+Exit without saving history
+How to establish a remote Gnu screen session that you can re-connect to
+Copy a MySQL Database to a new Server via SSH with one command
+Get the IP of the host your coming from when logged in remotely
+Random Number Between 1 And X
+Notify yourself when a long-running command which has ALREADY STARTED is finished
+Create colorized html file from Vim or Vimdiff
+Output your microphone to a remote computer's speaker
+Create a nifty overview of the hardware in your computer
+Save your sessions in vim to resume later
+Convert PDF to JPG
+Bind a key with a command
+Find all file larger than 500M
+GREP a PDF file.
+Live ssh network throughput test
+Convert unixtime to human-readable
+A fun thing to do with ram is actually open it up and take a peek. This command will show you all the string (plain text) values in ram
+Prettify an XML file
+Tell local Debian machine to install packages used by remote Debian machine
+Lists all listening ports together with the PID of the associated process
+Intersection between two files
+Alias HEAD for automatic smart output
+Colorful man
+Prints line numbers
+Diff on two variables
+Manually Pause/Unpause Firefox Process with POSIX-Signals
+Use lynx to run repeating website actions
+Display a list of committers sorted by the frequency of commits
+Check the status of 'dd' in progress (OS X)
+Convert seconds into minutes and seconds
+A child process which survives the parent's death (for sure)
+Find usb device
+Take screenshot through SSH
+Opens vi/vim at pattern in file
+April Fools' Day Prank
+Copy working directory and compress it on-the-fly while showing progress
+Pipe stdout and stderr, etc., to separate commands
+Schedule a script or command in x num hours, silently run in the background even if logged out
+Go to parent directory of filename edited in last command
+Draw a Sierpinski triangle
+Make anything more awesome
+List all files opened by a particular command
+Gets a random Futurama quote from /.
+Recursive search and replace old with new string, inside files
+Shut of the screen.
+Runs a bash script in debugging mode
+List the number and type of active network connections
+Encrypted archive with openssl and tar
+Create strong, but easy to remember password
+Use file(1) to view device information
+Prevent accidents while using wildcards
+Insert the last argument of the previous command
+View the newest xkcd comic.
+Press Any Key to Continue
+Backup all your commandlinefu.com favourites to a plaintext file
+Remove color codes (special characters) with sed
+Throttle bandwidth with cstream
+Run a long job and notify me when it's finished
+When feeling down, this command helps
+Nicely display permissions in octal format with filename
+Create a single-use TCP (or UDP) proxy
+Find geographical location of an ip address
+Read manpage of a unix command as pdf in preview (Os X)
+Instead of writing a multiline if/then/else/fi construct you can do that by one line
+Switch 2 characters on a command line.
+Speed up launch of firefox
+Format txt as table not joining empty columns
+Shell recorder with replay
+Bind a key with a command
+Exclude a column with cut
+List files with quotes around each filename
+Duplicate several drives concurrently
+Create an audio test CD of sine waves from 1 to 99 Hz
+Listen to BBC Radio from the command line.
+Get your external IP address
+List installed deb packages by size
+Monitor bandwidth by pid
+Execute a command with a timeout
+Send echo to socket network
+Use vim to get colorful diff output
+Find files containing text
+Perform a branching conditional
+Resume scp of a big file
+Brute force discover
+Use tee + process substitution to split STDOUT to multiple commands
+Annotate tail -f with timestamps
+Fast, built-in pipe-based data sink
+Repoint an existing symlink to a new location
+GRUB2: set Super Mario as startup tune
+Find Duplicate Files (based on size first, then MD5 hash)
+Close a hanging ssh session
+Recover a deleted file
+Makes you look busy
+Convert filenames in current directory to lowercase
+Find files that were modified by a given command
+Quickly graph a list of numbers
+Cut out a piece of film from a file. Choose an arbitrary length and starting time.
+Analyse an Apache access log for the most common IP addresses
+Prevent large files from being cached in memory (backups!)
+Convert single digit to double digits
+Limit the cpu usage of a process
+Generate an XKCD #936 style 4 word password
+Single use vnc-over-ssh connection
+Diff remote webpages using wget
+List alive hosts in specific subnet
+Processes per user counter
+View all date formats, Quick Reference Help Alias
+Your terminal sings
+Make sure a script is run in a terminal.
+Matrix Style
+Quickly (soft-)reboot skipping hardware checks
+Pipe output of a command to your clipboard
+Ls -hog --> a more compact ls -l
+Git remove files which have been deleted
+Efficiently print a line deep in a huge log file
+Silently ensures that a FS is mounted on the given mount point (checks if it's OK, otherwise unmount, create dir and mount)
+Sniff network traffic on a given interface and displays the IP addresses of the machines communicating with the current host (one IP per line)
+Check if system is 32bit or 64bit
+Create a local compressed tarball from remote host directory
+Rapidly invoke an editor to write a long, complex, or tricky command
+Send a circular
+The BOFH Excuse Server
+I finally found out how to use notify-send with at or cron
+See udev at work
+Bash: hotkey to put current commandline to text-editor
+Show current working directory of a process
+Base conversions with bc
+Put readline into vi mode
+Transfer SSH public key to another machine in one step
+Start a command on only one CPU core
+Convert uppercase files to lowercase files
+List of commands you use most often
+Notepad in a browser (type this in the URL bar)
+Display current time in requested time zones.
+Dmesg with colored human-readable dates
+Stamp a text line on top of the pdf pages.
+Print diagram of user/groups
+Create a file server, listening in port 7000
+Bypass any aliases and functions for the command
+Share your terminal session real-time
+Df without line wrap on long FS name
+Stderr in color
+VI config to save files with +x when a shebang is found on line 1
+Create a single PDF from multiple images with ImageMagick
+Dd with progress bar and statistics
+Delete all empty lines from a file with vim
+Perl one-liner to get the current week number
+Backup all MySQL Databases to individual files
+Ultimate current directory usage command
+Terminal - Show directories in the PATH, one per line with sed and bash3.X `here string'
+Have an ssh session open forever
+Recursively compare two directories and output their differences on a readable format
+DELETE all those duplicate files but one based on md5 hash comparision in the current directory tree
+Find broken symlinks and delete them
+List recorded formular fields of Firefox
+Using awk to sum/count a column of numbers.
+Get all the keyboard shortcuts in screen
+Get list of servers with a specific port open
+Return external ip
+Simple multi-user encrypted chat server for 5 users
+Check if your ISP is intercepting DNS queries
+Remove a range of lines from a file
+Extract audio from Flash video (*.flv) as mp3 file
+Cat a bunch of small files with file indication
+Stop Flash from tracking everything you do.
+List all open ports and their owning executables
+Purge configuration files of removed packages on debian based systems
+Monitor open connections for httpd including listen, count and sort it per IP
+Convert text to picture
+Remote screenshot
+Define words and phrases with google.
+List all authors of a particular git project
+Track flights from the command line
+Harder, Faster, Stronger SSH clients
+Clean up poorly named TV shows.
+Pretty Print a simple csv in the command line
+Cleanup firefox's database.
+Check open ports
+Find Duplicate Files (based on MD5 hash)
+Triple monitoring in screen
+Smiley Face Bash Prompt
+Save an HTML page, and covert it to a .pdf file
+Create an emergency swapfile when the existing swap space is getting tight
+Relocate a file or directory, but keep it accessible on the old location throug a simlink.
+A short counter
+Rsync remote data as root using sudo
+Convert all MySQL tables and fields to UTF8
+Pipe STDOUT to vim
+Copy stdin to your X11 buffer
+Get info about remote host ports and OS detection
+Copy a file structure without files
+Start a new command in a new screen window
+Convert from hexidecimal or octal to decimal
+Save man-page as pdf
+Convert seconds into minutes and seconds
+List files accessed by a command
+Short and elegant way to backup a single file before you change it.
+Find all the links to a file
+Recover tmp flash videos (deleted immediately by the browser plugin)
+Rsync instead of scp
+Send a circular
+Visit wikileaks.com
+Make sudo forget password instantly
+Print a row of characters across the terminal
+Download and unpack tarball without leaving it sitting on your hard drive
+Colored diff ( via vim ) on 2 remotes files on your local computer.
+Split a tarball into multiple parts
+Remove executable bit from all files in the current directory recursively, excluding other directories
+More precise BASH debugging
+Get all pdf and zips from a website using wget
+Mount the first NTFS partition inside a VDI file (VirtualBox Disk Image)
+Show me a histogram of the busiest minutes in a log file:
+Print a great grey scale demo !
+Create a list of binary numbers
+Create a system overview dashboard on F12 key
+Coloured tail
+Disable history for current shell session
+Search for commands from the command line
+How to run X without any graphics hardware
+Install a Firefox add-on/theme to all users
+Clear current line
+Quickly generate an MD5 hash for a text string using OpenSSL
+Terminate a frozen SSH-session
+Backup a remote database to your local filesystem
+Generat a Random MAC address
+Batch convert files to utf-8
+Get http headers for an url
+Random git-commit message
+Generate QR code for a WiFi hotspot
+Check if system is 32bit or 64bit
+Vi a remote file
+Show permissions of current directory and all directories upwards to /
+Move you up one directory quickly
+Hide the name of a process listed in the `ps` output
+Remove a line from a file using sed (useful for updating known SSH server keys when they change)
+Show what PID is listening on port 80 on Linux
+List by size all of the directories in a given tree.
+Find the most recently changed files (recursively)
+All IP connected to my host
+Figure out what shell you're running
+Download a file and uncompress it while it downloads
+Rename all .jpeg and .JPG files to have .jpg extension
+Remove Thumbs.db files from folders
+List open files that have no links to them on the filesystem
+Display BIOS Information
+Open path with your default program (on Linux/*BSD)
+Copy an element from the previous command
+View user activity per directory.
+Use the previous commands params in the current command
+Mirror a directory structure from websites with an Apache-generated file indexes
+Quickly share code or text from vim to others.
+Copy from host1 to host2, through your host
+Convert all Flac in a directory to Mp3 using maximum quality variable bitrate
+Limit bandwidth usage by apt-get
+Tune your guitar from the command line.
+Grep -v with multiple patterns.
+Redirect stdout and stderr each to separate files and print both to the screen
+Identify long lines in a file
+Use all the cores or CPUs when compiling
+Prints total line count contribution per user for an SVN repository
+Analyze awk fields
+Colored SVN diff
+Run a command, store the output in a pastebin on the internet and place the URL on the xclipboard
+Show git branches by date - useful for showing active branches
+Find if the command has an alias
+Find last reboot time
+Show a config file without comments
+Start screen in detached mode
+Iso-8859-1 to utf-8 safe recursive rename
+Create dir tree
+Run any GUI program remotely
+Delete all empty lines from a file with vim
+List the files any process is using
+Show biggest files/directories, biggest first with 'k,m,g' eyecandy
+Change directory to actual path instead of symlink path
+Download an entire static website to your local machine
+Recursively remove .svn directories from the current location
+Count files beneath current directory (including subfolders)
+Read and write to TCP or UDP sockets with common bash tools
+Use top to monitor only all processes with the same name fragment 'foo'
+Delete command line last word
+Draw kernel module dependancy graph.
+Color man pages
+Print without executing the last command that starts with...
+What is the use of this switch ?
+Save the list of all available commands in your box to a file
+Protect directory from an overzealous rm -rf *
+Watch RX/TX rate of an interface in kb/s
+List 10 largest directories in current directory
+Reuse last parameter
+Blink LED Port of NIC Card
+Pretend to be busy in office to enjoy a cup of coffee
+See where a shortened url takes you before click
+Stream YouTube URL directly to MPlayer
+Generate a Random MAC address
+Running scripts after a reboot for non-root users .
+Run command on a group of nodes in parallel
+Make, or run a script, everytime a file in a directory is modified
+Choose from a nice graphical menu which DI.FM radio station to play
+Check the status of 'dd' in progress (OS X)
+Ping scanning without nmap
+Convert a Nero Image File to ISO
+View network activity of any application or user in realtime
+Copy with progress
+Print a list of standard error codes and descriptions.
+Recursive search and replace old with new string, inside files
+Generate random password
+A function to output a man page as a pdf file
+Unbelievable Shell Colors, Shading, Backgrounds, Effects for Non-X
+Show directories in the PATH, one per line
+Move all images in a directory into a directory hierarchy based on year, month and day based on exif information
+Follow tail by name (fix for rolling logs with tail -f)
+Convert "man page" to text file
+Get your public ip using dyndns
+Display current bandwidth statistics
+Given process ID print its environment variables
+Restoring some data from a corrupted text file
+View the system console remotely
+Look up the definition of a word
+Diff files on two remote hosts.
+Ctrl+S Ctrl+Q terminal output lock and unlock
+Redirect STDIN
+I hate `echo X | Y`
+Send keypresses to an X application
+Add calendar to desktop wallpaper
+Browse system RAM in a human readable form
+Backup your hard drive with dd
+Calculates the date 2 weeks ago from Saturday the specified format.
+Get Cisco network information
+Press ctrl+r in a bash shell and type a few letters of a previous command
+Extract audio from a video
+Quick glance at who's been using your system recently
+Ping a range of IP addresses
+Use last argument of last command
+Show which programs are listening on TCP and UDP ports
+Determine if a port is open with bash
+Search for a process by name
+Download all mp3's listed in an html page
+Run the built in PHP-server in current folder
+Press enter and take a WebCam picture.
+Commandline document conversion with Libreoffice
+HourGlass
+Gets the english pronunciation of a phrase
+Check syntax for all PHP files in the current directory and all subdirectories
+Ask for a password, the passwd-style
+Monitor memory usage
+Content search.
+Timer with sound alarm
+Rapidly invoke an editor to write a long, complex, or tricky command
+Run command on a group of nodes in parallel
+List of commands you use most often
+Kill process by name
+Change prompt to MS-DOS one (joke)
+Make ISO image of a folder
+A shell function to print a ruler the width of the terminal window.
+Typing the current date ( or any string ) via a shortcut as if the keys had been actually typed with the hardware keyboard in any application.
+Update twitter via curl (and also set the "from" bit)
+Quickest (i blv) way to get the current program name minus the path (BASH)
+A trash function for bash
+Clean your broken terminal
+Play music from youtube without download
+Generate a unique and secure password for every website that you login to
+Search back through previous commands
+Identify differences between directories (possibly on different servers)
+Replace spaces in filenames with underscores
+Show directories in the PATH, one per line
+Move a lot of files over ssh
+Find and delete empty dirs, start in current working dir
+List your largest installed packages.
+Monitor TCP opened connections
+Fix Ubuntu's Broken Sound Server
+Download all Delicious bookmarks
+Beep when a server goes offline
+Number of open connections per ip.
+Fibonacci numbers with awk
+Create a favicon
+Check Ram Speed and Type in Linux
+Run the Firefox Profile Manager
+Add forgotten changes to the last git commit
+Sort dotted quads
+Get Dell Service Tag Number from a Dell Machine
+Resume aborted scp file transfers
+Add your public SSH key to a server in one command
+Cycle through a 256 colour palette
+Google text-to-speech in mp3 format
+Google verbatim search on your terminal
+Grep processes list avoiding the grep itself
+Swap the two last arguments of the current command line
+Transfer a file to multiple hosts over ssh
+Tail a log over ssh
+Du with colored bar graph
+Sort the output of the 'du' command by largest first, using human readable output.
+Verify/edit bash history command before executing it
+Resize an image to at least a specific resolution
+Query well known ports list
+Create .pdf from .doc
+Diff XML files
+Discovering all open files/dirs underneath a directory
+Clear screen, keep prompt at eye-level (faster than clear(1), tput cl, etc.)
+Down for everyone or just me?
+A formatting test for David Winterbottom: improving commandlinefu for submitters
+Run a program transparently, but print a stack trace if it fails
+Compare copies of a file with md5
+Backup delicious bookmarks
+Continue a current job in the background
+Get all links of a website
+Find all active ip's in a subnet
+Display BIOS Information
+Disassemble some shell code
+List bash functions defined in .bash_profile or .bashrc
+Ignore the .svn directory in filename completion
+Working random fact generator
+Remote backups with tar over ssh
+Pronounce an English word using Dictionary.com
+Change pidgin status
+Grep by paragraph instead of by line.
+Vim: Switch from Horizontal split to Vertical split
+Numbers guessing game
+Sort all running processes by their memory & CPU usage
+Change user, assume environment, stay in current dir
+Save current layout of top
+Function that outputs dots every second until command completes
+Testing hard disk reading speed
+How fast is the connexion to a URL, some stats from curl
+An easter egg built into python to give you the Zen of Python
+Get all IPs via ifconfig
+Use Cygwin to talk to the Windows clipboard
+List programs with open ports and connections
+Find corrupted jpeg image files
+'Fix' a typescript file created by the 'script' program to remove control characters
+Share a 'screen'-session
+Purge configuration files of removed packages on debian based systems
+Show all detected mountable Drives/Partitions/BlockDevices
+Merge *.pdf files
+Append stdout and stderr to a file, and print stderr to the screen [bash]
+Quickly change all .html extensions on files in folder to .htm
+Delete the specified line
+Read the output of a command into the buffer in vim
+Find broken symlinks
+Ssh tunnel with auto reconnect ability
+Find process associated with a port
+Scping files with streamlines compression (tar gzip)
+Add all files not under version control to repository
+Disco lights in the terminal
+Select rectangular screen area
+Show how old your linux OS installtion is
+Discover the process start time
+Automatically find and re-attach to a detached screen session
+This is how you should push a string in a command's stdin.
+Ping as traceroute
+What model of computer I'm using?
+Extract tar content without leading parent directory
+Target a specific column for pattern substitution
+Run a command when a file is changed
+Substrings a variable
+One command line web server on port 80 using nc (netcat)
+RDP through SSH tunnel
+"Clone" a list of installed packages from one Debian/Ubuntu Server to another
+Remote screenshot
+Google text-to-speech in mp3 format
+Add the result of a command into vi
+Place the NUM-th argument of the most recent command on the shell
+Find the package a command belongs to on Debian
+Look up a unicode character by name
+Start dd and show progress every X seconds
+Ask user to confirm
+Random unsigned integer
+Kill all process that belongs to you
+Make a file not writable / immutable by root
+Analyze traffic remotely over ssh w/ wireshark
+Send email with curl and gmail
+Translates acronyms for you
+Delete DOS Characters via VIM (^M)
+Create an animated gif from a Youtube video
+Print just line 4 from a textfile
+Print just line 4 from a textfile
+Quick HTML image gallery from folder contents
+Get your external IP address without curl
+Resume a detached screen session, resizing to fit the current terminal
+Start a HTTP server which serves Python docs
+Do some learning...
+Insert the last argument of the previous command
+Carriage return for reprinting on the same line
+Copy a folder tree through ssh using compression (no temporary files)
+Command line calculator
+Backup a local drive into a file on the remote host via ssh
+Kill processes that have been running for more than a week
+List Network Tools in Linux
+Print text string vertically, one character per line.
+Add prefix onto filenames
+Salvage a borked terminal
+Pick a random line from a file
+Get all these commands in a text file with description.
+Stripping ^M at end of each line for files
+Backup files incremental with rsync to a NTFS-Partition
+Find removed files still in use via /proc
+Connect to google talk through ssh by setting your IM client to use the localhost 5432 port
+Urldecoding
+For all flv files in a dir, grab the first frame and make a jpg.
+Wrap long lines of a text
+Validate and pretty-print JSON expressions.
+Grep colorized
+From within vi, pipe a chunk of lines to a command line and replace the chunk with the result
+Grep for word in directory (recursive)
+Unix alias for date command that lets you create timestamps in ISO 8601 format
+Another Curl your IP command
+Count IPv4 connections per IP
+Files extension change
+Archive all files containing local changes (svn)
+Just run it ;)
+Pattern match in awk - no grep
+Optimal way of deleting huge numbers of files
+Du with colored bar graph
+Mount a VMware virtual disk (.vmdk) file on a Linux box
+Quick copy
+Sending a file over icmp with hping
+Fetch the current human population of Earth
+Kill a broken ssh connection
+Convert JSON to YAML
+Convert Shell Text to Upper/Lower Case
+The fastest remote directory rsync over ssh archival I can muster (40MB/s over 1gb NICs)
+Binary digits Matrix effect
+Open two files side by side in vim (one window, two panes)
+Repeat a command every one second
+Update all packages installed via homebrew
+Daemonize nc - Transmit a file like a http server
+Find ulimit values of currently running process
+Diff current vi buffer edits against original file
+Redirect tar extract to another directory
+Print multiplication formulas
+Find Malware in the current and sub directories by MD5 hashes
+Watch several log files of different machines in a single multitail window on your own machine
+Execute a command, convert output to .png file, upload file to imgur.com, then returning the address of the .png.
+All out
+Numeric zero padding file rename
+Find out the starting directory of a script
+Selecting a random file/folder of a folder
+List your MACs address
+Ssh to machine behind shared NAT
+Countdown Clock
+List all file extensions in a directory
+Send an http HEAD request w/curl
+View hex mode in vim
+View ~/.ssh/known_hosts key information
+Kill all Zombie processes (Guaranteed!)
+Prevent accidents and test your command with echo
+Exclude a column with awk
+Get My Public IP Address
+Pretend to be busy in office to enjoy a cup of coffee
+Empty a file
+Better way to use notify-send with at or cron
+Emptying a text file in one shot
+Computes the most frequent used words of a text file
+Countdown Clock
+Print info about your real user.
+Serve current directory tree at http://$HOSTNAME:8080/
+JSON processing with Python
+Move items from subdirectories to current directory
+Restrict the bandwidth for the SCP command
+Optimize PDF documents
+Live ssh network throughput test
+Bash screensaver (scrolling ascii art with customizable message)
+Upgrade all perl modules via CPAN
+Remove lines that contain a specific pattern($1) from file($2).
+List your largest installed packages (on Debian/Ubuntu)
+Rsync + find
+Autossh + ssh + screen = super rad perma-sessions
+Record microphone input and output to date stamped mp3 file
+Find running binary executables that were not installed using dpkg
+Cycle through a 256 colour palette
+Parallel file downloading with wget
+Move a lot of files over ssh
+Cleanup firefox's database.
+Vim easter egg
+Find the process you are looking for minus the grepped one
+Stream YouTube URL directly to mplayer
+Update twitter via curl
+Ssh autocomplete
+Get all IPs via ifconfig
+VIM: Replace a string with an incrementing number between marks 'a and 'b (eg, convert string ZZZZ to 1, 2, 3, ...)
+Get the canonical, absolute path given a relative and/or noncanonical path
+Create a Multi-Part Archive Without Proprietary Junkware
+List and delete files older than one year
+Display last exit status of a command
+Enable ** to expand files recursively (>=bash-4.0)
+Command Line to Get the Stock Quote via Yahoo
+Plays Music from SomaFM
+Convert camelCase to underscores (camel_case)
+Set your profile so that you resume or start a screen session on login
+Play high-res video files on a slow processor
+Create directory named after current date
+Monitor dynamic changes in the dmesg log.
+Generate a list of installed packages on Debian-based systems
+Find the process that is using a certain port e.g. port 3000
+Pause Current Thread
+Converts to PDF all the OpenOffice.org files in the directory
+Create a bunch of dummy files for testing
+Convert .wma files to .ogg with ffmpeg
+Find distro name and/or version/release
+Generate Random Passwords
+Bash shortcut: !$ !^ !* !:3 !:h and !:t
+Grep without having it show its own process in the results
+Find recursively, from current directory down, files and directories whose names contain single or multiple whitespaces and replace each such occurrence with a single underscore.
+Tells which group you DON'T belong to (opposite of command "groups") --- uses sed
+Quickly get summary of sizes for files and folders
+Echo the latest commands from commandlinefu on the console
+Optimal way of deleting huge numbers of files
+Drop first column of output by piping to this
+Create a bunch of dummy text files
+Get the Nth argument of the last command (handling spaces correctly)
+Temporarily ignore mismatched SSH host key
+Remove all zero size files from current directory (not recursive)
+Watch the progress of 'dd'
+Get a stream feed from a Twitter user
+Create the authorization header required for a Twitter stream feed
+Create the signature base string required for a Twitter stream feed
+Create the oauth token required for a Twitter stream feed
+Open a screenshot of a remote desktop via ssh
+Check your spelling
+Find all files larger than 500M and less than 1GB
+Show bandwidth use oneliner
+Change/Modify timestamp interactively
+Sort the contents of a text file in place.
+Instantly load bash history of one shell into another running shell
+Copy with progress bar - rsync
+Multiple variable assignments from command output in BASH
+Generate a random password 30 characters long
+Run a ext4 file system check and badblocks scan with progress info
+List your MACs address
+Rename all files which contain the sub-string 'foo', replacing it with 'bar'
+Create a 5 MB blank file via a seek hole
+ROT13 using the tr command
+Make vim open in tabs by default (save to .profile)
+Secure copy from one server to another without rsync and preserve users, etc
+The same as [Esc] in vim
+Binary clock
+Function to split a string into an array
+Generate MD5 hash for a string
+Recompress all .gz files in current directory using bzip2 running 1 job per CPU core in parallel
+Phpinfo from the command line
+Run a command whenever a file is touched
+Escape potential tarbombs
+Pretend to be busy in office to enjoy a cup of coffee
+Get notified when a job you run in a terminal is done, using NotifyOSD
+Runs a X session within your X session
+Use screen as a terminal emulator to connect to serial consoles
+Have a random "cow" say a random thing
+Sends a postscript file to a postscript printer using netcat
+Lines in file2 that are not in file1
+Display which distro is installed
+Fetch every font from dafont.com to current folder
+Intercept stdout/stderr of another process
+Send DD a signal to print its progress
+Open Remote Desktop (RDP) from command line and connect local resources
+See your current RAM frequency
+Scp with compression.
+Perl Command Line Interpreter
+Find unused IPs on a given subnet
+Find and delete empty dirs, start in current working dir
+Check which files are opened by Firefox then sort by largest size.
+Optimal way of deleting huge numbers of files
+Geoip information
+What is my ip?
+FAST Search and Replace for Strings in all Files in Directory
+Get the total length of all video / audio in the current dir (and below) in H:m:s
+Send data securly over the net.
+When was your OS installed?
+How to run a command on a list of remote servers read from a file
+Replace spaces in filenames with underscorees
+Find the biggest files recursively, no matter how many
+Grep certain file types recursively
+Change proccess affinity.
+Back up your commandlinefu contributed commands
+Currently mounted filesystems in nice layout
+Benchmark web server with apache benchmarking tool
+Salvage a borked terminal
+Multiple SSH Tunnels
+LDAP search to query an ActiveDirectory server
+Easily scp a file back to the host you're connecting from
+Super Speedy Hexadecimal or Octal Calculations and Conversions to Decimal.
+Find and replace tabs for spaces within files recursively
+Delete all files found in directory A from directory B
+Synchronicity
+Terminal redirection
+Displays the attempted user name, ip address, and time of SSH failed logins on Debian machines
+Rot13 using the tr command
+Measures download speed on eth0
+Clean swap area after using a memory hogging application
+Loop over a set of items that contain spaces
+Traceroute w/TCP to get through firewalls.
+Launch a command from a manpage
+Split File in parts
+Speak the top 6 lines of your twitter timeline every 5 minutes.....
+Create an SSH SOCKS proxy server on localhost:8000 that will re-start itself if something breaks the connection temporarily
+To get you started!
+Exclude grep from your grepped output of ps (alias included in description)
+Renames multiple files that match the pattern
+Block an IP address from connecting to a server
+Infile search and replace on N files (including backup of the files)
+Show running services (using systemctl)
+Binary clock
+Pulsed terminal clock
+Removes characters from cursor to the end of line
+All what exists in dir B and not in dir A will be copied from dir B to new or existing dir C
+Find previously entered commands (requires configuring .inputrc)
+Add directory to $PATH if it's not already there
+Debug how files are being accessed by a process
+Retry the previous command until it exits successfully
+Convert JSON to YAML
+Search google.com on your terminal
+Play awesome rythmic noise using aplay
+Turns red the stderr output
+Recursively unrar into dir containing archive
+True Random Dice Roll
+Find biggest 10 files in current and subdirectories and sort by file size
+Get your external IP and Network Info
+List all commands present on system
+A line across the entire width of the terminal
+Recursively find top 20 largest files (> 1MB) sort human readable format
+Create the four oauth keys required for a Twitter stream feed
+Check if a machine is online
+Extract element of xml
+Generate a random password 30 characters long
+Remove the first and the latest caracter of a string
+Load file into RAM (cache) for faster accessing for repeated usage
+Show IP Address in prompt --> PS1 var
+Log a command to console and to 2 files separately stdout and stderr
+Join lines split with backslash at the end
+Convert text to lowercase
+Find builtin in bash v4+
+Make image semi-transparent
+Compare directories via diff
+Execute a shell with netcat without -e
+Save your terminal commands in bash history in real time
+Connect via SSH to VirtualBox guest VM without knowing IP address
+Make redirects to localhost via /etc/hosts more interesting
+Screensaver
+Tricky implementation of two-dimensional array in Bash.
+Terrorist threat level text
+Bash logger
+Use wget to download one page and all it's requisites for offline viewing
+Convert a string to "Title Case"
+RTFM function
+Back ssh from firewalled hosts
+Rename HTML files according to their title tag
+Rename files according to file with colums of corresponding names
+Create a new file
+Monitor a file with tail with timestamps added
+Check disk for bad sectors
+Create a file of a given size in linux
+Pretend to be busy in office to enjoy a cup of coffee
+Extended man command
+Show which process is blocking umount (Device or resource is busy)
+Show the UUID of a filesystem or partition
+Run command on a group of nodes
+Setting global redirection of STDERR to STDOUT in a script
+Outgoing IP of server
+Isolate file name from full path/find output
+Show numerical values for each of the 256 colors in bash
+Find all symlinks that link to directories
+Use Kernighan & Ritchie coding style in C program
+Delay execution until load average falls under 1.5
+Backup with mysqldump a really big mysql database to a remote machine over ssh
+Tail -f at your own pace
+Watch the progress of 'dd'
+Realtime lines per second in a log file
+Smart `cd`.. cd to the file directory if you try to cd to a file
+Temporarily ignore known SSH hosts
+Dd with progress bar
+Save the Top 2500 commands from commandlinefu to a single text file
+Print a row of 50 hyphens
+Display a wave pattern
+Grep tab chars
+Send a message to a windows machine in a popup
+Using mplayer to play the audio only but suppress the video
+Using mplayer to play the audio only but suppress the video
+Create a temporary file in a command line call
+Shell function to make gnu info act like man.
+Replace spaces in filenames with underscores
+Insert the last argument of the previous command
+Change the From: address on the fly for email sent from the command-line
+Remote control for Rhythmbox on an Ubuntu Media PC
+Use colordiff in side-by-side mode, and with automatic column widths.
+Extract email adresses from some file (or any other pattern)
+Amazing real time picture of the sun in your wallpaper
+Bash screensaver off
+Convert vdi to vmdk (virtualbox hard disk conversion to vmware hard disk format)
+Smart renaming
+Is today the end of the month?
+Port scan a range of hosts with Netcat.
+Log your internet download speed
+Show Directories in the PATH Which does NOT Exist
+Backup files older than 1 day on /home/dir, gzip them, moving old file to a dated file.
+Alias to close terminal with :q
+Display an embeded help message from bash script header
+Sort file greater than a specified size in human readeable format including their path and typed by color, running from current directory
+Print file without duplicated lines using awk
+Get the 10 biggest files/folders for the current direcotry
+Get your external IP address
+Send email with one or more binary attachments
+Convert a web page into a png
+Uncomment the lines where the word DEBUG is found
+This toggles mute on the Master channel of an alsa soundcard
+Submit data to a HTML form with POST method and save the response
+Count how many times a string appears in a (source code) tree
+Search commandlinefu from the CLI
+Compare a remote file with a local file
+Using netcat to copy files between servers
+Search command history on bash
+Redirect incoming traffic to SSH, from a port of your choosing
+Using bash inline
+Alt + 1 .
+Create several copies of a file
+Search for a single file and go to it
+Nice info browser
+Sends your internal IP by email
+Download schedule
+Use mtr to create a text file report
+Quick screenshot
+Edit the last or previous command line in an editor then execute
+Quicker move to parent directory
+Show webcam output
+Open the last file you edited in Vim.
+Keep from having to adjust your volume constantly
+[re]verify a disc with very friendly output
+Processes by CPU usage
+Rotate a set of photos matching their EXIF data.
+Awk using multiple field separators
+Shows size of dirs and files, hidden or not, sorted.
+Hard disk information - Model/serial no.
+Use mplayer to save video streams to a file
+Wrap text files on the command-line for easy reading
+Re-read partition table on specified device without rebooting system (here /dev/sda).
+Get your mac to talk to you
+Sort a one-per-line list of email address, weeding out duplicates
+Recursively change file name from uppercase to lowercase (or viceversa)
+Check the age of the filesystem
+Backup all MySQL Databases to individual files
+Remove all subversion files from a project recursively
+Click on a GUI window and show its process ID and command used to run the process
+Print indepth hardware info
+Concatenate (join) video files
+Convert the contents of a directory listing into a colon-separated environment variable
+Make a log of a terminal session
+Remove invalid host keys from ~/.ssh/known_hosts
+Remove all spaces from all files in current folder
+A function to find the fastest free DNS server
+New Maintainer for CommandLineFu
+Bare Metal IRC Client
+Get your Firefox history
+Submit command & rewrite orginal command
+Check all bash scripts in current dir for syntax errors
+Encrypted chat with netcat and openssl (one-liner)
+Symlink all files from a base directory to a target directory
+List directories only

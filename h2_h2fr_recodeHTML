@@ -1,0 +1,1025 @@
+Run the last command as root@Ex&eacute;cutez la derni&egrave;re commande en tant que root  
+Serve current directory tree at http://$HOSTNAME:8000/@Servir l'arborescence de r&eacute;pertoires actuelle &agrave; http://$HOSTNAME:8000/  
+Runs previous command but replacing@Ex&eacute;cute la commande pr&eacute;c&eacute;dente mais remplace  
+Rapidly invoke an editor to write a long, complex, or tricky command@Invoquez rapidement un &eacute;diteur pour &eacute;crire une commande longue, complexe ou d&eacute;licate  
+Place the argument of the most recent command on the shell@Placez l'argument de la commande la plus r&eacute;cente sur le shell  
+Salvage a borked terminal@R&eacute;cup&eacute;rer un terminal bouch&eacute;  
+Currently mounted filesystems in nice layout@Syst&egrave;mes de fichiers actuellement mont&eacute;s dans une belle disposition  
+Execute a command at a given time@Ex&eacute;cuter une commande &agrave; un instant donn&eacute;  
+Get your external IP address@Obtenez votre adresse IP externe  
+Quick access to the ascii table.@Acc&egrave;s rapide &agrave; la table ascii.  
+Query Wikipedia via console over DNS@Interroger Wikipedia via la console via DNS  
+Output your microphone to a remote computer's speaker@Envoyez votre microphone au haut-parleur d'un ordinateur distant  
+Type partial command, kill this command, check something you forgot, yank the command, resume typing.@Tapez vous avez oubli&eacute;, tirez la commande, reprenez la saisie.  
+Mount folder/filesystem through SSH@Monter le dossier/syst&egrave;me de fichiers via SSH  
+Mount a temporary ram partition@Monter une partition RAM temporaire  
+Download an entire website@T&eacute;l&eacute;charger un site Web entier  
+Clear the terminal screen@Effacer l'&eacute;cran du terminal  
+Update twitter via curl@Mettre &agrave; jour Twitter via curl  
+Compare a remote file with a local file@Comparer un fichier distant avec un fichier local  
+A very simple and useful stopwatch@Un chronom&egrave;tre tr&egrave;s simple et utile  
+SSH connection through host in the middle@Connexion SSH via l'h&ocirc;te au milieu  
+Watch Star Wars via telnet@Regarder Star Wars via telnet  
+Make 'less' behave like 'tail -f'.@Faire en sorte que 'less' se comporte comme 'tail -f'.  
+Close shell keeping all subprocess running@Fermer le shell en gardant tous les sous-processus en cours d'ex&eacute;cution  
+Put a console clock in top right corner@Mettre une horloge de console dans le coin sup&eacute;rieur droit  
+Shutdown a Windows machine from Linux@Arr&ecirc;ter une machine Windows &agrave; partir de Linux  
+List of commands you use most often@Liste des commandes que vous utilisez le plus souvent  
+Set audible alarm when an IP address comes online@D&eacute;finir une alarme sonore lorsqu'une adresse IP est en ligne  
+32 bits or 64 bits?@32 bits ou 64 bits ?  
+Reboot machine when everything is hanging@Red&eacute;marrez la machine lorsque tout est bloqu&eacute;  
+Simulate typing@Simuler la saisie  
+Display the top ten running processes - sorted by memory usage@Afficher les dix principaux processus en cours d'ex&eacute;cution - tri&eacute;s par utilisation de la m&eacute;moire  
+Quickly rename a file@Renommer rapidement un fichier  
+Push your present working directory to a stack that you can pop later@Poussez votre r&eacute;pertoire de travail actuel vers une pile que vous pourrez faire appara&icirc;tre plus tard  
+Escape any command aliases@&Eacute;chapper &agrave; tous les alias de commande  
+Easy and fast access to often executed commands that are very long and complex.@Acc&egrave;s facile et rapide aux commandes souvent ex&eacute;cut&eacute;es qui sont tr&egrave;s longues et complexes.  
+Watch Network Service Activity in Real-time@Surveillez l'activit&eacute; du service r&eacute;seau en temps r&eacute;el  
+Diff two unsorted files without creating temporary files@Comparez deux fichiers non tri&eacute;s sans cr&eacute;er de fichiers temporaires  
+Create a script of the last executed command@Cr&eacute;er un script de la derni&egrave;re commande ex&eacute;cut&eacute;e  
+Delete all files in a folder that don't match a certain file extension@Supprimer tous les fichiers d'un dossier qui ne correspondent pas &agrave; une certaine extension de fichier  
+Show apps that use internet connection at the moment. (Multi-Language)@Afficher les applications qui utilisent actuellement une connexion Internet. (Multilingue)  
+Sharing file through http 80 port@Partage de fichier via le port http 80  
+Reuse all parameter of the previous command line@R&eacute;utiliser tous les param&egrave;tres de la ligne de commande pr&eacute;c&eacute;dente  
+Display a block of text with AWK@Afficher un bloc de texte avec AWK  
+Set CDPATH to ease navigation@D&eacute;finir CDPATH pour faciliter la navigation  
+Backticks are evil@Les backticks sont mauvais  
+Save command output to image@Enregistrer la sortie de la commande dans l'image  
+Add Password Protection to a file your editing in vim.@Ajoutez une protection par mot de passe &agrave; un fichier que vous modifiez dans vim.  
+Show File System Hierarchy@Afficher la hi&eacute;rarchie du syst&egrave;me de fichiers  
+Kills a process that is locking a file.@Tue un processus qui verrouille un fichier.  
+Remove duplicate entries in a file without sorting.@Supprimez les entr&eacute;es en double dans un fichier sans tri.  
+Find Duplicate Files (based on size first, then MD5 hash)@Rechercher les fichiers en double (bas&eacute; sur la taille d'abord, puis sur le hachage MD5)  
+Python smtp server@Serveur SMTP Python  
+Insert the last command without the last argument (bash)@Ins&eacute;rer la derni&egrave;re commande sans le dernier argument (bash)  
+Display which distro is installed@Afficher quelle distribution est install&eacute;e  
+Copy your SSH public key on a remote machine for passwordless login - the easy way@Copiez votre cl&eacute; publique SSH sur une machine distante pour une connexion sans mot de passe - le moyen le plus simple  
+Extract tarball from internet without local saving@Extraire l'archive d'Internet sans sauvegarde locale  
+Find the process you are looking for minus the grepped one@Trouvez le processus que vous recherchez moins celui grepp&eacute;  
+Google Translate@Google Traduction  
+Matrix Style@Style de matrice  
+Rip audio from a video file.@Extraire l'audio d'un fichier vid&eacute;o.  
+Inserts the results of an autocompletion in the command line@Ins&egrave;re les r&eacute;sultats d'une auto-compl&eacute;tion dans la ligne de commande  
+Copy your ssh public key to a server from a machine that doesn't have ssh-copy-id@Copiez votre cl&eacute; publique ssh sur un serveur &agrave; partir d'une machine qui n'a pas ssh-copy-id  
+Replace spaces in filenames with underscores@Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+A fun thing to do with ram is actually open it up and take a peek. This command will show you all the string (plain text) values in ram@Une chose amusante &agrave; faire avec le b&eacute;lier est en fait de l'ouvrir et de jeter un coup d'&oelig;il. Cette commande vous montrera toutes les valeurs de cha&icirc;ne (texte brut) dans ram  
+Create a CD/DVD ISO image from disk.@Cr&eacute;ez une image ISO de CD/DVD &agrave; partir du disque.  
+Intercept stdout/stderr of another process@Intercepter stdout/stderr d'un autre processus  
+Define a quick calculator function@D&eacute;finir une fonction de calcul rapide  
+Stream YouTube URL directly to mplayer.@Diffusez l'URL YouTube directement sur mplayer.  
+Copy a file using pv and watch its progress@Copiez un fichier en utilisant pv et regardez sa progression  
+Graphical tree of sub-directories@Arborescence graphique des sous-r&eacute;pertoires  
+Easily search running processes (alias).@Recherchez facilement les processus en cours d'ex&eacute;cution (alias).  
+Rapidly invoke an editor to write a long, complex, or tricky command@Invoquez rapidement un &eacute;diteur pour &eacute;crire une commande longue, complexe ou d&eacute;licate  
+Git remove files which have been deleted@Git supprime les fichiers qui ont &eacute;t&eacute; supprim&eacute;s  
+Mkdir &amp; cd into it as single command@Mkdir &amp; cd dedans en tant que commande unique  
+Create a pdf version of a manpage@Cr&eacute;er une version pdf d'une page de manuel  
+Remove all but one specific file@Supprimer tous les fichiers sauf un  
+Make directory including intermediate directories@Cr&eacute;er un r&eacute;pertoire incluant des r&eacute;pertoires interm&eacute;diaires  
+Multiple variable assignments from command output in BASH@Plusieurs affectations de variables &agrave; partir de la sortie de commande dans BASH  
+Show apps that use internet connection at the moment. (Multi-Language)@Afficher les applications qui utilisent actuellement une connexion Internet. (Multilingue)  
+Edit a file on a remote host using vim@Modifier un fichier sur un h&ocirc;te distant &agrave; l'aide de vim  
+Job Control@Contr&ocirc;le des travaux  
+Generate a random password 30 characters long@G&eacute;n&eacute;rer un mot de passe al&eacute;atoire de 30 caract&egrave;res  
+Monitor progress of a command@Surveiller la progression d'une commande  
+Graph # of connections for each hosts.@Graphique # de connexions pour chaque h&ocirc;tes.  
+Search for a &lt;pattern&gt; string inside all files in the current directory@Recherche une cha&icirc;ne &lt;motif&gt; dans tous les fichiers du r&eacute;pertoire courant  
+Record a screencast and convert it to an mpeg@Enregistrez un screencast et convertissez-le en mpeg  
+Convert seconds to human-readable format@Convertir les secondes en format lisible par l'homme  
+Monitor the queries being run by MySQL@Surveiller les requ&ecirc;tes ex&eacute;cut&eacute;es par MySQL  
+Send pop-up notifications on Gnome@Envoyer des notifications contextuelles sur Gnome  
+Show numerical values for each of the 256 colors in bash@Afficher les valeurs num&eacute;riques pour chacune des 256 couleurs en bash  
+Remove security limitations from PDF documents using ghostscript@Supprimer les limitations de s&eacute;curit&eacute; des documents PDF &agrave; l'aide de ghostscript  
+Check your unread Gmail from the command line@V&eacute;rifiez votre Gmail non lu &agrave; partir de la ligne de commande  
+Search commandlinefu.com from the command line using the API@Recherchez commandlinefu.com &agrave; partir de la ligne de commande &agrave; l'aide de l'API  
+Display a cool clock on your terminal@Affichez une horloge cool sur votre terminal  
+(Debian/Ubuntu) Discover what package a file belongs to@(Debian/Ubuntu) D&eacute;couvrez &agrave; quel paquet appartient un fichier  
+Processor / memory bandwidthd? in GB/s@Bande passante processeur/m&eacute;moire ? en Go/s  
+Mount a .iso file in UNIX/Linux@Monter un fichier .iso sous UNIX/Linux  
+Get the 10 biggest files/folders for the current direcotry@Obtenez les 10 plus gros fichiers/dossiers pour le r&eacute;pertoire actuel  
+Create a persistent connection to a machine@Cr&eacute;er une connexion persistante &agrave; une machine  
+Remove a line in a text file. Useful to fix@Supprimer une ligne dans un fichier texte. Utile pour r&eacute;parer  
+Open Finder from the current Terminal location@Ouvrir le Finder &agrave; partir de l'emplacement actuel du terminal  
+Makes the permissions of file2 the same as file1@Rend les permissions du fichier2 identiques &agrave; celles du fichier1  
+Show a 4-way scrollable process tree with full details.@Afficher une arborescence de processus &agrave; d&eacute;filement quadridirectionnel avec tous les d&eacute;tails.  
+Attach screen over ssh@Attacher l'&eacute;cran sur ssh  
+Run a command only when load average is below a certain threshold@Ex&eacute;cuter une commande uniquement lorsque la charge moyenne est inf&eacute;rieure &agrave; un certain seuil  
+List all bash shortcuts@Lister tous les raccourcis bash  
+Start COMMAND, and kill it if still running after 5 seconds@D&eacute;marrez COMMAND et tuez-le s'il est toujours en cours d'ex&eacute;cution apr&egrave;s 5 secondes  
+Pretend to be busy in office to enjoy a cup of coffee@Faire semblant d'&ecirc;tre occup&eacute; au bureau pour savourer une tasse de caf&eacute;  
+Recursively remove all empty directories@Supprimer r&eacute;cursivement tous les r&eacute;pertoires vides  
+Create a quick back-up copy of a file@Cr&eacute;er une copie de sauvegarde rapide d'un fichier  
+To print a specific line from a file@Pour imprimer une ligne sp&eacute;cifique &agrave; partir d'un fichier  
+Directly ssh to host B that is only accessible through host A@Directement ssh &agrave; l'h&ocirc;te B qui n'est accessible que via l'h&ocirc;te A  
+Remove all files previously extracted from a tar(.gz) file.@Supprimez tous les fichiers pr&eacute;c&eacute;demment extraits d'un fichier tar (.gz).  
+Share a terminal screen with others@Partager un &eacute;cran de terminal avec d'autres  
+RTFM function@Fonction RTFM  
+Broadcast your shell thru ports 5000, 5001, 5002 ...@Diffusez votre shell via les ports 5000, 5001, 5002 ...  
+Edit a google doc with vim@Modifier un document Google avec vim  
+Eavesdrop on your system@&Eacute;couter votre syst&egrave;me  
+Run a file system check on your next boot.@Ex&eacute;cutez une v&eacute;rification du syst&egrave;me de fichiers lors de votre prochain d&eacute;marrage.  
+Nice weather forecast on your shell@Beau temps annonc&eacute; sur ta coquille  
+Retry the previous command until it exits successfully@R&eacute;essayez la commande pr&eacute;c&eacute;dente jusqu'&agrave; ce qu'elle se termine avec succ&egrave;s  
+Synchronize date and time with a server over ssh@Synchroniser la date et l'heure avec un serveur via ssh  
+Google text-to-speech in mp3 format@Google text-to-speech au format mp3  
+List only the directories@Lister uniquement les r&eacute;pertoires  
+What is my public IP-address?@Quelle est mon adresse IP publique ?  
+Which program is this port belongs to ?@A quel programme appartient ce port ?  
+Sort the size usage of a directory tree by gigabytes, kilobytes, megabytes, then bytes.@Triez l'utilisation de la taille d'une arborescence de r&eacute;pertoires par gigaoctets, kilooctets, m&eacute;gaoctets, puis octets.  
+Duplicate installed packages from one machine to the other (RPM-based systems)@Dupliquer les packages install&eacute;s d'une machine &agrave; l'autre (syst&egrave;mes bas&eacute;s sur RPM)  
+Draw kernel module dependancy graph.@Dessine le graphe de d&eacute;pendance des modules du noyau.  
+Download Youtube video with wget!@T&eacute;l&eacute;chargez la vid&eacute;o Youtube avec wget!  
+Binary Clock@Horloge binaire  
+Remind yourself to leave in 15 minutes@Rappelez-vous de partir dans 15 minutes  
+Download all images from a site@T&eacute;l&eacute;charger toutes les images d'un site  
+Find out how much data is waiting to be written to disk@D&eacute;couvrez combien de donn&eacute;es attendent d'&ecirc;tre &eacute;crites sur le disque  
+Backup all MySQL Databases to individual files@Sauvegardez toutes les bases de donn&eacute;es MySQL dans des fichiers individuels  
+Bring the word under the cursor on the :ex line in Vim@Amenez le mot sous le curseur sur la ligne :ex dans Vim  
+Make directory tree@Cr&eacute;er une arborescence de r&eacute;pertoires  
+Convert Youtube videos to MP3@Convertir des vid&eacute;os Youtube en MP3  
+Using `!#$' to referance backward-word@Utiliser `!#$' pour r&eacute;f&eacute;rencer un mot en arri&egrave;re  
+Use tee to process a pipe with two or more processes@Utilisez tee pour traiter un tuyau avec deux processus ou plus  
+Get your outgoing IP address@Obtenez votre adresse IP sortante  
+Port Knocking!@Port qui frappe!  
+Compare two directory trees.@Comparez deux arborescences de r&eacute;pertoires.  
+Add timestamp to history@Ajouter un horodatage &agrave; l'historique  
+Search recursively to find a word or phrase in certain file types, such as C code@Recherche r&eacute;cursive pour trouver un mot ou une phrase dans certains types de fichiers, tels que le code C  
+Recursively change permissions on files, leave directories alone.@Modifiez r&eacute;cursivement les autorisations sur les fichiers, laissez les r&eacute;pertoires seuls.  
+Find files that have been modified on your system in the past 60 minutes@Trouvez les fichiers qui ont &eacute;t&eacute; modifi&eacute;s sur votre syst&egrave;me au cours des 60 derni&egrave;res minutes  
+Quick access to ASCII code of a key@Acc&egrave;s rapide au code ASCII d'une cl&eacute;  
+Find files in a date range@Rechercher des fichiers dans une plage de dates  
+Run complex remote shell cmds over ssh, without escaping quotes@Ex&eacute;cutez des cmds shell distants complexes sur ssh, sans &eacute;chapper aux guillemets  
+A robust, modular log coloriser@Un coloreur de grumes robuste et modulaire  
+Intercept, monitor and manipulate a TCP connection.@Intercepter, surveiller et manipuler une connexion TCP.  
+Block known dirty hosts from reaching your machine@Emp&ecirc;chez les h&ocirc;tes sales connus d'atteindre votre machine  
+Check site ssl certificate dates@V&eacute;rifier les dates des certificats SSL du site  
+Control ssh connection@Contr&ocirc;ler la connexion ssh  
+Python version 3: Serve current directory tree at http://$HOSTNAME:8000/@Python version 3: Servir l'arborescence de r&eacute;pertoires actuelle &agrave; l'adresse http://$HOSTNAME:8000/  
+Ls not pattern@Ls sans un mod&egrave;le  
+Show apps that use internet connection at the moment.@Afficher les applications qui utilisent actuellement une connexion Internet.  
+Colorized grep in less@Grep coloris&eacute; en moins  
+Given a file path, unplug the USB device on which the file is located (the file must be on an USB device !)@&Eacute;tant donn&eacute; un chemin de fichier, d&eacute;branchez le p&eacute;riph&eacute;rique USB sur lequel se trouve le fichier (le fichier doit &ecirc;tre sur un p&eacute;riph&eacute;rique USB !) 
+Remove a line in a text file. Useful to fix &quot;ssh host key change&quot; warnings@Supprimer une ligne dans un fichier texte. Utile pour corriger les avertissements &quot;changement de cl&eacute; d'h&ocirc;te ssh&quot;  
+Save a file you edited in vim without the needed permissions (no echo)@Enregistrez un fichier que vous avez modifi&eacute; dans vim sans les autorisations n&eacute;cessaires (pas d'&eacute;cho)  
+Analyze traffic remotely over ssh w/ wireshark@Analysez le trafic &agrave; distance via ssh avec wireshark  
+Create a directory and change into it at the same time@Cr&eacute;er un r&eacute;pertoire et y acc&eacute;der en m&ecirc;me temps  
+Exclude multiple columns using AWK@Exclure plusieurs colonnes &agrave; l'aide d'AWK  
+Easily find megabyte eating files or directories@Trouvez facilement des m&eacute;gaoctets mangeant des fichiers ou des r&eacute;pertoires  
+Exclude .svn, .git and other VCS junk for a pristine tarball@Exclure .svn, .git et autres fichiers ind&eacute;sirables VCS pour une archive tar vierge  
+Remove blank lines from a file using grep and save output to new file@Supprimez les lignes vides d'un fichier &agrave; l'aide de grep et enregistrez la sortie dans un nouveau fichier  
+Delete a line from your shell history@Supprimer une ligne de l'historique de votre shell  
+Exit without saving history@Quitter sans enregistrer l'historique  
+How to establish a remote Gnu screen session that you can re-connect to@Comment &eacute;tablir une session d'&eacute;cran Gnu &agrave; distance &agrave; laquelle vous pouvez vous reconnecter  
+Copy a MySQL Database to a new Server via SSH with one command@Copiez une base de donn&eacute;es MySQL sur un nouveau serveur via SSH avec une seule commande  
+Get the IP of the host your coming from when logged in remotely@Obtenez l'adresse IP de l'h&ocirc;te d'o&ugrave; vous venez lorsque vous &ecirc;tes connect&eacute; &agrave; distance  
+Random Number Between 1 And X@Nombre al&eacute;atoire entre 1 et X  
+Notify yourself when a long-running command which has ALREADY STARTED is finished@Vous avertir lorsqu'une commande de longue dur&eacute;e qui a D&Eacute;J&Agrave; COMMENC&Eacute; est termin&eacute;e  
+Create colorized html file from Vim or Vimdiff@Cr&eacute;er un fichier html coloris&eacute; &agrave; partir de Vim ou Vimdiff  
+Output your microphone to a remote computer's speaker@Envoyez votre microphone au haut-parleur d'un ordinateur distant  
+Create a nifty overview of the hardware in your computer@Cr&eacute;ez un aper&ccedil;u astucieux du mat&eacute;riel de votre ordinateur  
+Save your sessions in vim to resume later@Enregistrez vos sessions dans vim pour les reprendre plus tard  
+Convert PDF to JPG@Convertir PDF en JPG  
+Bind a key with a command@Lier une cl&eacute; avec une commande  
+Find all file larger than 500M@Trouver tous les fichiers de plus de 500 Mo  
+GREP a PDF file.@GREP d'un fichier PDF.  
+Live ssh network throughput test@Test de d&eacute;bit du r&eacute;seau ssh en direct  
+Convert unixtime to human-readable@Convertir unixtime en lisible par l'homme  
+A fun thing to do with ram is actually open it up and take a peek. This command will show you all the string (plain text) values in ram@Une chose amusante &agrave; faire avec le b&eacute;lier est en fait de l'ouvrir et de jeter un coup d'&oelig;il. Cette commande vous montrera toutes les valeurs de cha&icirc;ne (texte brut) dans ram  
+Prettify an XML file@Embellir un fichier XML  
+Tell local Debian machine to install packages used by remote Debian machine@Dire &agrave; la machine Debian locale d'installer les packages utilis&eacute;s par la machine Debian distante  
+Lists all listening ports together with the PID of the associated process@R&eacute;pertorie tous les ports d'&eacute;coute avec le PID du processus associ&eacute;  
+Intersection between two files@Intersection entre deux fichiers  
+Alias HEAD for automatic smart output@Alias &#8203;&#8203;HEAD pour une sortie intelligente automatique  
+Colorful man@man color&eacute;  
+Prints line numbers@Imprime les num&eacute;ros de ligne  
+Diff on two variables@Diff sur deux variables  
+Manually Pause/Unpause Firefox Process with POSIX-Signals@Mettre en pause/r&eacute;tablir manuellement le processus Firefox avec des signaux POSIX  
+Use lynx to run repeating website actions@Utiliser lynx pour ex&eacute;cuter des actions r&eacute;p&eacute;t&eacute;es sur le site Web  
+Display a list of committers sorted by the frequency of commits@Afficher une liste de committers tri&eacute;s par fr&eacute;quence de commits  
+Check the status of 'dd' in progress (OS X)@V&eacute;rifier l'&eacute;tat de 'dd' en cours (OS X)  
+Convert seconds into minutes and seconds@Convertir les secondes en minutes et secondes  
+A child process which survives the parent's death (for sure)@Un processus enfant qui survit &agrave; la mort du parent (c'est certain)  
+Find usb device@Trouver un p&eacute;riph&eacute;rique USB  
+Take screenshot through SSH@Prendre une capture d'&eacute;cran via SSH  
+Opens vi/vim at pattern in file@Ouvre vi/vim au motif dans le fichier  
+April Fools' Day Prank@Farce du poisson d'avril  
+Copy working directory and compress it on-the-fly while showing progress@Copiez le r&eacute;pertoire de travail et compressez-le &agrave; la vol&eacute;e tout en affichant la progression  
+Pipe stdout and stderr, etc., to separate commands@Pipe stdout et stderr, etc., pour s&eacute;parer les commandes  
+Schedule a script or command in x num hours, silently run in the background even if logged out@Planifiez un script ou une commande en x nombre d'heures, ex&eacute;cut&eacute; silencieusement en arri&egrave;re-plan m&ecirc;me si vous &ecirc;tes d&eacute;connect&eacute;  
+Go to parent directory of filename edited in last command@Aller au r&eacute;pertoire parent du nom de fichier modifi&eacute; dans la derni&egrave;re commande  
+Draw a Sierpinski triangle@Dessiner un triangle de Sierpinski  
+Make anything more awesome@Rendre quelque chose de plus g&eacute;nial  
+List all files opened by a particular command@Lister tous les fichiers ouverts par une commande particuli&egrave;re  
+Gets a random Futurama quote from /.@Obtient une citation Futurama al&eacute;atoire de /.  
+Recursive search and replace old with new string, inside files@Recherche r&eacute;cursive et remplacement de l'ancien par une nouvelle cha&icirc;ne, &agrave; l'int&eacute;rieur des fichiers  
+Shut of the screen.@Arr&ecirc;t de l'&eacute;cran.  
+Runs a bash script in debugging mode@Ex&eacute;cute un script bash en mode d&eacute;bogage  
+List the number and type of active network connections@R&eacute;pertorier le nombre et le type de connexions r&eacute;seau actives  
+Encrypted archive with openssl and tar@Archive crypt&eacute;e avec openssl et tar  
+Create strong, but easy to remember password@Cr&eacute;er un mot de passe fort, mais facile &agrave; retenir  
+Use file(1) to view device information@Utilisez file(1) pour afficher les informations sur l'appareil  
+Prevent accidents while using wildcards@Pr&eacute;venir les accidents lors de l'utilisation de caract&egrave;res g&eacute;n&eacute;riques  
+Insert the last argument of the previous command@Ins&eacute;rer le dernier argument de la commande pr&eacute;c&eacute;dente  
+View the newest xkcd comic.@Voir la nouvelle bande dessin&eacute;e xkcd.  
+Press Any Key to Continue@Appuyez sur n'importe quelle touche pour continuer  
+Backup all your commandlinefu.com favourites to a plaintext file@Sauvegardez tous vos favoris commandlinefu.com dans un fichier en clair  
+Remove color codes (special characters) with sed@Supprimer les codes de couleur (caract&egrave;res sp&eacute;ciaux) avec sed  
+Throttle bandwidth with cstream@Limiter la bande passante avec cstream  
+Run a long job and notify me when it's finished@Ex&eacute;cutez un long travail et informez-moi quand il est termin&eacute;  
+When feeling down, this command helps@Lorsque vous vous sentez d&eacute;prim&eacute;, cette commande aide  
+Nicely display permissions in octal format with filename@Affichez bien les autorisations au format octal avec le nom de fichier  
+Create a single-use TCP (or UDP) proxy@Cr&eacute;er un proxy TCP (ou UDP) &agrave; usage unique  
+Find geographical location of an ip address@Trouver l'emplacement g&eacute;ographique d'une adresse IP  
+Read manpage of a unix command as pdf in preview (Os X)@Lire la page de manuel d'une commande unix au format pdf dans l'aper&ccedil;u (Os X)  
+Instead of writing a multiline if/then/else/fi construct you can do that by one line@Au lieu d'&eacute;crire une construction multiligne if/then/else/fi vous pouvez le faire par une ligne  
+Switch 2 characters on a command line.@Changez 2 caract&egrave;res sur une ligne de commande.  
+Speed up launch of firefox@Acc&eacute;l&eacute;rer le lancement de firefox  
+Format txt as table not joining empty columns@Formater txt en tant que tableau ne joignant pas les colonnes vides  
+Shell recorder with replay@Enregistreur Shell avec relecture  
+Bind a key with a command@Lier une cl&eacute; avec une commande  
+Exclude a column with cut@Exclure une colonne avec coupe  
+List files with quotes around each filename@Lister les fichiers avec des guillemets autour de chaque nom de fichier  
+Duplicate several drives concurrently@Dupliquer plusieurs disques simultan&eacute;ment  
+Create an audio test CD of sine waves from 1 to 99 Hz@Cr&eacute;er un CD de test audio d'ondes sinuso&iuml;dales de 1 &agrave; 99 Hz  
+Listen to BBC Radio from the command line.@&Eacute;coutez BBC Radio &agrave; partir de la ligne de commande.  
+Get your external IP address@Obtenez votre adresse IP externe  
+List installed deb packages by size@R&eacute;pertorier les packages deb install&eacute;s par taille  
+Monitor bandwidth by pid@Surveiller la bande passante par pid  
+Execute a command with a timeout@Ex&eacute;cuter une commande avec un timeout  
+Send echo to socket network@Envoyer un &eacute;cho au r&eacute;seau de socket  
+Use vim to get colorful diff output@Utilisez vim pour obtenir une sortie de diff color&eacute;e  
+Find files containing text@Rechercher des fichiers contenant du texte  
+Perform a branching conditional@Effectuer un branchement conditionnel  
+Resume scp of a big file@Reprendre scp d'un gros dossier  
+Brute force discover@D&eacute;couverte de la force brute  
+Use tee + process substitution to split STDOUT to multiple commands@Utilisez tee + substitution de processus pour diviser STDOUT en plusieurs commandes  
+Annotate tail -f with timestamps@Annoter tail -f avec des horodatages  
+Fast, built-in pipe-based data sink@Collecteur de donn&eacute;es rapide et int&eacute;gr&eacute; bas&eacute; sur un tube  
+Repoint an existing symlink to a new location@Repointer un lien symbolique existant vers un nouvel emplacement  
+GRUB2: set Super Mario as startup tune@GRUB2 : d&eacute;finissez Super Mario comme morceau de d&eacute;marrage  
+Find Duplicate Files (based on size first, then MD5 hash)@Rechercher les fichiers en double (bas&eacute; sur la taille d'abord, puis sur le hachage MD5)  
+Close a hanging ssh session@Fermer une session ssh suspendue  
+Recover a deleted file@R&eacute;cup&eacute;rer un fichier supprim&eacute;  
+Makes you look busy@Vous donne l'air occup&eacute;  
+Convert filenames in current directory to lowercase@Convertir les noms de fichiers du r&eacute;pertoire courant en minuscules  
+Find files that were modified by a given command@Trouver les fichiers qui ont &eacute;t&eacute; modifi&eacute;s par une commande donn&eacute;e  
+Quickly graph a list of numbers@Tracer rapidement une liste de nombres  
+Cut out a piece of film from a file. Choose an arbitrary length and starting time.@D&eacute;coupez un morceau de film &agrave; partir d'un fichier. Choisissez une dur&eacute;e et une heure de d&eacute;but arbitraires.  
+Analyse an Apache access log for the most common IP addresses@Analyser un journal d'acc&egrave;s Apache pour les adresses IP les plus courantes  
+Prevent large files from being cached in memory (backups!)@Emp&ecirc;cher les fichiers volumineux d'&ecirc;tre mis en cache dans la m&eacute;moire (sauvegardes !)  
+Convert single digit to double digits@Convertir un seul chiffre en deux chiffres  
+Limit the cpu usage of a process@Limiter l'utilisation du processeur d'un processus  
+Generate an XKCD #936 style 4 word password@G&eacute;n&eacute;rer un mot de passe de 4 mots de style XKCD #936  
+Single use vnc-over-ssh connection@Connexion vnc sur ssh &agrave; usage unique  
+Diff remote webpages using wget@Diffuser des pages Web distantes &agrave; l'aide de wget  
+List alive hosts in specific subnet@R&eacute;pertorier les h&ocirc;tes actifs dans un sous-r&eacute;seau sp&eacute;cifique  
+Processes per user counter@Compteur de processus par utilisateur  
+View all date formats, Quick Reference Help Alias@Afficher tous les formats de date, Aide de r&eacute;f&eacute;rence rapide Alias  
+Your terminal sings@Votre terminal chante  
+Make sure a script is run in a terminal.@Assurez-vous qu'un script est ex&eacute;cut&eacute; dans un terminal.  
+Matrix Style@Style de matrice  
+Quickly (soft-)reboot skipping hardware checks@Red&eacute;marrage rapide (en douceur) en sautant les v&eacute;rifications mat&eacute;rielles  
+Pipe output of a command to your clipboard@Dirigez la sortie d'une commande vers votre presse-papiers  
+Ls -hog --&gt; a more compact ls -l@Ls -hog --&gt; un ls -l plus compact  
+Git remove files which have been deleted@Git supprime les fichiers qui ont &eacute;t&eacute; supprim&eacute;s  
+Efficiently print a line deep in a huge log file@Imprimez efficacement une ligne en profondeur dans un &eacute;norme fichier journal  
+Silently ensures that a FS is mounted on the given mount point (checks if it's OK, otherwise unmount, create dir and mount)@S'assure silencieusement qu'un FS est mont&eacute; sur le point de montage donn&eacute; (v&eacute;rifie si tout va bien, sinon d&eacute;montez, cr&eacute;ez un r&eacute;pertoire et montez) 
+Sniff network traffic on a given interface and displays the IP addresses of the machines communicating with the current host (one IP per line)@Renifler le trafic r&eacute;seau sur une interface donn&eacute;e et afficher les adresses IP des machines communiquant avec l'h&ocirc;te actuel (une IP par ligne)
+Check if system is 32bit or 64bit@V&eacute;rifiez si le syst&egrave;me est 32 bits ou 64 bits  
+Create a local compressed tarball from remote host directory@Cr&eacute;er une archive compress&eacute;e locale &agrave; partir du r&eacute;pertoire de l'h&ocirc;te distant  
+Rapidly invoke an editor to write a long, complex, or tricky command@Invoquez rapidement un &eacute;diteur pour &eacute;crire une commande longue, complexe ou d&eacute;licate  
+Send a circular@Envoyer une circulaire  
+The BOFH Excuse Server@Le serveur d'excuses BOFH  
+I finally found out how to use notify-send with at or cron@J'ai enfin d&eacute;couvert comment utiliser notify-send avec at ou cron  
+See udev at work@Voir udev au travail  
+Bash: hotkey to put current commandline to text-editor@Bash : raccourci clavier pour placer la ligne de commande actuelle dans l'&eacute;diteur de texte  
+Show current working directory of a process@Afficher le r&eacute;pertoire de travail actuel d'un processus  
+Base conversions with bc@Conversions de base avec bc  
+Put readline into vi mode@Mettre readline en mode vi  
+Transfer SSH public key to another machine in one step@Transf&eacute;rer la cl&eacute; publique SSH vers une autre machine en une seule &eacute;tape  
+Start a command on only one CPU core@D&eacute;marrer une commande sur un seul c&oelig;ur de processeur  
+Convert uppercase files to lowercase files@Convertir des fichiers majuscules en fichiers minuscules  
+List of commands you use most often@Liste des commandes que vous utilisez le plus souvent  
+Notepad in a browser (type this in the URL bar)@Bloc-notes dans un navigateur (tapez ceci dans la barre d'URL)  
+Display current time in requested time zones.@Afficher l'heure actuelle dans les fuseaux horaires demand&eacute;s.  
+Dmesg with colored human-readable dates@Dmesg avec des dates color&eacute;es lisibles par l'homme  
+Stamp a text line on top of the pdf pages.@Tamponnez une ligne de texte en haut des pages pdf.  
+Print diagram of user/groups@Imprimer le diagramme des utilisateurs/groupes  
+Create a file server, listening in port 7000@Cr&eacute;er un serveur de fichiers, &eacute;coutant sur le port 7000  
+Bypass any aliases and functions for the command@Ignorer tous les alias et fonctions de la commande  
+Share your terminal session real-time@Partagez votre session de terminal en temps r&eacute;el  
+Df without line wrap on long FS name@Df sans retour &agrave; la ligne sur le nom FS long  
+Stderr in color@Stderr en couleur  
+VI config to save files with +x when a shebang is found on line 1@Configuration VI pour enregistrer les fichiers avec +x lorsqu'un shebang est trouv&eacute; sur la ligne 1  
+Create a single PDF from multiple images with ImageMagick@Cr&eacute;ez un seul PDF &agrave; partir de plusieurs images avec ImageMagick  
+Dd with progress bar and statistics@Dd avec barre de progression et statistiques  
+Delete all empty lines from a file with vim@Supprimer toutes les lignes vides d'un fichier avec vim  
+Perl one-liner to get the current week number@Perl one-liner pour obtenir le num&eacute;ro de la semaine en cours  
+Backup all MySQL Databases to individual files@Sauvegardez toutes les bases de donn&eacute;es MySQL dans des fichiers individuels  
+Ultimate current directory usage command@Commande d'utilisation ultime du r&eacute;pertoire actuel  
+Terminal - Show directories in the PATH, one per line with sed and bash3.X `here string'@Terminal - Afficher les r&eacute;pertoires dans le PATH, un par ligne avec sed et bash3.X `here string'  
+Have an ssh session open forever@Avoir une session ssh ouverte pour toujours  
+Recursively compare two directories and output their differences on a readable format@Comparer r&eacute;cursivement deux r&eacute;pertoires et afficher leurs diff&eacute;rences dans un format lisible  
+DELETE all those duplicate files but one based on md5 hash comparision in the current directory tree@SUPPRIMER tous ces fichiers en double sauf un bas&eacute; sur la comparaison de hachage md5 dans l'arborescence de r&eacute;pertoires actuelle  
+Find broken symlinks and delete them@Trouvez les liens symboliques cass&eacute;s et supprimez-les  
+List recorded formular fields of Firefox@Lister les champs de formulaire enregistr&eacute;s de Firefox  
+Using awk to sum/count a column of numbers.@Utiliser awk pour additionner/compter une colonne de nombres.  
+Get all the keyboard shortcuts in screen@Obtenez tous les raccourcis clavier &agrave; l'&eacute;cran  
+Get list of servers with a specific port open@Obtenir la liste des serveurs avec un port sp&eacute;cifique ouvert  
+Return external ip@Renvoyer l'ip externe  
+Simple multi-user encrypted chat server for 5 users@Serveur de chat crypt&eacute; multi-utilisateurs simple pour 5 utilisateurs  
+Check if your ISP is intercepting DNS queries@V&eacute;rifiez si votre FAI intercepte les requ&ecirc;tes DNS  
+Remove a range of lines from a file@Supprimer une plage de lignes d'un fichier  
+Extract audio from Flash video (*.flv) as mp3 file@Extraire l'audio d'une vid&eacute;o Flash (*.flv) sous forme de fichier mp3  
+Cat a bunch of small files with file indication@Cat un tas de petits fichiers avec indication de fichier  
+Stop Flash from tracking everything you do.@Emp&ecirc;chez Flash de suivre tout ce que vous faites.  
+List all open ports and their owning executables@Lister tous les ports ouverts et leurs ex&eacute;cutables propri&eacute;taires  
+Purge configuration files of removed packages on debian based systems@Purger les fichiers de configuration des paquets supprim&eacute;s sur les syst&egrave;mes bas&eacute;s sur Debian  
+Monitor open connections for httpd including listen, count and sort it per IP@Surveiller les connexions ouvertes pour httpd, y compris &eacute;couter, compter et trier par IP  
+Convert text to picture@Convertir du texte en image  
+Remote screenshot@Capture d'&eacute;cran &agrave; distance  
+Define words and phrases with google.@D&eacute;finissez des mots et des phrases avec google.  
+List all authors of a particular git project@Lister tous les auteurs d'un projet git particulier  
+Track flights from the command line@Suivre les vols depuis la ligne de commande  
+Harder, Faster, Stronger SSH clients@Clients SSH plus durs, plus rapides et plus forts  
+Clean up poorly named TV shows.@Nettoyez les &eacute;missions de t&eacute;l&eacute;vision mal nomm&eacute;es.  
+Pretty Print a simple csv in the command line@Pretty Print un simple csv dans la ligne de commande  
+Cleanup firefox's database.@Nettoyez la base de donn&eacute;es de firefox.  
+Check open ports@V&eacute;rifier les ports ouverts  
+Find Duplicate Files (based on MD5 hash)@Trouver les fichiers en double (bas&eacute; sur le hachage MD5)  
+Triple monitoring in screen@Triple surveillance &agrave; l'&eacute;cran  
+Smiley Face Bash Prompt@Invite Smiley Face Bash  
+Save an HTML page, and covert it to a .pdf file@Enregistrez une page HTML et convertissez-la en un fichier .pdf  
+Create an emergency swapfile when the existing swap space is getting tight@Cr&eacute;er un fichier d'&eacute;change d'urgence lorsque l'espace d'&eacute;change existant devient restreint  
+Relocate a file or directory, but keep it accessible on the old location throug a simlink.@D&eacute;placez un fichier ou un r&eacute;pertoire, mais gardez-le accessible &agrave; l'ancien emplacement via un lien symbolique.  
+A short counter@Un petit compteur  
+Rsync remote data as root using sudo@Rsync donn&eacute;es distantes en tant que root en utilisant sudo  
+Convert all MySQL tables and fields to UTF8@Convertir toutes les tables et tous les champs MySQL en UTF8  
+Pipe STDOUT to vim@Canaliser STDOUT vers vim  
+Copy stdin to your X11 buffer@Copiez stdin dans votre tampon X11  
+Get info about remote host ports and OS detection@Obtenir des informations sur les ports h&ocirc;tes distants et la d&eacute;tection du syst&egrave;me d'exploitation  
+Copy a file structure without files@Copier une structure de fichiers sans fichiers  
+Start a new command in a new screen window@D&eacute;marrer une nouvelle commande dans une nouvelle fen&ecirc;tre d'&eacute;cran  
+Convert from hexidecimal or octal to decimal@Conversion d'hexad&eacute;cimal ou d'octal en d&eacute;cimal  
+Save man-page as pdf@Enregistrer la page de manuel au format pdf  
+Convert seconds into minutes and seconds@Convertir les secondes en minutes et secondes  
+List files accessed by a command@Lister les fichiers acc&eacute;d&eacute;s par une commande  
+Short and elegant way to backup a single file before you change it.@Un moyen court et &eacute;l&eacute;gant de sauvegarder un seul fichier avant de le modifier.  
+Find all the links to a file@Trouver tous les liens vers un fichier  
+Recover tmp flash videos (deleted immediately by the browser plugin)@R&eacute;cup&eacute;rer des vid&eacute;os flash tmp (supprim&eacute;es imm&eacute;diatement par le plugin du navigateur)  
+Rsync instead of scp@Rsync au lieu de scp  
+Send a circular@Envoyer une circulaire  
+Visit wikileaks.com@Visitez wikileaks.com  
+Make sudo forget password instantly@Faire en sorte que sudo oublie le mot de passe instantan&eacute;ment  
+Print a row of characters across the terminal@Imprimer une rang&eacute;e de caract&egrave;res sur le terminal  
+Download and unpack tarball without leaving it sitting on your hard drive@T&eacute;l&eacute;chargez et d&eacute;compressez l'archive tar sans la laisser sur votre disque dur  
+Colored diff ( via vim ) on 2 remotes files on your local computer.@Diff de couleur (via vim) sur 2 fichiers distants sur votre ordinateur local.  
+Split a tarball into multiple parts@Diviser une archive tar en plusieurs parties  
+Remove executable bit from all files in the current directory recursively, excluding other directories@Supprimer le bit ex&eacute;cutable de tous les fichiers du r&eacute;pertoire courant de mani&egrave;re r&eacute;cursive, &agrave; l'exclusion des autres r&eacute;pertoires   
+More precise BASH debugging@D&eacute;bogage BASH plus pr&eacute;cis  
+Get all pdf and zips from a website using wget@Obtenez tous les pdf et zips d'un site Web en utilisant wget  
+Mount the first NTFS partition inside a VDI file (VirtualBox Disk Image)@Montez la premi&egrave;re partition NTFS dans un fichier VDI (VirtualBox Disk Image)  
+Show me a histogram of the busiest minutes in a log file:@Montrez-moi un histogramme des minutes les plus charg&eacute;es dans un fichier journal :  
+Print a great grey scale demo !@Imprimez une superbe d&eacute;mo en niveaux de gris !  
+Create a list of binary numbers@Cr&eacute;er une liste de nombres binaires  
+Create a system overview dashboard on F12 key@Cr&eacute;er un tableau de bord de pr&eacute;sentation du syst&egrave;me sur la touche F12  
+Coloured tail@Queue color&eacute;e  
+Disable history for current shell session@D&eacute;sactiver l'historique pour la session shell en cours  
+Search for commands from the command line@Rechercher des commandes &agrave; partir de la ligne de commande  
+How to run X without any graphics hardware@Comment ex&eacute;cuter X sans aucun mat&eacute;riel graphique  
+Install a Firefox add-on/theme to all users@Installer un add-on/th&egrave;me Firefox pour tous les utilisateurs  
+Clear current line@Effacer la ligne actuelle  
+Quickly generate an MD5 hash for a text string using OpenSSL@G&eacute;n&eacute;rez rapidement un hachage MD5 pour une cha&icirc;ne de texte &agrave; l'aide d'OpenSSL  
+Terminate a frozen SSH-session@Mettre fin &agrave; une session SSH gel&eacute;e  
+Backup a remote database to your local filesystem@Sauvegardez une base de donn&eacute;es distante sur votre syst&egrave;me de fichiers local  
+Generat a Random MAC address@G&eacute;n&eacute;rer une adresse MAC al&eacute;atoire  
+Batch convert files to utf-8@Conversion par lots de fichiers en utf-8  
+Get http headers for an url@Obtenir les en-t&ecirc;tes http pour une URL  
+Random git-commit message@Message git-commit al&eacute;atoire  
+Generate QR code for a WiFi hotspot@G&eacute;n&eacute;rer un code QR pour un hotspot WiFi  
+Check if system is 32bit or 64bit@V&eacute;rifiez si le syst&egrave;me est 32 bits ou 64 bits  
+Vi a remote file@Vi  un fichier distant  
+Show permissions of current directory and all directories upwards to /@Afficher les autorisations du r&eacute;pertoire actuel et de tous les r&eacute;pertoires vers le haut vers /  
+Move you up one directory quickly@Vous d&eacute;placer rapidement d'un r&eacute;pertoire  
+Hide the name of a process listed in the `ps` output@Masquer le nom d'un processus r&eacute;pertori&eacute; dans la sortie `ps`  
+Remove a line from a file using sed (useful for updating known SSH server keys when they change)@Supprimer une ligne d'un fichier &agrave; l'aide de sed (utile pour mettre &agrave; jour les cl&eacute;s de serveur SSH connues lorsqu'elles changent)   
+Show what PID is listening on port 80 on Linux@Montrer quel PID &eacute;coute sur le port 80 sous Linux  
+List by size all of the directories in a given tree.@Liste par taille tous les r&eacute;pertoires d'une arborescence donn&eacute;e.  
+Find the most recently changed files (recursively)@Trouver les fichiers les plus r&eacute;cemment modifi&eacute;s (r&eacute;cursivement)  
+All IP connected to my host@Toutes les IP connect&eacute;es &agrave; mon h&eacute;bergeur  
+Figure out what shell you're running@D&eacute;terminez quel shell vous utilisez  
+Download a file and uncompress it while it downloads@T&eacute;l&eacute;chargez un fichier et d&eacute;compressez-le pendant le t&eacute;l&eacute;chargement  
+Rename all .jpeg and .JPG files to have .jpg extension@Renommez tous les fichiers .jpeg et .JPG pour avoir l'extension .jpg  
+Remove Thumbs.db files from folders@Supprimer les fichiers Thumbs.db des dossiers  
+List open files that have no links to them on the filesystem@Liste les fichiers ouverts qui n'ont aucun lien vers eux sur le syst&egrave;me de fichiers  
+Display BIOS Information@Afficher les informations du BIOS  
+Open path with your default program (on Linux/*BSD)@Ouvrez le chemin avec votre programme par d&eacute;faut (sur Linux/*BSD)  
+Copy an element from the previous command@Copier un &eacute;l&eacute;ment de la commande pr&eacute;c&eacute;dente  
+View user activity per directory.@Afficher l'activit&eacute; des utilisateurs par r&eacute;pertoire.  
+Use the previous commands params in the current command@Utiliser les param&egrave;tres des commandes pr&eacute;c&eacute;dentes dans la commande actuelle  
+Mirror a directory structure from websites with an Apache-generated file indexes@Mettre en miroir une structure de r&eacute;pertoires &agrave; partir de sites Web avec des index de fichiers g&eacute;n&eacute;r&eacute;s par Apache  
+Quickly share code or text from vim to others.@Partagez rapidement du code ou du texte de vim avec d'autres.  
+Copy from host1 to host2, through your host@Copiez de host1 &agrave; host2, via votre h&eacute;bergeur  
+Convert all Flac in a directory to Mp3 using maximum quality variable bitrate@Convertissez tous les Flac d'un r&eacute;pertoire en MP3 en utilisant un d&eacute;bit binaire variable de qualit&eacute; maximale  
+Limit bandwidth usage by apt-get@Limiter l'utilisation de la bande passante par apt-get  
+Tune your guitar from the command line.@Accordez votre guitare depuis la ligne de commande.  
+Grep -v with multiple patterns.@Grep -v avec plusieurs mod&egrave;les.  
+Redirect stdout and stderr each to separate files and print both to the screen@Rediriger stdout et stderr chacun vers des fichiers s&eacute;par&eacute;s et imprimer les deux &agrave; l'&eacute;cran  
+Identify long lines in a file@Identifier les longues lignes dans un fichier  
+Use all the cores or CPUs when compiling@Utiliser tous les c&oelig;urs ou processeurs lors de la compilation  
+Prints total line count contribution per user for an SVN repository@Imprime la contribution totale du nombre de lignes par utilisateur pour un r&eacute;f&eacute;rentiel SVN  
+Analyze awk fields@Analyser les champs awk  
+Colored SVN diff@Diff&eacute;rence SVN color&eacute;e  
+Run a command, store the output in a pastebin on the internet and place the URL on the xclipboard@Ex&eacute;cutez une commande, stockez la sortie dans un pastebin sur Internet et placez l'URL sur le xclipboard  
+Show git branches by date - useful for showing active branches@Afficher les branches git par date - utile pour afficher les branches actives  
+Find if the command has an alias@Rechercher si la commande a un alias  
+Find last reboot time@Trouver l'heure du dernier red&eacute;marrage  
+Show a config file without comments@Afficher un fichier de configuration sans commentaires  
+Start screen in detached mode@&Eacute;cran de d&eacute;marrage en mode d&eacute;tach&eacute;  
+Iso-8859-1 to utf-8 safe recursive rename@Iso-8859-1 &agrave; utf-8 renommage r&eacute;cursif s&eacute;curis&eacute;  
+Create dir tree@Cr&eacute;er une arborescence de r&eacute;pertoires  
+Run any GUI program remotely@Ex&eacute;cutez n'importe quel programme GUI &agrave; distance  
+Delete all empty lines from a file with vim@Supprimer toutes les lignes vides d'un fichier avec vim  
+List the files any process is using@Lister les fichiers utilis&eacute;s par n'importe quel processus  
+Show biggest files/directories, biggest first with 'k,m,g' eyecandy@Afficher les plus gros fichiers/r&eacute;pertoires, le plus gros en premier avec 'k, m, g' eyecandy  
+Change directory to actual path instead of symlink path@Remplacez le r&eacute;pertoire par le chemin r&eacute;el au lieu du chemin du lien symbolique  
+Download an entire static website to your local machine@T&eacute;l&eacute;chargez un site Web statique complet sur votre machine locale  
+Recursively remove .svn directories from the current location@Supprimer r&eacute;cursivement les r&eacute;pertoires .svn de l'emplacement actuel  
+Count files beneath current directory (including subfolders)@Compter les fichiers sous le r&eacute;pertoire actuel (y compris les sous-dossiers)  
+Read and write to TCP or UDP sockets with common bash tools@Lire et &eacute;crire sur les sockets TCP ou UDP avec les outils bash courants  
+Use top to monitor only all processes with the same name fragment 'foo'@Utilisez top pour surveiller uniquement tous les processus avec le m&ecirc;me fragment de nom 'foo'  
+Delete command line last word@Supprimer le dernier mot de la ligne de commande  
+Draw kernel module dependancy graph.@Dessine le graphe de d&eacute;pendance des modules du noyau.  
+Color man pages@Pages de manuel en couleur  
+Print without executing the last command that starts with...@Imprimer sans ex&eacute;cuter la derni&egrave;re commande qui commence par...  
+What is the use of this switch ?@A quoi sert cet interrupteur ?  
+Save the list of all available commands in your box to a file@Enregistrez la liste de toutes les commandes disponibles dans votre bo&icirc;te dans un fichier  
+Protect directory from an overzealous rm -rf *@Prot&eacute;ger le r&eacute;pertoire d'un rm -rf trop z&eacute;l&eacute; *  
+Watch RX/TX rate of an interface in kb/s@Regarder le d&eacute;bit RX/TX d'une interface en kb/s  
+List 10 largest directories in current directory@Lister les 10 plus grands r&eacute;pertoires du r&eacute;pertoire courant  
+Reuse last parameter@R&eacute;utiliser le dernier param&egrave;tre  
+Blink LED Port of NIC Card@LED clignotante Port de la carte r&eacute;seau  
+Pretend to be busy in office to enjoy a cup of coffee@Faire semblant d'&ecirc;tre occup&eacute; au bureau pour savourer une tasse de caf&eacute;  
+See where a shortened url takes you before click@Voir o&ugrave; une URL raccourcie vous m&egrave;ne avant de cliquer  
+Stream YouTube URL directly to MPlayer@Diffusez l'URL YouTube directement sur MPlayer  
+Generate a Random MAC address@G&eacute;n&eacute;rer une adresse MAC al&eacute;atoire  
+Running scripts after a reboot for non-root users .@Ex&eacute;cution de scripts apr&egrave;s un red&eacute;marrage pour les utilisateurs non root .  
+Run command on a group of nodes in parallel@Ex&eacute;cuter la commande sur un groupe de n&oelig;uds en parall&egrave;le  
+Make, or run a script, everytime a file in a directory is modified@Cr&eacute;er ou ex&eacute;cuter un script chaque fois qu'un fichier dans un r&eacute;pertoire est modifi&eacute;  
+Choose from a nice graphical menu which DI.FM radio station to play@Choisissez dans un joli menu graphique quelle station de radio DI.FM &eacute;couter  
+Check the status of 'dd' in progress (OS X)@V&eacute;rifier l'&eacute;tat de 'dd' en cours (OS X)  
+Ping scanning without nmap@Balayage ping sans nmap  
+Convert a Nero Image File to ISO@Convertir un fichier image Nero en ISO  
+View network activity of any application or user in realtime@Afficher l'activit&eacute; r&eacute;seau de n'importe quelle application ou utilisateur en temps r&eacute;el  
+Copy with progress@Copie avec progression  
+Print a list of standard error codes and descriptions.@Imprimez une liste des codes d'erreur standard et des descriptions.  
+Recursive search and replace old with new string, inside files@Recherche r&eacute;cursive et remplacement de l'ancien par une nouvelle cha&icirc;ne, &agrave; l'int&eacute;rieur des fichiers  
+Generate random password@G&eacute;n&eacute;rer un mot de passe al&eacute;atoire  
+A function to output a man page as a pdf file@Une fonction pour produire une page de manuel sous forme de fichier pdf  
+Unbelievable Shell Colors, Shading, Backgrounds, Effects for Non-X@Couleurs de coque incroyables, ombrage, arri&egrave;re-plans, effets pour non-X  
+Show directories in the PATH, one per line@Afficher les r&eacute;pertoires dans le PATH, un par ligne  
+Move all images in a directory into a directory hierarchy based on year, month and day based on exif information@D&eacute;placez toutes les images d'un r&eacute;pertoire dans une hi&eacute;rarchie de r&eacute;pertoires bas&eacute;e sur l'ann&eacute;e, le mois et le jour en fonction des informations exif 
+Follow tail by name (fix for rolling logs with tail -f)@Suivre la queue par son nom (correction pour les journaux roulants avec la queue -f)  
+Convert &quot;man page&quot; to text file@Convertir &quot;man page&quot; en fichier texte  
+Get your public ip using dyndns@Obtenez votre adresse IP publique en utilisant dyndns  
+Display current bandwidth statistics@Afficher les statistiques de bande passante actuelles  
+Given process ID print its environment variables@L'ID de processus donn&eacute; imprime ses variables d'environnement  
+Restoring some data from a corrupted text file@Restauration de certaines donn&eacute;es &agrave; partir d'un fichier texte corrompu  
+View the system console remotely@Afficher la console syst&egrave;me &agrave; distance  
+Look up the definition of a word@Rechercher la d&eacute;finition d'un mot  
+Diff files on two remote hosts.@Diff fichiers sur deux h&ocirc;tes distants.  
+Ctrl+S Ctrl+Q terminal output lock and unlock@Ctrl+S Ctrl+Q verrouillage et d&eacute;verrouillage de la sortie du terminal  
+Redirect STDIN@Rediriger STDIN  
+I hate `echo X | Y`@Je d&eacute;teste `echo X | Y`  
+Send keypresses to an X application@Envoyer des pressions de touches &agrave; une application X  
+Add calendar to desktop wallpaper@Ajouter un calendrier au fond d'&eacute;cran du bureau  
+Browse system RAM in a human readable form@Parcourir la RAM syst&egrave;me sous une forme lisible par l'homme  
+Backup your hard drive with dd@Sauvegardez votre disque dur avec dd  
+Calculates the date 2 weeks ago from Saturday the specified format.@Calcule la date il y a 2 semaines &agrave; partir de samedi au format sp&eacute;cifi&eacute;.  
+Get Cisco network information@Obtenir des informations sur le r&eacute;seau Cisco  
+Press ctrl+r in a bash shell and type a few letters of a previous command@Appuyez sur ctrl + r dans un shell bash et tapez quelques lettres d'une commande pr&eacute;c&eacute;dente  
+Extract audio from a video@Extraire l'audio d'une vid&eacute;o  
+Quick glance at who's been using your system recently@Coup d'&oelig;il rapide sur qui a utilis&eacute; votre syst&egrave;me r&eacute;cemment  
+Ping a range of IP addresses@Ping une plage d'adresses IP  
+Use last argument of last command@Utiliser le dernier argument de la derni&egrave;re commande  
+Show which programs are listening on TCP and UDP ports@Afficher les programmes qui &eacute;coutent sur les ports TCP et UDP  
+Determine if a port is open with bash@D&eacute;terminer si un port est ouvert avec bash  
+Search for a process by name@Rechercher un processus par nom  
+Download all mp3's listed in an html page@T&eacute;l&eacute;charger tous les mp3 r&eacute;pertori&eacute;s dans une page html  
+Run the built in PHP-server in current folder@Ex&eacute;cutez le serveur PHP int&eacute;gr&eacute; dans le dossier actuel  
+Press enter and take a WebCam picture.@Appuyez sur Entr&eacute;e et prenez une photo WebCam.  
+Commandline document conversion with Libreoffice@Conversion de documents en ligne de commande avec Libreoffice  
+HourGlass@Sablier  
+Gets the english pronunciation of a phrase@Obtient la prononciation anglaise d'une phrase  
+Check syntax for all PHP files in the current directory and all subdirectories@V&eacute;rifier la syntaxe de tous les fichiers PHP dans le r&eacute;pertoire courant et tous les sous-r&eacute;pertoires  
+Ask for a password, the passwd-style@Demander un mot de passe, le style passwd  
+Monitor memory usage@Surveiller l'utilisation de la m&eacute;moire  
+Content search.@Recherche de contenu.  
+Timer with sound alarm@Minuterie avec alarme sonore  
+Rapidly invoke an editor to write a long, complex, or tricky command@Invoquez rapidement un &eacute;diteur pour &eacute;crire une commande longue, complexe ou d&eacute;licate  
+Run command on a group of nodes in parallel@Ex&eacute;cuter la commande sur un groupe de n&oelig;uds en parall&egrave;le  
+List of commands you use most often@Liste des commandes que vous utilisez le plus souvent  
+Kill process by name@Tuer le processus par nom  
+Change prompt to MS-DOS one (joke)@Remplacer l'invite par MS-DOS one (blague)  
+Make ISO image of a folder@Cr&eacute;er une image ISO d'un dossier  
+A shell function to print a ruler the width of the terminal window.@Une fonction shell pour imprimer une r&egrave;gle de la largeur de la fen&ecirc;tre du terminal.  
+Typing the current date ( or any string ) via a shortcut as if the keys had been actually typed with the hardware keyboard in any application.@Taper la date actuelle (ou n'importe quelle cha&icirc;ne) via un raccourci comme si les touches avaient &eacute;t&eacute; r&eacute;ellement tap&eacute;es avec le clavier mat&eacute;riel dans n'importe quelle application.  
+Update twitter via curl (and also set the &quot;from&quot; bit)@Mettez &agrave; jour Twitter via curl (et d&eacute;finissez &eacute;galement le bit &quot;de&quot;)  
+Quickest (i blv) way to get the current program name minus the path (BASH)@Le moyen le plus rapide (i blv) d'obtenir le nom du programme actuel moins le chemin (BASH)  
+A trash function for bash@Une fonction poubelle pour bash  
+Clean your broken terminal@Nettoyez votre terminal cass&eacute;  
+Play music from youtube without download@&Eacute;couter de la musique depuis youtube sans t&eacute;l&eacute;chargement  
+Generate a unique and secure password for every website that you login to@G&eacute;n&eacute;rez un mot de passe unique et s&eacute;curis&eacute; pour chaque site Web auquel vous vous connectez  
+Search back through previous commands@Rechercher dans les commandes pr&eacute;c&eacute;dentes  
+Identify differences between directories (possibly on different servers)@Identifier les diff&eacute;rences entre les r&eacute;pertoires (&eacute;ventuellement sur diff&eacute;rents serveurs)  
+Replace spaces in filenames with underscores@Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Show directories in the PATH, one per line@Afficher les r&eacute;pertoires dans le PATH, un par ligne  
+Move a lot of files over ssh@D&eacute;placez beaucoup de fichiers sur ssh  
+Find and delete empty dirs, start in current working dir@Rechercher et supprimer les r&eacute;pertoires vides, d&eacute;marrer dans le r&eacute;pertoire de travail actuel  
+List your largest installed packages.@R&eacute;pertoriez vos plus gros packages install&eacute;s.  
+Monitor TCP opened connections@Surveiller les connexions TCP ouvertes  
+Fix Ubuntu's Broken Sound Server@R&eacute;parer le serveur de son cass&eacute; d'Ubuntu  
+Download all Delicious bookmarks@T&eacute;l&eacute;charger tous les marque-pages Delicious  
+Beep when a server goes offline@Bip lorsqu'un serveur se d&eacute;connecte  
+Number of open connections per ip.@Nombre de connexions ouvertes par IP.  
+Fibonacci numbers with awk@Nombres de Fibonacci avec awk  
+Create a favicon@Cr&eacute;er un favicon  
+Check Ram Speed and Type in Linux@V&eacute;rifiez la vitesse et le type de RAM sous Linux  
+Run the Firefox Profile Manager@Ex&eacute;cutez le gestionnaire de profils Firefox  
+Add forgotten changes to the last git commit@Ajouter les modifications oubli&eacute;es au dernier commit git  
+Sort dotted quads@Trier les quads en pointill&eacute;s  
+Get Dell Service Tag Number from a Dell Machine@Obtenir le num&eacute;ro d'&eacute;tiquette de service Dell d'une machine Dell  
+Resume aborted scp file transfers@Reprendre les transferts de fichiers scp abandonn&eacute;s  
+Add your public SSH key to a server in one command@Ajoutez votre cl&eacute; SSH publique &agrave; un serveur en une seule commande  
+Cycle through a 256 colour palette@Parcourez une palette de 256 couleurs  
+Google text-to-speech in mp3 format@Google text-to-speech au format mp3  
+Google verbatim search on your terminal@Recherche verbatim Google sur votre terminal  
+Grep processes list avoiding the grep itself@Grep traite la liste en &eacute;vitant le grep lui-m&ecirc;me  
+Swap the two last arguments of the current command line@&Eacute;changez les deux derniers arguments de la ligne de commande courante  
+Transfer a file to multiple hosts over ssh@Transf&eacute;rer un fichier vers plusieurs h&ocirc;tes via ssh  
+Tail a log over ssh@Suivre un journal sur ssh  
+Du with colored bar graph@Du avec histogramme color&eacute;  
+Sort the output of the 'du' command by largest first, using human readable output.@Triez la sortie de la commande 'du' en commen&ccedil;ant par la plus grande, en utilisant une sortie lisible par l'homme.  
+Verify/edit bash history command before executing it@V&eacute;rifier/modifier la commande d'historique bash avant de l'ex&eacute;cuter  
+Resize an image to at least a specific resolution@Redimensionner une image &agrave; au moins une r&eacute;solution sp&eacute;cifique  
+Query well known ports list@Interroger la liste des ports bien connus  
+Create .pdf from .doc@Cr&eacute;er .pdf &agrave; partir de .doc  
+Diff XML files@Fichiers XML de diff&eacute;rences  
+Discovering all open files/dirs underneath a directory@D&eacute;couvrir tous les fichiers/r&eacute;pertoires ouverts sous un r&eacute;pertoire  
+Clear screen, keep prompt at eye-level (faster than clear(1), tput cl, etc.)@Effacer l'&eacute;cran, maintenir l'invite au niveau des yeux (plus rapide que clear(1), tput cl, etc.)  
+Down for everyone or just me?@Bas pour tout le monde ou juste moi ?  
+A formatting test for David Winterbottom: improving commandlinefu for submitters@Un test de formatage pour David Winterbottom : am&eacute;lioration de la ligne de commande pour les soumissionnaires  
+Run a program transparently, but print a stack trace if it fails@Ex&eacute;cutez un programme de mani&egrave;re transparente, mais imprimez une trace de pile en cas d'&eacute;chec  
+Compare copies of a file with md5@Comparer les copies d'un fichier avec md5  
+Backup delicious bookmarks@Sauvegardez de d&eacute;licieux signets  
+Continue a current job in the background@Continuer une t&acirc;che en cours en arri&egrave;re-plan  
+Get all links of a website@Obtenir tous les liens d'un site Web  
+Find all active ip's in a subnet@Trouver toutes les adresses IP actives dans un sous-r&eacute;seau  
+Display BIOS Information@Afficher les informations du BIOS  
+Disassemble some shell code@D&eacute;sassembler du code shell  
+List bash functions defined in .bash_profile or .bashrc@Liste les fonctions bash d&eacute;finies dans .bash_profile ou .bashrc  
+Ignore the .svn directory in filename completion@Ignorer le r&eacute;pertoire .svn dans l'ach&egrave;vement du nom de fichier  
+Working random fact generator@G&eacute;n&eacute;rateur de faits al&eacute;atoires fonctionnel  
+Remote backups with tar over ssh@Sauvegardes &agrave; distance avec tar sur ssh  
+Pronounce an English word using Dictionary.com@Prononcer un mot anglais avec Dictionary.com  
+Change pidgin status@Changer le statut du pidgin  
+Grep by paragraph instead of by line.@Grep par paragraphe au lieu de par ligne.  
+Vim: Switch from Horizontal split to Vertical split@Vim : Passer de la division horizontale &agrave; la division verticale  
+Numbers guessing game@Jeu de devinettes sur les nombres  
+Sort all running processes by their memory &amp; CPU usage@Triez tous les processus en cours d'ex&eacute;cution en fonction de leur utilisation de la m&eacute;moire et du processeur  
+Change user, assume environment, stay in current dir@Changer d'utilisateur, assumer l'environnement, rester dans le r&eacute;pertoire actuel  
+Save current layout of top@Enregistrer la disposition actuelle du haut  
+Function that outputs dots every second until command completes@Fonction qui g&eacute;n&egrave;re des points toutes les secondes jusqu'&agrave; la fin de la commande  
+Testing hard disk reading speed@Test de la vitesse de lecture du disque dur  
+How fast is the connexion to a URL, some stats from curl@Quelle est la vitesse de connexion &agrave; une URL, quelques statistiques de curl  
+An easter egg built into python to give you the Zen of Python@Un &oelig;uf de P&acirc;ques int&eacute;gr&eacute; &agrave; Python pour vous donner le Zen de Python  
+Get all IPs via ifconfig@Obtenir toutes les IP via ifconfig  
+Use Cygwin to talk to the Windows clipboard@Utilisez Cygwin pour parler au presse-papiers de Windows  
+List programs with open ports and connections@R&eacute;pertorier les programmes avec des ports et des connexions ouverts  
+Find corrupted jpeg image files@Trouver des fichiers image jpeg corrompus  
+'Fix' a typescript file created by the 'script' program to remove control characters@'Corriger' un fichier dactylographi&eacute; cr&eacute;&eacute; par le programme 'script' pour supprimer les caract&egrave;res de contr&ocirc;le  
+Share a 'screen'-session@Partager une session &quot;&eacute;cran&quot;  
+Purge configuration files of removed packages on debian based systems@Purger les fichiers de configuration des paquets supprim&eacute;s sur les syst&egrave;mes bas&eacute;s sur Debian  
+Show all detected mountable Drives/Partitions/BlockDevices@Afficher tous les disques/partitions/blocs p&eacute;riph&eacute;riques d&eacute;tect&eacute;s pouvant &ecirc;tre mont&eacute;s  
+Merge *.pdf files@Fusionner les fichiers *.pdf  
+Append stdout and stderr to a file, and print stderr to the screen [bash]@Ajouter stdout et stderr &agrave; un fichier et imprimer stderr &agrave; l'&eacute;cran [bash]  
+Quickly change all .html extensions on files in folder to .htm@Remplacez rapidement toutes les extensions .html des fichiers du dossier par .htm  
+Delete the specified line@Supprimer la ligne sp&eacute;cifi&eacute;e  
+Read the output of a command into the buffer in vim@Lire la sortie d'une commande dans le tampon de vim  
+Find broken symlinks@Trouver des liens symboliques bris&eacute;s  
+Ssh tunnel with auto reconnect ability@Tunnel SSH avec capacit&eacute; de reconnexion automatique  
+Find process associated with a port@Trouver le processus associ&eacute; &agrave; un port  
+Scping files with streamlines compression (tar gzip)@Scping de fichiers avec compression simplifi&eacute;e (tar gzip)  
+Add all files not under version control to repository@Ajouter tous les fichiers non sous contr&ocirc;le de version au r&eacute;f&eacute;rentiel  
+Disco lights in the terminal@Lumi&egrave;res disco dans le terminal  
+Select rectangular screen area@S&eacute;lectionnez la zone d'&eacute;cran rectangulaire  
+Show how old your linux OS installtion is@Montrez l'&acirc;ge de l'installation de votre syst&egrave;me d'exploitation Linux  
+Discover the process start time@D&eacute;couvrez l'heure de d&eacute;but du processus  
+Automatically find and re-attach to a detached screen session@Rechercher et rattacher automatiquement &agrave; une session d'&eacute;cran d&eacute;tach&eacute;e  
+This is how you should push a string in a command's stdin.@C'est ainsi que vous devez pousser une cha&icirc;ne dans le stdin d'une commande.  
+Ping as traceroute@Ping comme traceroute  
+What model of computer I'm using?@Quel mod&egrave;le d'ordinateur j'utilise ?  
+Extract tar content without leading parent directory@Extraire le contenu tar sans r&eacute;pertoire parent principal  
+Target a specific column for pattern substitution@Cibler une colonne sp&eacute;cifique pour la substitution de mod&egrave;le  
+Run a command when a file is changed@Ex&eacute;cuter une commande lorsqu'un fichier est modifi&eacute;  
+Substrings a variable@Sous-cha&icirc;ne une variable  
+One command line web server on port 80 using nc (netcat)@Un serveur Web en ligne de commande sur le port 80 utilisant nc (netcat)  
+RDP through SSH tunnel@RDP via un tunnel SSH  
+&quot;Clone&quot; a list of installed packages from one Debian/Ubuntu Server to another@&quot;Clone&quot; une liste de packages install&eacute;s d'un serveur Debian/Ubuntu &agrave; un autre  
+Remote screenshot@Capture d'&eacute;cran &agrave; distance  
+Google text-to-speech in mp3 format@Google text-to-speech au format mp3  
+Add the result of a command into vi@Ajouter le r&eacute;sultat d'une commande dans vi  
+Place the NUM-th argument of the most recent command on the shell@Placez le NUM-&egrave;me argument de la commande la plus r&eacute;cente sur le shell  
+Find the package a command belongs to on Debian@Trouver le paquet auquel appartient une commande sur Debian  
+Look up a unicode character by name@Rechercher un caract&egrave;re unicode par son nom  
+Start dd and show progress every X seconds@D&eacute;marrer dd et afficher la progression toutes les X secondes  
+Ask user to confirm@Demander &agrave; l'utilisateur de confirmer  
+Random unsigned integer@Entier non sign&eacute; al&eacute;atoire  
+Kill all process that belongs to you@Tuez tous les processus qui vous appartiennent  
+Make a file not writable / immutable by root@Rendre un fichier non inscriptible / immuable par root  
+Analyze traffic remotely over ssh w/ wireshark@Analysez le trafic &agrave; distance via ssh avec wireshark  
+Send email with curl and gmail@Envoyer un e-mail avec curl et gmail  
+Translates acronyms for you@Traduit les acronymes pour vous  
+Delete DOS Characters via VIM (^M)@Supprimer les caract&egrave;res DOS via VIM (^M)  
+Create an animated gif from a Youtube video@Cr&eacute;er un gif anim&eacute; &agrave; partir d'une vid&eacute;o Youtube  
+Print just line 4 from a textfile@Imprimer juste la ligne 4 d'un fichier texte  
+Print just line 4 from a textfile@Imprimer juste la ligne 4 d'un fichier texte  
+Quick HTML image gallery from folder contents@Galerie d'images HTML rapide &agrave; partir du contenu du dossier  
+Get your external IP address without curl@Obtenez votre adresse IP externe sans curl  
+Resume a detached screen session, resizing to fit the current terminal@Reprendre une session d'&eacute;cran d&eacute;tach&eacute;, en redimensionnant pour s'adapter au terminal actuel  
+Start a HTTP server which serves Python docs@D&eacute;marrer un serveur HTTP qui sert des documents Python  
+Do some learning...@Faites un peu d'apprentissage...  
+Insert the last argument of the previous command@Ins&eacute;rer le dernier argument de la commande pr&eacute;c&eacute;dente  
+Carriage return for reprinting on the same line@Retour chariot pour r&eacute;impression sur la m&ecirc;me ligne  
+Copy a folder tree through ssh using compression (no temporary files)@Copiez une arborescence de dossiers via ssh en utilisant la compression (pas de fichiers temporaires)  
+Command line calculator@Calculateur de ligne de commande  
+Backup a local drive into a file on the remote host via ssh@Sauvegardez un lecteur local dans un fichier sur l'h&ocirc;te distant via ssh  
+Kill processes that have been running for more than a week@Tuer les processus qui ont &eacute;t&eacute; ex&eacute;cut&eacute;s pendant plus d'une semaine  
+List Network Tools in Linux@Liste des outils r&eacute;seau sous Linux  
+Print text string vertically, one character per line.@Imprimer la cha&icirc;ne de texte verticalement, un caract&egrave;re par ligne.  
+Add prefix onto filenames@Ajouter un pr&eacute;fixe aux noms de fichiers  
+Salvage a borked terminal@R&eacute;cup&eacute;rer un terminal bouch&eacute;  
+Pick a random line from a file@Choisir une ligne au hasard dans un fichier  
+Get all these commands in a text file with description.@Obtenez toutes ces commandes dans un fichier texte avec description.  
+Stripping ^M at end of each line for files@Suppression de ^M &agrave; la fin de chaque ligne pour les fichiers  
+Backup files incremental with rsync to a NTFS-Partition@Fichiers de sauvegarde incr&eacute;mentiels avec rsync sur une partition NTFS  
+Find removed files still in use via /proc@Trouver les fichiers supprim&eacute;s encore utilis&eacute;s via /proc  
+Connect to google talk through ssh by setting your IM client to use the localhost 5432 port@Connectez-vous &agrave; google talk via ssh en configurant votre client de messagerie instantan&eacute;e pour utiliser le port localhost 5432  
+Urldecoding@D&eacute;codage URL  
+For all flv files in a dir, grab the first frame and make a jpg.@Pour tous les fichiers flv dans un r&eacute;pertoire, saisissez la premi&egrave;re image et cr&eacute;ez un fichier jpg.  
+Wrap long lines of a text@Enrouler de longues lignes d'un texte  
+Validate and pretty-print JSON expressions.@Validez et imprimez joliment les expressions JSON.  
+Grep colorized@Grep coloris&eacute;  
+From within vi, pipe a chunk of lines to a command line and replace the chunk with the result@Depuis vi, dirigez un morceau de lignes vers une ligne de commande et remplacez le morceau par le r&eacute;sultat  
+Grep for word in directory (recursive)@Grep pour mot dans le r&eacute;pertoire (r&eacute;cursif)  
+Unix alias for date command that lets you create timestamps in ISO 8601 format@Alias &#8203;&#8203;Unix pour la commande de date qui vous permet de cr&eacute;er des horodatages au format ISO 8601  
+Another Curl your IP command@Une autre commande Curl your IP  
+Count IPv4 connections per IP@Compter les connexions IPv4 par IP  
+Files extension change@Modification de l'extension des fichiers  
+Archive all files containing local changes (svn)@Archiver tous les fichiers contenant des modifications locales (svn)  
+Just run it ;)@Lancez-le ;)  
+Pattern match in awk - no grep@Correspondance de mod&egrave;le dans awk - pas de grep  
+Optimal way of deleting huge numbers of files@Moyen optimal de supprimer un grand nombre de fichiers  
+Du with colored bar graph@Du avec histogramme color&eacute;  
+Mount a VMware virtual disk (.vmdk) file on a Linux box@Monter un fichier de disque virtuel VMware (.vmdk) sur une machine Linux  
+Quick copy@Copie rapide  
+Sending a file over icmp with hping@Envoi d'un fichier via icmp avec hping  
+Fetch the current human population of Earth@R&eacute;cup&eacute;rer la population humaine actuelle de la Terre  
+Kill a broken ssh connection@Tuer une connexion ssh cass&eacute;e  
+Convert JSON to YAML@Convertir JSON en YAML  
+Convert Shell Text to Upper/Lower Case@Convertir le texte Shell en majuscules/minuscules  
+The fastest remote directory rsync over ssh archival I can muster (40MB/s over 1gb NICs)@Le r&eacute;pertoire distant le plus rapide rsync sur l'archivage ssh que je peux rassembler (40 Mo/s sur 1 Go de cartes r&eacute;seau)  
+Binary digits Matrix effect@Chiffres binaires Effet matrice  
+Open two files side by side in vim (one window, two panes)@Ouvrez deux fichiers c&ocirc;te &agrave; c&ocirc;te dans vim (une fen&ecirc;tre, deux volets)  
+Repeat a command every one second@R&eacute;p&eacute;ter une commande toutes les secondes  
+Update all packages installed via homebrew@Mettre &agrave; jour tous les packages install&eacute;s via homebrew  
+Daemonize nc - Transmit a file like a http server@Daemonize nc - Transmettre un fichier comme un serveur http  
+Find ulimit values of currently running process@Trouver les valeurs ulimit du processus en cours d'ex&eacute;cution  
+Diff current vi buffer edits against original file@Diff&egrave;re les modifications actuelles du tampon vi par rapport au fichier d'origine  
+Redirect tar extract to another directory@Rediriger l'extrait tar vers un autre r&eacute;pertoire  
+Print multiplication formulas@Imprimer des formules de multiplication  
+Find Malware in the current and sub directories by MD5 hashes@Trouvez les logiciels malveillants dans les r&eacute;pertoires actuels et les sous-r&eacute;pertoires par hachage MD5  
+Watch several log files of different machines in a single multitail window on your own machine@Regardez plusieurs fichiers journaux de diff&eacute;rentes machines dans une seule fen&ecirc;tre multitail sur votre propre machine  
+Execute a command, convert output to .png file, upload file to imgur.com, then returning the address of the .png.@Ex&eacute;cutez une commande, convertissez la sortie en fichier .png, t&eacute;l&eacute;chargez le fichier sur imgur.com, puis renvoyez l'adresse du .png. 
+All out@Tous dehors  
+Numeric zero padding file rename@Renommer le fichier de remplissage num&eacute;rique z&eacute;ro  
+Find out the starting directory of a script@Conna&icirc;tre le r&eacute;pertoire de d&eacute;marrage d'un script  
+Selecting a random file/folder of a folder@S&eacute;lection d'un fichier/dossier al&eacute;atoire d'un dossier  
+List your MACs address@Indiquez votre adresse MAC  
+Ssh to machine behind shared NAT@Ssh vers machine derri&egrave;re NAT partag&eacute;  
+Countdown Clock@Compte &agrave; rebours  
+List all file extensions in a directory@Lister toutes les extensions de fichiers dans un r&eacute;pertoire  
+Send an http HEAD request w/curl@Envoyer une requ&ecirc;te http HEAD avec curl  
+View hex mode in vim@Afficher le mode hexad&eacute;cimal dans vim  
+View ~/.ssh/known_hosts key information@Afficher les informations sur la cl&eacute; ~/.ssh/known_hosts  
+Kill all Zombie processes (Guaranteed!)@Tuez tous les processus Zombie (garanti !)  
+Prevent accidents and test your command with echo@Pr&eacute;venez les accidents et testez votre commande avec echo  
+Exclude a column with awk@Exclure une colonne avec awk  
+Get My Public IP Address@Obtenir mon adresse IP publique  
+Pretend to be busy in office to enjoy a cup of coffee@Faire semblant d'&ecirc;tre occup&eacute; au bureau pour savourer une tasse de caf&eacute;  
+Empty a file@Vider un fichier  
+Better way to use notify-send with at or cron@Meilleure fa&ccedil;on d'utiliser l'envoi de notification avec at ou cron  
+Emptying a text file in one shot@Vider un fichier texte en une seule fois  
+Computes the most frequent used words of a text file@Calcule les mots les plus fr&eacute;quemment utilis&eacute;s d'un fichier texte  
+Countdown Clock@Compte &agrave; rebours  
+Print info about your real user.@Imprimez des informations sur votre v&eacute;ritable utilisateur.  
+Serve current directory tree at http://$HOSTNAME:8080/@Servir l'arborescence de r&eacute;pertoires actuelle &agrave; http://$HOSTNAME:8080/  
+JSON processing with Python@Traitement JSON avec Python  
+Move items from subdirectories to current directory@D&eacute;placer les &eacute;l&eacute;ments des sous-r&eacute;pertoires vers le r&eacute;pertoire courant  
+Restrict the bandwidth for the SCP command@Restreindre la bande passante pour la commande SCP  
+Optimize PDF documents@Optimiser les documents PDF  
+Live ssh network throughput test@Test de d&eacute;bit du r&eacute;seau ssh en direct  
+Bash screensaver (scrolling ascii art with customizable message)@&Eacute;conomiseur d'&eacute;cran Bash (d&eacute;filement de l'art ascii avec message personnalisable)  
+Upgrade all perl modules via CPAN@Mettre &agrave; niveau tous les modules perl via CPAN  
+Remove lines that contain a specific pattern($1) from file($2).@Supprimez les lignes contenant un motif sp&eacute;cifique ($1) du fichier ($2).  
+List your largest installed packages (on Debian/Ubuntu)@Listez vos plus gros packages install&eacute;s (sur Debian/Ubuntu)  
+Rsync + find@Rsync + trouver  
+Autossh + ssh + screen = super rad perma-sessions@Autossh + ssh + screen = sessions permanentes super rad  
+Record microphone input and output to date stamped mp3 file@Enregistrez l'entr&eacute;e et la sortie du microphone dans un fichier mp3 horodat&eacute;  
+Find running binary executables that were not installed using dpkg@Trouver des ex&eacute;cutables binaires en cours d'ex&eacute;cution qui n'ont pas &eacute;t&eacute; install&eacute;s &agrave; l'aide de dpkg  
+Cycle through a 256 colour palette@Parcourez une palette de 256 couleurs  
+Parallel file downloading with wget@T&eacute;l&eacute;chargement de fichiers en parall&egrave;le avec wget  
+Move a lot of files over ssh@D&eacute;placez beaucoup de fichiers sur ssh  
+Cleanup firefox's database.@Nettoyez la base de donn&eacute;es de firefox.  
+Vim easter egg@Oeuf de P&acirc;ques Vim  
+Find the process you are looking for minus the grepped one@Trouvez le processus que vous recherchez moins celui grepp&eacute;  
+Stream YouTube URL directly to mplayer@Diffusez l'URL YouTube directement sur mplayer  
+Update twitter via curl@Mettre &agrave; jour Twitter via curl  
+Ssh autocomplete@Ssh saisie semi-automatique  
+Get all IPs via ifconfig@Obtenir toutes les IP via ifconfig  
+VIM: Replace a string with an incrementing number between marks 'a and 'b (eg, convert string ZZZZ to 1, 2, 3, ...)@VIM : remplace une cha&icirc;ne par un nombre incr&eacute;ment&eacute; entre les marques 'a et 'b (par exemple, convertit la cha&icirc;ne ZZZZ en 1, 2, 3, ...) Obtenir le chemin canonique absolu donn&eacute; un chemin relatif et/ou non canonique  
+Get the canonical, absolute path given a relative and/or noncanonical path@Obtenir le chemin canonique absolu donn&eacute; un chemin relatif et/ou non canonique 
+Create a Multi-Part Archive Without Proprietary Junkware@Cr&eacute;er une archive en plusieurs parties sans logiciel ind&eacute;sirable propri&eacute;taire  
+List and delete files older than one year@Lister et supprimer les fichiers de plus d'un an  
+Display last exit status of a command@Afficher le dernier &eacute;tat de sortie d'une commande  
+Enable ** to expand files recursively (&gt;=bash-4.0)@Activer ** pour d&eacute;velopper les fichiers de mani&egrave;re r&eacute;cursive (&gt;=bash-4.0)  
+Command Line to Get the Stock Quote via Yahoo@Ligne de commande pour obtenir la cotation boursi&egrave;re via Yahoo  
+Plays Music from SomaFM@Lit la musique de SomaFM  
+Convert camelCase to underscores (camel_case)@Convertir camelCase en traits de soulignement (camel_case)  
+Set your profile so that you resume or start a screen session on login@D&eacute;finissez votre profil pour reprendre ou d&eacute;marrer une session d'&eacute;cran lors de la connexion  
+Play high-res video files on a slow processor@Lire des fichiers vid&eacute;o haute r&eacute;solution sur un processeur lent  
+Create directory named after current date@Cr&eacute;er un r&eacute;pertoire nomm&eacute; d'apr&egrave;s la date actuelle  
+Monitor dynamic changes in the dmesg log.@Surveillez les modifications dynamiques dans le journal dmesg.  
+Generate a list of installed packages on Debian-based systems@G&eacute;n&eacute;rer une liste des packages install&eacute;s sur les syst&egrave;mes bas&eacute;s sur Debian  
+Find the process that is using a certain port e.g. port 3000@Trouvez le processus qui utilise un certain port, par exemple le port 3000  
+Pause Current Thread@Suspendre le fil en cours  
+Converts to PDF all the OpenOffice.org files in the directory@Convertit en PDF tous les fichiers OpenOffice.org du r&eacute;pertoire  
+Create a bunch of dummy files for testing@Cr&eacute;er un tas de fichiers factices pour les tests  
+Convert .wma files to .ogg with ffmpeg@Convertir des fichiers .wma en .ogg avec ffmpeg  
+Find distro name and/or version/release@Trouver le nom de la distribution et/ou la version/l'&eacute;dition  
+Generate Random Passwords@G&eacute;n&eacute;rer des mots de passe al&eacute;atoires  
+Bash shortcut: !$ !^ !* !:3 !:h and !:t@Raccourci bash : !$ !^ !* !:3 !:h et !:t  
+Grep without having it show its own process in the results@Grep sans qu'il montre son propre processus dans les r&eacute;sultats  
+Find recursively, from current directory down, files and directories whose names contain single or multiple whitespaces and replace each such occurrence with a single underscore.@Recherchez de mani&egrave;re r&eacute;cursive, &agrave; partir du r&eacute;pertoire courant vers le bas, les fichiers et r&eacute;pertoires dont les noms contiennent un ou plusieurs espaces blancs et remplacez chacune de ces occurrences par un seul trait de soulignement.
+Tells which group you DON'T belong to (opposite of command &quot;groups&quot;) --- uses sed@Indique &agrave; quel groupe vous n'appartenez PAS (&agrave; l'oppos&eacute; de la commande &quot;groups&quot;) --- utilise sed  
+Quickly get summary of sizes for files and folders@Obtenez rapidement un r&eacute;sum&eacute; des tailles des fichiers et des dossiers  
+Echo the latest commands from commandlinefu on the console@Faites &eacute;cho aux derni&egrave;res commandes de commandlinefu sur la console  
+Optimal way of deleting huge numbers of files@Moyen optimal de supprimer un grand nombre de fichiers  
+Drop first column of output by piping to this@D&eacute;posez la premi&egrave;re colonne de sortie en la dirigeant vers cette  
+Create a bunch of dummy text files@Cr&eacute;er un tas de fichiers texte factices  
+Get the Nth argument of the last command (handling spaces correctly)@R&eacute;cup&egrave;re le Ni&egrave;me argument de la derni&egrave;re commande (en g&eacute;rant correctement les espaces)  
+Temporarily ignore mismatched SSH host key@Ignorer temporairement la cl&eacute; d'h&ocirc;te SSH incompatible  
+Remove all zero size files from current directory (not recursive)@Supprimer tous les fichiers de taille nulle du r&eacute;pertoire actuel (non r&eacute;cursif)  
+Watch the progress of 'dd'@Regardez la progression de 'dd'  
+Get a stream feed from a Twitter user@Obtenir un flux de flux d'un utilisateur Twitter  
+Create the authorization header required for a Twitter stream feed@Cr&eacute;er l'en-t&ecirc;te d'autorisation requis pour un flux de flux Twitter  
+Create the signature base string required for a Twitter stream feed@Cr&eacute;er la cha&icirc;ne de base de signature requise pour un flux de flux Twitter  
+Create the oauth token required for a Twitter stream feed@Cr&eacute;er le jeton oauth requis pour un flux de flux Twitter  
+Open a screenshot of a remote desktop via ssh@Ouvrir une capture d'&eacute;cran d'un bureau distant via ssh  
+Check your spelling@V&eacute;rifie ton orthographe  
+Find all files larger than 500M and less than 1GB@Trouvez tous les fichiers de plus de 500 Mo et de moins de 1 Go  
+Show bandwidth use oneliner@Afficher la bande passante utiliser oneliner  
+Change/Modify timestamp interactively@Changer/Modifier l'horodatage de mani&egrave;re interactive  
+Sort the contents of a text file in place.@Trier le contenu d'un fichier texte en place.  
+Instantly load bash history of one shell into another running shell@Charger instantan&eacute;ment l'historique bash d'un shell dans un autre shell en cours d'ex&eacute;cution  
+Copy with progress bar - rsync@Copie avec barre de progression - rsync  
+Multiple variable assignments from command output in BASH@Plusieurs affectations de variables &agrave; partir de la sortie de commande dans BASH  
+Generate a random password 30 characters long@G&eacute;n&eacute;rer un mot de passe al&eacute;atoire de 30 caract&egrave;res  
+Run a ext4 file system check and badblocks scan with progress info@Ex&eacute;cutez une v&eacute;rification du syst&egrave;me de fichiers ext4 et une analyse des badblocks avec des informations de progression  
+List your MACs address@Indiquez votre adresse MAC  
+Rename all files which contain the sub-string 'foo', replacing it with 'bar'@Renommez tous les fichiers contenant la sous-cha&icirc;ne 'foo' en la rempla&ccedil;ant par 'bar'  
+Create a 5 MB blank file via a seek hole@Cr&eacute;er un fichier vierge de 5 Mo via un trou de recherche  
+ROT13 using the tr command@ROT13 &agrave; l'aide de la commande tr  
+Make vim open in tabs by default (save to .profile)@Rendre vim ouvert dans les onglets par d&eacute;faut (enregistrer dans .profile)  
+Secure copy from one server to another without rsync and preserve users, etc@Copie s&eacute;curis&eacute;e d'un serveur &agrave; un autre sans rsync et pr&eacute;servation des utilisateurs, etc.  
+The same as [Esc] in vim@Identique &agrave; [Esc] dans vim  
+Binary clock@Horloge binaire  
+Function to split a string into an array@Fonction pour diviser une cha&icirc;ne en un tableau  
+Generate MD5 hash for a string@G&eacute;n&eacute;rer un hachage MD5 
+Recompress all .gz files in current directory using bzip2 running 1 job per CPU core in parallel@Recompressez tous les fichiers .gz dans le r&eacute;pertoire actuel &agrave; l'aide de bzip2 en ex&eacute;cutant 1 t&acirc;che par c&oelig;ur de processeur en parall&egrave;le 
+Phpinfo from the command line@Phpinfo depuis la ligne de commande  
+Run a command whenever a file is touched@Ex&eacute;cuter une commande chaque fois qu'un fichier est touch&eacute;  
+Escape potential tarbombs@&Eacute;chappez aux bombes tar potentielles  
+Pretend to be busy in office to enjoy a cup of coffee@Faire semblant d'&ecirc;tre occup&eacute; au bureau pour savourer une tasse de caf&eacute;  
+Get notified when a job you run in a terminal is done, using NotifyOSD@Soyez averti lorsqu'un travail que vous ex&eacute;cutez dans un terminal est termin&eacute;, en utilisant NotifyOSD  
+Runs a X session within your X session@Ex&eacute;cute une session X dans votre session X  
+Use screen as a terminal emulator to connect to serial consoles@Utilisez l'&eacute;cran comme &eacute;mulateur de terminal pour vous connecter aux consoles s&eacute;rie  
+Have a random &quot;cow&quot; say a random thing@Avoir une &quot;vache&quot; au hasard dire une chose au hasard  
+Sends a postscript file to a postscript printer using netcat@Envoie un fichier postscript &agrave; une imprimante postscript en utilisant netcat  
+Lines in file2 that are not in file1@Lignes du fichier2 qui ne sont pas dans le fichier1  
+Display which distro is installed@Afficher quelle distribution est install&eacute;e  
+Fetch every font from dafont.com to current folder@R&eacute;cup&eacute;rer toutes les polices de dafont.com dans le dossier actuel  
+Intercept stdout/stderr of another process@Intercepter stdout/stderr d'un autre processus  
+Send DD a signal to print its progress@Envoyer un signal &agrave; DD pour imprimer sa progression  
+Open Remote Desktop (RDP) from command line and connect local resources@Ouvrez Remote Desktop (RDP) &agrave; partir de la ligne de commande et connectez les ressources locales  
+See your current RAM frequency@Voir votre fr&eacute;quence RAM actuelle  
+Scp with compression.@Scp avec compression.  
+Perl Command Line Interpreter@Interpr&egrave;te de ligne de commande Perl  
+Find unused IPs on a given subnet@Rechercher des adresses IP inutilis&eacute;es sur un sous-r&eacute;seau donn&eacute;  
+Find and delete empty dirs, start in current working dir@Rechercher et supprimer les r&eacute;pertoires vides, d&eacute;marrer dans le r&eacute;pertoire de travail actuel  
+Check which files are opened by Firefox then sort by largest size.@V&eacute;rifiez quels fichiers sont ouverts par Firefox puis triez par taille la plus grande.  
+Optimal way of deleting huge numbers of files@Moyen optimal de supprimer un grand nombre de fichiers  
+Geoip information@Informations g&eacute;oip  
+What is my ip?@Quel est mon ip?  
+FAST Search and Replace for Strings in all Files in Directory@Recherche et remplacement rapides des cha&icirc;nes dans tous les fichiers du r&eacute;pertoire  
+Get the total length of all video / audio in the current dir (and below) in H:m:s@Obtenir la longueur totale de toutes les vid&eacute;os / audio dans le r&eacute;pertoire actuel (et en dessous) en H:m:s  
+Send data securly over the net.@Envoyez des donn&eacute;es en toute s&eacute;curit&eacute; sur le net.  
+When was your OS installed?@Quand votre syst&egrave;me d'exploitation a-t-il &eacute;t&eacute; install&eacute; ?  
+How to run a command on a list of remote servers read from a file@Comment ex&eacute;cuter une commande sur une liste de serveurs distants lus &agrave; partir d'un fichier  
+Replace spaces in filenames with underscorees@Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Find the biggest files recursively, no matter how many@Trouvez les fichiers les plus volumineux de mani&egrave;re r&eacute;cursive, quel que soit leur nombre  
+Grep certain file types recursively@Grep certains types de fichiers de mani&egrave;re r&eacute;cursive  
+Change proccess affinity.@Modifier l'affinit&eacute; du processus.  
+Back up your commandlinefu contributed commands@Sauvegardez vos commandes commandlinefu contribu&eacute;es  
+Currently mounted filesystems in nice layout@Syst&egrave;mes de fichiers actuellement mont&eacute;s dans une belle disposition  
+Benchmark web server with apache benchmarking tool@Serveur Web de r&eacute;f&eacute;rence avec l'outil d'analyse comparative apache  
+Salvage a borked terminal@R&eacute;cup&eacute;rer un terminal bouch&eacute;  
+Multiple SSH Tunnels@Plusieurs tunnels SSH  
+LDAP search to query an ActiveDirectory server@Recherche LDAP pour interroger un serveur ActiveDirectory  
+Easily scp a file back to the host you're connecting from@Renvoyez facilement un fichier &agrave; l'h&ocirc;te &agrave; partir duquel vous vous connectez  
+Super Speedy Hexadecimal or Octal Calculations and Conversions to Decimal.@Calculs hexad&eacute;cimaux ou octaux super rapides et conversions en d&eacute;cimal.  
+Find and replace tabs for spaces within files recursively@Rechercher et remplacer les tabulations pour les espaces dans les fichiers de mani&egrave;re r&eacute;cursive  
+Delete all files found in directory A from directory B@Supprimer tous les fichiers trouv&eacute;s dans le r&eacute;pertoire A du r&eacute;pertoire B  
+Synchronicity@Synchronicit&eacute;  
+Terminal redirection@Redirection terminale  
+Displays the attempted user name, ip address, and time of SSH failed logins on Debian machines@Affiche le nom d'utilisateur tent&eacute;, l'adresse IP et l'heure des &eacute;checs de connexion SSH sur les machines Debian  
+Rot13 using the tr command@Rot13 &agrave; l'aide de la commande tr  
+Measures download speed on eth0@Mesure la vitesse de t&eacute;l&eacute;chargement sur eth0  
+Clean swap area after using a memory hogging application@Nettoyer la zone d'&eacute;change apr&egrave;s avoir utilis&eacute; une application monopolisant la m&eacute;moire  
+Loop over a set of items that contain spaces@Boucle sur un ensemble d'&eacute;l&eacute;ments contenant des espaces  
+Traceroute w/TCP to get through firewalls.@Traceroute w/TCP pour passer &agrave; travers les pare-feux.  
+Launch a command from a manpage@Lancer une commande &agrave; partir d'une page de manuel  
+Split File in parts@Diviser le fichier en plusieurs parties  
+Speak the top 6 lines of your twitter timeline every 5 minutes.....@Prononcez les 6 premi&egrave;res lignes de votre chronologie Twitter toutes les 5 minutes .....  
+Create an SSH SOCKS proxy server on localhost:8000 that will re-start itself if something breaks the connection temporarily@Cr&eacute;ez un serveur proxy SSH SOCKS sur localhost:8000 qui red&eacute;marrera si quelque chose interrompt temporairement la connexion  
+To get you started!@Pour vous lancer !  
+Exclude grep from your grepped output of ps (alias included in description)@Exclure grep de votre sortie grep de ps (alias inclus dans la description)  
+Renames multiple files that match the pattern@Renomme plusieurs fichiers qui correspondent au mod&egrave;le  
+Block an IP address from connecting to a server@Emp&ecirc;cher une adresse IP de se connecter &agrave; un serveur  
+Infile search and replace on N files (including backup of the files)@Recherche et remplacement d'un fichier sur N fichiers (y compris la sauvegarde des fichiers)  
+Show running services (using systemctl)@Afficher les services en cours d'ex&eacute;cution (&agrave; l'aide de systemctl)  
+Binary clock@Horloge binaire  
+Pulsed terminal clock@Horloge terminale puls&eacute;e  
+Removes characters from cursor to the end of line@Supprime les caract&egrave;res du curseur jusqu'&agrave; la fin de la ligne  
+All what exists in dir B and not in dir A will be copied from dir B to new or existing dir C@Tout ce qui existe dans le r&eacute;pertoire B et non dans le r&eacute;pertoire A sera copi&eacute; du r&eacute;pertoire B vers le r&eacute;pertoire C nouveau ou existant
+Find previously entered commands (requires configuring .inputrc)@Rechercher les commandes saisies pr&eacute;c&eacute;demment (n&eacute;cessite la configuration de .inputrc)  
+Add directory to $PATH if it's not already there@Ajouter un r&eacute;pertoire &agrave; $PATH s'il n'y est pas d&eacute;j&agrave;  
+Debug how files are being accessed by a process@D&eacute;boguer l'acc&egrave;s aux fichiers par un processus  
+Retry the previous command until it exits successfully@R&eacute;essayez la commande pr&eacute;c&eacute;dente jusqu'&agrave; ce qu'elle se termine avec succ&egrave;s  
+Convert JSON to YAML@Convertir JSON en YAML  
+Search google.com on your terminal@Recherchez google.com sur votre terminal  
+Play awesome rythmic noise using aplay@Jouez un bruit rythmique impressionnant en utilisant aplay  
+Turns red the stderr output@Passe au rouge la sortie stderr  
+Recursively unrar into dir containing archive@Unrar r&eacute;cursivement dans le r&eacute;pertoire contenant l'archive  
+True Random Dice Roll@V&eacute;ritable lancer de d&eacute;s al&eacute;atoire  
+Find biggest 10 files in current and subdirectories and sort by file size@Trouvez les 10 plus gros fichiers dans les r&eacute;pertoires actuels et les sous-r&eacute;pertoires et triez par taille de fichier  
+Get your external IP and Network Info@Obtenez votre adresse IP externe et les informations r&eacute;seau  
+List all commands present on system@Lister toutes les commandes pr&eacute;sentes sur le syst&egrave;me  
+A line across the entire width of the terminal@Une ligne sur toute la largeur du terminal  
+Recursively find top 20 largest files (&gt; 1MB) sort human readable format@Trouver de mani&egrave;re r&eacute;cursive les 20 fichiers les plus volumineux (&gt; 1 Mo) trier le format lisible par l'homme  
+Create the four oauth keys required for a Twitter stream feed@Cr&eacute;ez les quatre cl&eacute;s oauth requises pour un flux de flux Twitter  
+Check if a machine is online@V&eacute;rifier si une machine est en ligne  
+Extract element of xml@Extraire l'&eacute;l&eacute;ment de xml  
+Generate a random password 30 characters long@G&eacute;n&eacute;rer un mot de passe al&eacute;atoire de 30 caract&egrave;res  
+Remove the first and the latest caracter of a string@Supprimer le premier et le dernier caract&egrave;re d'une cha&icirc;ne  
+Load file into RAM (cache) for faster accessing for repeated usage@Charger le fichier dans la RAM (cache) pour un acc&egrave;s plus rapide pour une utilisation r&eacute;p&eacute;t&eacute;e  
+Show IP Address in prompt --&gt; PS1 var@Afficher l'adresse IP dans l'invite -&gt; PS1 var  
+Log a command to console and to 2 files separately stdout and stderr@Connectez une commande &agrave; la console et &agrave; 2 fichiers s&eacute;par&eacute;ment stdout et stderr  
+Join lines split with backslash at the end@Joindre les lignes s&eacute;par&eacute;es par une barre oblique inverse &agrave; la fin  
+Convert text to lowercase@Convertir du texte en minuscule  
+Find builtin in bash v4+@Trouver int&eacute;gr&eacute; dans bash v4+  
+Make image semi-transparent@Rendre l'image semi-transparente  
+Compare directories via diff@Comparer des r&eacute;pertoires via diff  
+Execute a shell with netcat without -e@Ex&eacute;cute un shell avec netcat sans -e  
+Save your terminal commands in bash history in real time@Enregistrez vos commandes de terminal dans l'historique bash en temps r&eacute;el  
+Connect via SSH to VirtualBox guest VM without knowing IP address@Connectez-vous via SSH &agrave; la machine virtuelle invit&eacute;e VirtualBox sans conna&icirc;tre l'adresse IP  
+Make redirects to localhost via /etc/hosts more interesting@Rendre les redirections vers localhost via /etc/hosts plus int&eacute;ressantes  
+Screensaver@&Eacute;conomiseur d'&eacute;cran  
+Tricky implementation of two-dimensional array in Bash.@Impl&eacute;mentation d&eacute;licate d'un tableau &agrave; deux dimensions dans Bash.  
+Terrorist threat level text@Texte du niveau de menace terroriste  
+Bash logger@Enregistreur bash  
+Use wget to download one page and all it's requisites for offline viewing@Utilisez wget pour t&eacute;l&eacute;charger une page et toutes ses conditions requises pour une visualisation hors ligne  
+Convert a string to &quot;Title Case&quot;@Convertir une cha&icirc;ne en &quot;Title Case&quot;  
+RTFM function@Fonction RTFM  
+Back ssh from firewalled hosts@Retour ssh &agrave; partir d'h&ocirc;tes prot&eacute;g&eacute;s par un pare-feu  
+Rename HTML files according to their title tag@Renommer les fichiers HTML en fonction de leur balise de titre  
+Rename files according to file with colums of corresponding names@Renommer les fichiers en fonction du fichier avec des colonnes de noms correspondants  
+Create a new file@Cr&eacute;er un nouveau fichier  
+Monitor a file with tail with timestamps added@Surveiller un fichier avec une queue avec des horodatages ajout&eacute;s  
+Check disk for bad sectors@V&eacute;rifier le disque pour les secteurs d&eacute;fectueux  
+Create a file of a given size in linux@Cr&eacute;er un fichier d'une taille donn&eacute;e sous Linux  
+Pretend to be busy in office to enjoy a cup of coffee@Faire semblant d'&ecirc;tre occup&eacute; au bureau pour savourer une tasse de caf&eacute;  
+Extended man command@Commande man &eacute;tendue  
+Show which process is blocking umount (Device or resource is busy)@Afficher quel processus bloque le d&eacute;montage (le p&eacute;riph&eacute;rique ou la ressource est occup&eacute;)  
+Show the UUID of a filesystem or partition@Afficher l'UUID d'un syst&egrave;me de fichiers ou d'une partition  
+Run command on a group of nodes@Ex&eacute;cuter la commande sur un groupe de n&oelig;uds  
+Setting global redirection of STDERR to STDOUT in a script@D&eacute;finition de la redirection globale de STDERR vers STDOUT dans un script  
+Outgoing IP of server@IP sortant du serveur  
+Isolate file name from full path/find output@Isoler le nom du fichier du chemin complet/trouver la sortie  
+Show numerical values for each of the 256 colors in bash@Afficher les valeurs num&eacute;riques pour chacune des 256 couleurs en bash  
+Find all symlinks that link to directories@Trouver tous les liens symboliques qui pointent vers des r&eacute;pertoires  
+Use Kernighan &amp; Ritchie coding style in C program@Utiliser le style de codage Kernighan &amp; Ritchie dans le programme C  
+Delay execution until load average falls under 1.5@Retarder l'ex&eacute;cution jusqu'&agrave; ce que la charge moyenne tombe en dessous de 1,5  
+Backup with mysqldump a really big mysql database to a remote machine over ssh@Sauvegardez avec mysqldump une tr&egrave;s grande base de donn&eacute;es mysql sur une machine distante via ssh  
+Tail -f at your own pace@Tail -f &agrave; votre rythme  
+Watch the progress of 'dd'@Regardez la progression de 'dd'  
+Realtime lines per second in a log file@Lignes en temps r&eacute;el par seconde dans un fichier journal  
+Smart `cd`.. cd to the file directory if you try to cd to a file@Smart `cd` .. cd vers le r&eacute;pertoire de fichiers si vous essayez de cd vers un fichier  
+Temporarily ignore known SSH hosts@Ignorer temporairement les h&ocirc;tes SSH connus  
+Dd with progress bar@Dd avec barre de progression  
+Save the Top 2500 commands from commandlinefu to a single text file@Enregistrez les 2500 principales commandes de commandlinefu dans un seul fichier texte  
+Print a row of 50 hyphens@Imprimer une rang&eacute;e de 50 traits d'union  
+Display a wave pattern@Afficher un motif de vagues  
+Grep tab chars@Caract&egrave;res de tabulation Grep  
+Send a message to a windows machine in a popup@Envoyer un message &agrave; une machine Windows dans une fen&ecirc;tre contextuelle  
+Using mplayer to play the audio only but suppress the video@Utilisation de mplayer pour lire uniquement l'audio mais supprimer la vid&eacute;o  
+Using mplayer to play the audio only but suppress the video@Utilisation de mplayer pour lire uniquement l'audio mais supprimer la vid&eacute;o  
+Create a temporary file in a command line call@Cr&eacute;er un fichier temporaire dans un appel de ligne de commande  
+Shell function to make gnu info act like man.@Fonction shell pour que gnu info agisse comme un homme.  
+Replace spaces in filenames with underscores@Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Insert the last argument of the previous command@Ins&eacute;rer le dernier argument de la commande pr&eacute;c&eacute;dente  
+Change the From: address on the fly for email sent from the command-line@Modifier l'adresse De : &agrave; la vol&eacute;e pour les e-mails envoy&eacute;s depuis la ligne de commande  
+Remote control for Rhythmbox on an Ubuntu Media PC@T&eacute;l&eacute;commande pour Rhythmbox sur un PC Ubuntu Media  
+Use colordiff in side-by-side mode, and with automatic column widths.@Utilisez colordiff en mode c&ocirc;te &agrave; c&ocirc;te et avec des largeurs de colonne automatiques.  
+Extract email adresses from some file (or any other pattern)@Extraire les adresses e-mail d'un fichier (ou de tout autre mod&egrave;le)  
+Amazing real time picture of the sun in your wallpaper@Incroyable image en temps r&eacute;el du soleil dans votre fond d'&eacute;cran  
+Bash screensaver off@Bash &eacute;conomiseur d'&eacute;cran d&eacute;sactiv&eacute;  
+Convert vdi to vmdk (virtualbox hard disk conversion to vmware hard disk format)@Convertir vdi en vmdk (conversion de disque dur virtualbox au format de disque dur vmware)  
+Smart renaming@Renommage intelligent  
+Is today the end of the month?@C'est aujourd'hui la fin du mois ?  
+Port scan a range of hosts with Netcat.@Analysez les ports d'une gamme d'h&ocirc;tes avec Netcat.  
+Log your internet download speed@Enregistrez votre vitesse de t&eacute;l&eacute;chargement Internet  
+Show Directories in the PATH Which does NOT Exist@Afficher les r&eacute;pertoires dans le PATH qui n'existent PAS  
+Backup files older than 1 day on /home/dir, gzip them, moving old file to a dated file.@Sauvegardez les fichiers de plus d'un jour sur /home/dir, gzippez-les, d&eacute;placez l'ancien fichier vers un fichier dat&eacute;.  
+Alias to close terminal with :q@Alias &#8203;&#8203;pour fermer le terminal avec :q  
+Display an embeded help message from bash script header@Afficher un message d'aide int&eacute;gr&eacute; &agrave; partir de l'en-t&ecirc;te du script bash  
+Sort file greater than a specified size in human readeable format including their path and typed by color, running from current directory@Trier les fichiers sup&eacute;rieurs &agrave; une taille sp&eacute;cifi&eacute;e dans un format lisible par l'homme, y compris leur chemin et leurs types par couleur, ex&eacute;cut&eacute;s &agrave; partir du r&eacute;pertoire actuel 
+Print file without duplicated lines using awk@Imprimer le fichier sans lignes dupliqu&eacute;es en utilisant awk  
+Get the 10 biggest files/folders for the current direcotry@Obtenez les 10 plus gros fichiers/dossiers pour le r&eacute;pertoire actuel  
+Get your external IP address@Obtenez votre adresse IP externe  
+Send email with one or more binary attachments@Envoyer un e-mail avec une ou plusieurs pi&egrave;ces jointes binaires  
+Convert a web page into a png@Convertir une page web en png  
+Uncomment the lines where the word DEBUG is found@D&eacute;commentez les lignes o&ugrave; se trouve le mot DEBUG  
+This toggles mute on the Master channel of an alsa soundcard@Cela permet de d&eacute;sactiver le son sur le canal principal d'une carte son alsa  
+Submit data to a HTML form with POST method and save the response@Soumettez les donn&eacute;es &agrave; un formulaire HTML avec la m&eacute;thode POST et enregistrez la r&eacute;ponse  
+Count how many times a string appears in a (source code) tree@Compter le nombre de fois qu'une cha&icirc;ne appara&icirc;t dans une arborescence (de code source)  
+Search commandlinefu from the CLI@Rechercher commandlinefu &agrave; partir de la CLI  
+Compare a remote file with a local file@Comparer un fichier distant avec un fichier local  
+Using netcat to copy files between servers@Utilisation de netcat pour copier des fichiers entre serveurs  
+Search command history on bash@Rechercher l'historique des commandes sur bash  
+Redirect incoming traffic to SSH, from a port of your choosing@Redirigez le trafic entrant vers SSH, &agrave; partir d'un port de votre choix  
+Using bash inline@Utiliser bash en ligne  
+Alt + 1 .@Alt + 1 .  
+Create several copies of a file@Cr&eacute;er plusieurs copies d'un fichier  
+Search for a single file and go to it@Rechercher un seul fichier et y acc&eacute;der  
+Nice info browser@Bon navigateur d'informations  
+Sends your internal IP by email@Envoie votre IP interne par email  
+Download schedule@T&eacute;l&eacute;charger l'horaire  
+Use mtr to create a text file report@Utilisez mtr pour cr&eacute;er un rapport de fichier texte  
+Quick screenshot@Capture d'&eacute;cran rapide  
+Edit the last or previous command line in an editor then execute@Modifiez la derni&egrave;re ligne de commande ou la pr&eacute;c&eacute;dente dans un &eacute;diteur, puis ex&eacute;cutez  
+Quicker move to parent directory@D&eacute;placement plus rapide vers le r&eacute;pertoire parent  
+Show webcam output@Afficher la sortie de la webcam  
+Open the last file you edited in Vim.@Ouvrez le dernier fichier que vous avez &eacute;dit&eacute; dans Vim.  
+Keep from having to adjust your volume constantly@&Eacute;vitez d'avoir &agrave; ajuster votre volume en permanence  
+[re]verify a disc with very friendly output@[re]v&eacute;rifier un disque avec une sortie tr&egrave;s conviviale  
+Processes by CPU usage@Processus par utilisation du processeur  
+Rotate a set of photos matching their EXIF data.@Faites pivoter un ensemble de photos correspondant &agrave; leurs donn&eacute;es EXIF.  
+Awk using multiple field separators@Awk utilisant plusieurs s&eacute;parateurs de champs  
+Shows size of dirs and files, hidden or not, sorted.@Affiche la taille des r&eacute;pertoires et des fichiers, cach&eacute;s ou non, tri&eacute;s.  
+Hard disk information - Model/serial no.@Informations sur le disque dur - Mod&egrave;le/num&eacute;ro de s&eacute;rie.  
+Use mplayer to save video streams to a file@Utilisez mplayer pour enregistrer les flux vid&eacute;o dans un fichier  
+Wrap text files on the command-line for easy reading@Enveloppez les fichiers texte sur la ligne de commande pour une lecture facile  
+Re-read partition table on specified device without rebooting system (here /dev/sda).@Relire la table de partition sur le p&eacute;riph&eacute;rique sp&eacute;cifi&eacute; sans red&eacute;marrer le syst&egrave;me (ici /dev/sda).  
+Get your mac to talk to you@Demandez &agrave; votre mac de vous parler  
+Sort a one-per-line list of email address, weeding out duplicates@Trier une liste d'adresses e-mail une par ligne, en &eacute;liminant les doublons  
+Recursively change file name from uppercase to lowercase (or viceversa)@Changer r&eacute;cursivement le nom du fichier de majuscule &agrave; minuscule (ou vice versa)  
+Check the age of the filesystem@V&eacute;rifier l'&acirc;ge du syst&egrave;me de fichiers  
+Backup all MySQL Databases to individual files@Sauvegardez toutes les bases de donn&eacute;es MySQL dans des fichiers individuels  
+Remove all subversion files from a project recursively@Supprimer tous les fichiers subversion d'un projet de mani&egrave;re r&eacute;cursive  
+Click on a GUI window and show its process ID and command used to run the process@Cliquez sur une fen&ecirc;tre de l'interface graphique et affichez son ID de processus et la commande utilis&eacute;e pour ex&eacute;cuter le processus 
+Print indepth hardware info@Imprimer des informations d&eacute;taill&eacute;es sur le mat&eacute;riel  
+Concatenate (join) video files@Concat&eacute;ner (joindre) des fichiers vid&eacute;o  
+Convert the contents of a directory listing into a colon-separated environment variable@Convertir le contenu d'une liste de r&eacute;pertoires en une variable d'environnement s&eacute;par&eacute;e par deux-points  
+Make a log of a terminal session@Cr&eacute;er un journal d'une session de terminal  
+Remove invalid host keys from ~/.ssh/known_hosts@Supprimer les cl&eacute;s d'h&ocirc;te invalides de ~/.ssh/known_hosts  
+Remove all spaces from all files in current folder@Supprimer tous les espaces de tous les fichiers du dossier actuel  
+A function to find the fastest free DNS server@Une fonction pour trouver le serveur DNS gratuit le plus rapide  
+New Maintainer for CommandLineFu@Nouveau mainteneur pour CommandLineFu  
+Bare Metal IRC Client@Client IRC sans syst&egrave;me d'exploitation  
+Get your Firefox history@Obtenez votre historique Firefox  
+Submit command &amp; rewrite orginal command@Soumettre la commande et r&eacute;&eacute;crire la commande d'origine  
+Check all bash scripts in current dir for syntax errors@V&eacute;rifiez tous les scripts bash dans le r&eacute;pertoire actuel pour les erreurs de syntaxe  
+Encrypted chat with netcat and openssl (one-liner)@Chat crypt&eacute; avec netcat et openssl (one-liner)  
+Symlink all files from a base directory to a target directory@Lier symboliquement tous les fichiers d'un r&eacute;pertoire de base vers un r&eacute;pertoire cible  
+List directories only@Lister les r&eacute;pertoires uniquement

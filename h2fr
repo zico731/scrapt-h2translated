@@ -1,0 +1,1025 @@
+Exécutez la dernière commande en tant que root  
+Servir l'arborescence de répertoires actuelle à http://$HOSTNAME:8000/  
+Exécute la commande précédente mais remplace  
+Invoquez rapidement un éditeur pour écrire une commande longue, complexe ou délicate  
+Placez l'argument de la commande la plus récente sur le shell  
+Récupérer un terminal bouché  
+Systèmes de fichiers actuellement montés dans une belle disposition  
+Exécuter une commande à un instant donné  
+Obtenez votre adresse IP externe  
+Accès rapide à la table ascii.  
+Interroger Wikipedia via la console via DNS  
+Envoyez votre microphone au haut-parleur d'un ordinateur distant  
+Tapez vous avez oublié, tirez la commande, reprenez la saisie.  
+Monter le dossier/système de fichiers via SSH  
+Monter une partition RAM temporaire  
+Télécharger un site Web entier  
+Effacer l'écran du terminal  
+Mettre à jour Twitter via curl  
+Comparer un fichier distant avec un fichier local  
+Un chronomètre très simple et utile  
+Connexion SSH via l'hôte au milieu  
+Regarder Star Wars via telnet  
+Faire en sorte que 'less' se comporte comme 'tail -f'.  
+Fermer le shell en gardant tous les sous-processus en cours d'exécution  
+Mettre une horloge de console dans le coin supérieur droit  
+Arrêter une machine Windows à partir de Linux  
+Liste des commandes que vous utilisez le plus souvent  
+Définir une alarme sonore lorsqu'une adresse IP est en ligne  
+32 bits ou 64 bits ?  
+Redémarrez la machine lorsque tout est bloqué  
+Simuler la saisie  
+Afficher les dix principaux processus en cours d'exécution - triés par utilisation de la mémoire  
+Renommer rapidement un fichier  
+Poussez votre répertoire de travail actuel vers une pile que vous pourrez faire apparaître plus tard  
+Échapper à tous les alias de commande  
+Accès facile et rapide aux commandes souvent exécutées qui sont très longues et complexes.  
+Surveillez l'activité du service réseau en temps réel  
+Comparez deux fichiers non triés sans créer de fichiers temporaires  
+Créer un script de la dernière commande exécutée  
+Supprimer tous les fichiers d'un dossier qui ne correspondent pas à une certaine extension de fichier  
+Afficher les applications qui utilisent actuellement une connexion Internet. (Multilingue)  
+Partage de fichier via le port http 80  
+Réutiliser tous les paramètres de la ligne de commande précédente  
+Afficher un bloc de texte avec AWK  
+Définir CDPATH pour faciliter la navigation  
+Les backticks sont mauvais  
+Enregistrer la sortie de la commande dans l'image  
+Ajoutez une protection par mot de passe à un fichier que vous modifiez dans vim.  
+Afficher la hiérarchie du système de fichiers  
+Tue un processus qui verrouille un fichier.  
+Supprimez les entrées en double dans un fichier sans tri.  
+Rechercher les fichiers en double (basé sur la taille d'abord, puis sur le hachage MD5)  
+Serveur SMTP Python  
+Insérer la dernière commande sans le dernier argument (bash)  
+Afficher quelle distribution est installée  
+Copiez votre clé publique SSH sur une machine distante pour une connexion sans mot de passe - le moyen le plus simple  
+Extraire l'archive d'Internet sans sauvegarde locale  
+Trouvez le processus que vous recherchez moins celui greppé  
+Google Traduction  
+Style de matrice  
+Extraire l'audio d'un fichier vidéo.  
+Insère les résultats d'une auto-complétion dans la ligne de commande  
+Copiez votre clé publique ssh sur un serveur à partir d'une machine qui n'a pas ssh-copy-id  
+Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Une chose amusante à faire avec le bélier est en fait de l'ouvrir et de jeter un coup d'œil. Cette commande vous montrera toutes les valeurs de chaîne (texte brut) dans ram  
+Créez une image ISO de CD/DVD à partir du disque.  
+Intercepter stdout/stderr d'un autre processus  
+Définir une fonction de calcul rapide  
+Diffusez l'URL YouTube directement sur mplayer.  
+Copiez un fichier en utilisant pv et regardez sa progression  
+Arborescence graphique des sous-répertoires  
+Recherchez facilement les processus en cours d'exécution (alias).  
+Invoquez rapidement un éditeur pour écrire une commande longue, complexe ou délicate  
+Git supprime les fichiers qui ont été supprimés  
+Mkdir & cd dedans en tant que commande unique  
+Créer une version pdf d'une page de manuel  
+Supprimer tous les fichiers sauf un  
+Créer un répertoire incluant des répertoires intermédiaires  
+Plusieurs affectations de variables à partir de la sortie de commande dans BASH  
+Afficher les applications qui utilisent actuellement une connexion Internet. (Multilingue)  
+Modifier un fichier sur un hôte distant à l'aide de vim  
+Contrôle des travaux  
+Générer un mot de passe aléatoire de 30 caractères  
+Surveiller la progression d'une commande  
+Graphique # de connexions pour chaque hôtes.  
+Recherche une chaîne <motif> dans tous les fichiers du répertoire courant  
+Enregistrez un screencast et convertissez-le en mpeg  
+Convertir les secondes en format lisible par l'homme  
+Surveiller les requêtes exécutées par MySQL  
+Envoyer des notifications contextuelles sur Gnome  
+Afficher les valeurs numériques pour chacune des 256 couleurs en bash  
+Supprimer les limitations de sécurité des documents PDF à l'aide de ghostscript  
+Vérifiez votre Gmail non lu à partir de la ligne de commande  
+Recherchez commandlinefu.com à partir de la ligne de commande à l'aide de l'API  
+Affichez une horloge cool sur votre terminal  
+(Debian/Ubuntu) Découvrez à quel paquet appartient un fichier  
+Bande passante processeur/mémoire ? en Go/s  
+Monter un fichier .iso sous UNIX/Linux  
+Obtenez les 10 plus gros fichiers/dossiers pour le répertoire actuel  
+Créer une connexion persistante à une machine  
+Supprimer une ligne dans un fichier texte. Utile pour réparer  
+Ouvrir le Finder à partir de l'emplacement actuel du terminal  
+Rend les permissions du fichier2 identiques à celles du fichier1  
+Afficher une arborescence de processus à défilement quadridirectionnel avec tous les détails.  
+Attacher l'écran sur ssh  
+Exécuter une commande uniquement lorsque la charge moyenne est inférieure à un certain seuil  
+Lister tous les raccourcis bash  
+Démarrez COMMAND et tuez-le s'il est toujours en cours d'exécution après 5 secondes  
+Faire semblant d'être occupé au bureau pour savourer une tasse de café  
+Supprimer récursivement tous les répertoires vides  
+Créer une copie de sauvegarde rapide d'un fichier  
+Pour imprimer une ligne spécifique à partir d'un fichier  
+Directement ssh à l'hôte B qui n'est accessible que via l'hôte A  
+Supprimez tous les fichiers précédemment extraits d'un fichier tar (.gz).  
+Partager un écran de terminal avec d'autres  
+Fonction RTFM  
+Diffusez votre shell via les ports 5000, 5001, 5002 ...  
+Modifier un document Google avec vim  
+Écouter votre système  
+Exécutez une vérification du système de fichiers lors de votre prochain démarrage.  
+Beau temps annoncé sur ta coquille  
+Réessayez la commande précédente jusqu'à ce qu'elle se termine avec succès  
+Synchroniser la date et l'heure avec un serveur via ssh  
+Google text-to-speech au format mp3  
+Lister uniquement les répertoires  
+Quelle est mon adresse IP publique ?  
+A quel programme appartient ce port ?  
+Triez l'utilisation de la taille d'une arborescence de répertoires par gigaoctets, kilooctets, mégaoctets, puis octets.  
+Dupliquer les packages installés d'une machine à l'autre (systèmes basés sur RPM)  
+Dessine le graphe de dépendance des modules du noyau.  
+Téléchargez la vidéo Youtube avec wget!  
+Horloge binaire  
+Rappelez-vous de partir dans 15 minutes  
+Télécharger toutes les images d'un site  
+Découvrez combien de données attendent d'être écrites sur le disque  
+Sauvegardez toutes les bases de données MySQL dans des fichiers individuels  
+Amenez le mot sous le curseur sur la ligne :ex dans Vim  
+Créer une arborescence de répertoires  
+Convertir des vidéos Youtube en MP3  
+Utiliser `!#$' pour référencer un mot en arrière  
+Utilisez tee pour traiter un tuyau avec deux processus ou plus  
+Obtenez votre adresse IP sortante  
+Port qui frappe!  
+Comparez deux arborescences de répertoires.  
+Ajouter un horodatage à l'historique  
+Recherche récursive pour trouver un mot ou une phrase dans certains types de fichiers, tels que le code C  
+Modifiez récursivement les autorisations sur les fichiers, laissez les répertoires seuls.  
+Trouvez les fichiers qui ont été modifiés sur votre système au cours des 60 dernières minutes  
+Accès rapide au code ASCII d'une clé  
+Rechercher des fichiers dans une plage de dates  
+Exécutez des cmds shell distants complexes sur ssh, sans échapper aux guillemets  
+Un coloreur de grumes robuste et modulaire  
+Intercepter, surveiller et manipuler une connexion TCP.  
+Empêchez les hôtes sales connus d'atteindre votre machine  
+Vérifier les dates des certificats SSL du site  
+Contrôler la connexion ssh  
+Python version 3: Servir l'arborescence de répertoires actuelle à l'adresse http://$HOSTNAME:8000/  
+Ls sans un modèle  
+Afficher les applications qui utilisent actuellement une connexion Internet.  
+Grep colorisé en moins  
+Étant donné un chemin de fichier, débranchez le périphérique USB sur lequel se trouve le fichier (le fichier doit être sur un périphérique USB !) 
+Supprimer une ligne dans un fichier texte. Utile pour corriger les avertissements "changement de clé d'hôte ssh"  
+Enregistrez un fichier que vous avez modifié dans vim sans les autorisations nécessaires (pas d'écho)  
+Analysez le trafic à distance via ssh avec wireshark  
+Créer un répertoire et y accéder en même temps  
+Exclure plusieurs colonnes à l'aide d'AWK  
+Trouvez facilement des mégaoctets mangeant des fichiers ou des répertoires  
+Exclure .svn, .git et autres fichiers indésirables VCS pour une archive tar vierge  
+Supprimez les lignes vides d'un fichier à l'aide de grep et enregistrez la sortie dans un nouveau fichier  
+Supprimer une ligne de l'historique de votre shell  
+Quitter sans enregistrer l'historique  
+Comment établir une session d'écran Gnu à distance à laquelle vous pouvez vous reconnecter  
+Copiez une base de données MySQL sur un nouveau serveur via SSH avec une seule commande  
+Obtenez l'adresse IP de l'hôte d'où vous venez lorsque vous êtes connecté à distance  
+Nombre aléatoire entre 1 et X  
+Vous avertir lorsqu'une commande de longue durée qui a DÉJÀ COMMENCÉ est terminée  
+Créer un fichier html colorisé à partir de Vim ou Vimdiff  
+Envoyez votre microphone au haut-parleur d'un ordinateur distant  
+Créez un aperçu astucieux du matériel de votre ordinateur  
+Enregistrez vos sessions dans vim pour les reprendre plus tard  
+Convertir PDF en JPG  
+Lier une clé avec une commande  
+Trouver tous les fichiers de plus de 500 Mo  
+GREP d'un fichier PDF.  
+Test de débit du réseau ssh en direct  
+Convertir unixtime en lisible par l'homme  
+Une chose amusante à faire avec le bélier est en fait de l'ouvrir et de jeter un coup d'œil. Cette commande vous montrera toutes les valeurs de chaîne (texte brut) dans ram  
+Embellir un fichier XML  
+Dire à la machine Debian locale d'installer les packages utilisés par la machine Debian distante  
+Répertorie tous les ports d'écoute avec le PID du processus associé  
+Intersection entre deux fichiers  
+Alias ​​HEAD pour une sortie intelligente automatique  
+man coloré  
+Imprime les numéros de ligne  
+Diff sur deux variables  
+Mettre en pause/rétablir manuellement le processus Firefox avec des signaux POSIX  
+Utiliser lynx pour exécuter des actions répétées sur le site Web  
+Afficher une liste de committers triés par fréquence de commits  
+Vérifier l'état de 'dd' en cours (OS X)  
+Convertir les secondes en minutes et secondes  
+Un processus enfant qui survit à la mort du parent (c'est certain)  
+Trouver un périphérique USB  
+Prendre une capture d'écran via SSH  
+Ouvre vi/vim au motif dans le fichier  
+Farce du poisson d'avril  
+Copiez le répertoire de travail et compressez-le à la volée tout en affichant la progression  
+Pipe stdout et stderr, etc., pour séparer les commandes  
+Planifiez un script ou une commande en x nombre d'heures, exécuté silencieusement en arrière-plan même si vous êtes déconnecté  
+Aller au répertoire parent du nom de fichier modifié dans la dernière commande  
+Dessiner un triangle de Sierpinski  
+Rendre quelque chose de plus génial  
+Lister tous les fichiers ouverts par une commande particulière  
+Obtient une citation Futurama aléatoire de /.  
+Recherche récursive et remplacement de l'ancien par une nouvelle chaîne, à l'intérieur des fichiers  
+Arrêt de l'écran.  
+Exécute un script bash en mode débogage  
+Répertorier le nombre et le type de connexions réseau actives  
+Archive cryptée avec openssl et tar  
+Créer un mot de passe fort, mais facile à retenir  
+Utilisez file(1) pour afficher les informations sur l'appareil  
+Prévenir les accidents lors de l'utilisation de caractères génériques  
+Insérer le dernier argument de la commande précédente  
+Voir la nouvelle bande dessinée xkcd.  
+Appuyez sur n'importe quelle touche pour continuer  
+Sauvegardez tous vos favoris commandlinefu.com dans un fichier en clair  
+Supprimer les codes de couleur (caractères spéciaux) avec sed  
+Limiter la bande passante avec cstream  
+Exécutez un long travail et informez-moi quand il est terminé  
+Lorsque vous vous sentez déprimé, cette commande aide  
+Affichez bien les autorisations au format octal avec le nom de fichier  
+Créer un proxy TCP (ou UDP) à usage unique  
+Trouver l'emplacement géographique d'une adresse IP  
+Lire la page de manuel d'une commande unix au format pdf dans l'aperçu (Os X)  
+Au lieu d'écrire une construction multiligne if/then/else/fi vous pouvez le faire par une ligne  
+Changez 2 caractères sur une ligne de commande.  
+Accélérer le lancement de firefox  
+Formater txt en tant que tableau ne joignant pas les colonnes vides  
+Enregistreur Shell avec relecture  
+Lier une clé avec une commande  
+Exclure une colonne avec coupe  
+Lister les fichiers avec des guillemets autour de chaque nom de fichier  
+Dupliquer plusieurs disques simultanément  
+Créer un CD de test audio d'ondes sinusoïdales de 1 à 99 Hz  
+Écoutez BBC Radio à partir de la ligne de commande.  
+Obtenez votre adresse IP externe  
+Répertorier les packages deb installés par taille  
+Surveiller la bande passante par pid  
+Exécuter une commande avec un timeout  
+Envoyer un écho au réseau de socket  
+Utilisez vim pour obtenir une sortie de diff colorée  
+Rechercher des fichiers contenant du texte  
+Effectuer un branchement conditionnel  
+Reprendre scp d'un gros dossier  
+Découverte de la force brute  
+Utilisez tee + substitution de processus pour diviser STDOUT en plusieurs commandes  
+Annoter tail -f avec des horodatages  
+Collecteur de données rapide et intégré basé sur un tube  
+Repointer un lien symbolique existant vers un nouvel emplacement  
+GRUB2 : définissez Super Mario comme morceau de démarrage  
+Rechercher les fichiers en double (basé sur la taille d'abord, puis sur le hachage MD5)  
+Fermer une session ssh suspendue  
+Récupérer un fichier supprimé  
+Vous donne l'air occupé  
+Convertir les noms de fichiers du répertoire courant en minuscules  
+Trouver les fichiers qui ont été modifiés par une commande donnée  
+Tracer rapidement une liste de nombres  
+Découpez un morceau de film à partir d'un fichier. Choisissez une durée et une heure de début arbitraires.  
+Analyser un journal d'accès Apache pour les adresses IP les plus courantes  
+Empêcher les fichiers volumineux d'être mis en cache dans la mémoire (sauvegardes !)  
+Convertir un seul chiffre en deux chiffres  
+Limiter l'utilisation du processeur d'un processus  
+Générer un mot de passe de 4 mots de style XKCD #936  
+Connexion vnc sur ssh à usage unique  
+Diffuser des pages Web distantes à l'aide de wget  
+Répertorier les hôtes actifs dans un sous-réseau spécifique  
+Compteur de processus par utilisateur  
+Afficher tous les formats de date, Aide de référence rapide Alias  
+Votre terminal chante  
+Assurez-vous qu'un script est exécuté dans un terminal.  
+Style de matrice  
+Redémarrage rapide (en douceur) en sautant les vérifications matérielles  
+Dirigez la sortie d'une commande vers votre presse-papiers  
+Ls -hog --> un ls -l plus compact  
+Git supprime les fichiers qui ont été supprimés  
+Imprimez efficacement une ligne en profondeur dans un énorme fichier journal  
+S'assure silencieusement qu'un FS est monté sur le point de montage donné (vérifie si tout va bien, sinon démontez, créez un répertoire et montez) 
+Renifler le trafic réseau sur une interface donnée et afficher les adresses IP des machines communiquant avec l'hôte actuel (une IP par ligne)
+Vérifiez si le système est 32 bits ou 64 bits  
+Créer une archive compressée locale à partir du répertoire de l'hôte distant  
+Invoquez rapidement un éditeur pour écrire une commande longue, complexe ou délicate  
+Envoyer une circulaire  
+Le serveur d'excuses BOFH  
+J'ai enfin découvert comment utiliser notify-send avec at ou cron  
+Voir udev au travail  
+Bash : raccourci clavier pour placer la ligne de commande actuelle dans l'éditeur de texte  
+Afficher le répertoire de travail actuel d'un processus  
+Conversions de base avec bc  
+Mettre readline en mode vi  
+Transférer la clé publique SSH vers une autre machine en une seule étape  
+Démarrer une commande sur un seul cœur de processeur  
+Convertir des fichiers majuscules en fichiers minuscules  
+Liste des commandes que vous utilisez le plus souvent  
+Bloc-notes dans un navigateur (tapez ceci dans la barre d'URL)  
+Afficher l'heure actuelle dans les fuseaux horaires demandés.  
+Dmesg avec des dates colorées lisibles par l'homme  
+Tamponnez une ligne de texte en haut des pages pdf.  
+Imprimer le diagramme des utilisateurs/groupes  
+Créer un serveur de fichiers, écoutant sur le port 7000  
+Ignorer tous les alias et fonctions de la commande  
+Partagez votre session de terminal en temps réel  
+Df sans retour à la ligne sur le nom FS long  
+Stderr en couleur  
+Configuration VI pour enregistrer les fichiers avec +x lorsqu'un shebang est trouvé sur la ligne 1  
+Créez un seul PDF à partir de plusieurs images avec ImageMagick  
+Dd avec barre de progression et statistiques  
+Supprimer toutes les lignes vides d'un fichier avec vim  
+Perl one-liner pour obtenir le numéro de la semaine en cours  
+Sauvegardez toutes les bases de données MySQL dans des fichiers individuels  
+Commande d'utilisation ultime du répertoire actuel  
+Terminal - Afficher les répertoires dans le PATH, un par ligne avec sed et bash3.X `here string'  
+Avoir une session ssh ouverte pour toujours  
+Comparer récursivement deux répertoires et afficher leurs différences dans un format lisible  
+SUPPRIMER tous ces fichiers en double sauf un basé sur la comparaison de hachage md5 dans l'arborescence de répertoires actuelle  
+Trouvez les liens symboliques cassés et supprimez-les  
+Lister les champs de formulaire enregistrés de Firefox  
+Utiliser awk pour additionner/compter une colonne de nombres.  
+Obtenez tous les raccourcis clavier à l'écran  
+Obtenir la liste des serveurs avec un port spécifique ouvert  
+Renvoyer l'ip externe  
+Serveur de chat crypté multi-utilisateurs simple pour 5 utilisateurs  
+Vérifiez si votre FAI intercepte les requêtes DNS  
+Supprimer une plage de lignes d'un fichier  
+Extraire l'audio d'une vidéo Flash (*.flv) sous forme de fichier mp3  
+Cat un tas de petits fichiers avec indication de fichier  
+Empêchez Flash de suivre tout ce que vous faites.  
+Lister tous les ports ouverts et leurs exécutables propriétaires  
+Purger les fichiers de configuration des paquets supprimés sur les systèmes basés sur Debian  
+Surveiller les connexions ouvertes pour httpd, y compris écouter, compter et trier par IP  
+Convertir du texte en image  
+Capture d'écran à distance  
+Définissez des mots et des phrases avec google.  
+Lister tous les auteurs d'un projet git particulier  
+Suivre les vols depuis la ligne de commande  
+Clients SSH plus durs, plus rapides et plus forts  
+Nettoyez les émissions de télévision mal nommées.  
+Pretty Print un simple csv dans la ligne de commande  
+Nettoyez la base de données de firefox.  
+Vérifier les ports ouverts  
+Trouver les fichiers en double (basé sur le hachage MD5)  
+Triple surveillance à l'écran  
+Invite Smiley Face Bash  
+Enregistrez une page HTML et convertissez-la en un fichier .pdf  
+Créer un fichier d'échange d'urgence lorsque l'espace d'échange existant devient restreint  
+Déplacez un fichier ou un répertoire, mais gardez-le accessible à l'ancien emplacement via un lien symbolique.  
+Un petit compteur  
+Rsync données distantes en tant que root en utilisant sudo  
+Convertir toutes les tables et tous les champs MySQL en UTF8  
+Canaliser STDOUT vers vim  
+Copiez stdin dans votre tampon X11  
+Obtenir des informations sur les ports hôtes distants et la détection du système d'exploitation  
+Copier une structure de fichiers sans fichiers  
+Démarrer une nouvelle commande dans une nouvelle fenêtre d'écran  
+Conversion d'hexadécimal ou d'octal en décimal  
+Enregistrer la page de manuel au format pdf  
+Convertir les secondes en minutes et secondes  
+Lister les fichiers accédés par une commande  
+Un moyen court et élégant de sauvegarder un seul fichier avant de le modifier.  
+Trouver tous les liens vers un fichier  
+Récupérer des vidéos flash tmp (supprimées immédiatement par le plugin du navigateur)  
+Rsync au lieu de scp  
+Envoyer une circulaire  
+Visitez wikileaks.com  
+Faire en sorte que sudo oublie le mot de passe instantanément  
+Imprimer une rangée de caractères sur le terminal  
+Téléchargez et décompressez l'archive tar sans la laisser sur votre disque dur  
+Diff de couleur (via vim) sur 2 fichiers distants sur votre ordinateur local.  
+Diviser une archive tar en plusieurs parties  
+Supprimer le bit exécutable de tous les fichiers du répertoire courant de manière récursive, à l'exclusion des autres répertoires   
+Débogage BASH plus précis  
+Obtenez tous les pdf et zips d'un site Web en utilisant wget  
+Montez la première partition NTFS dans un fichier VDI (VirtualBox Disk Image)  
+Montrez-moi un histogramme des minutes les plus chargées dans un fichier journal :  
+Imprimez une superbe démo en niveaux de gris !  
+Créer une liste de nombres binaires  
+Créer un tableau de bord de présentation du système sur la touche F12  
+Queue colorée  
+Désactiver l'historique pour la session shell en cours  
+Rechercher des commandes à partir de la ligne de commande  
+Comment exécuter X sans aucun matériel graphique  
+Installer un add-on/thème Firefox pour tous les utilisateurs  
+Effacer la ligne actuelle  
+Générez rapidement un hachage MD5 pour une chaîne de texte à l'aide d'OpenSSL  
+Mettre fin à une session SSH gelée  
+Sauvegardez une base de données distante sur votre système de fichiers local  
+Générer une adresse MAC aléatoire  
+Conversion par lots de fichiers en utf-8  
+Obtenir les en-têtes http pour une URL  
+Message git-commit aléatoire  
+Générer un code QR pour un hotspot WiFi  
+Vérifiez si le système est 32 bits ou 64 bits  
+Vi  un fichier distant  
+Afficher les autorisations du répertoire actuel et de tous les répertoires vers le haut vers /  
+Vous déplacer rapidement d'un répertoire  
+Masquer le nom d'un processus répertorié dans la sortie `ps`  
+Supprimer une ligne d'un fichier à l'aide de sed (utile pour mettre à jour les clés de serveur SSH connues lorsqu'elles changent)   
+Montrer quel PID écoute sur le port 80 sous Linux  
+Liste par taille tous les répertoires d'une arborescence donnée.  
+Trouver les fichiers les plus récemment modifiés (récursivement)  
+Toutes les IP connectées à mon hébergeur  
+Déterminez quel shell vous utilisez  
+Téléchargez un fichier et décompressez-le pendant le téléchargement  
+Renommez tous les fichiers .jpeg et .JPG pour avoir l'extension .jpg  
+Supprimer les fichiers Thumbs.db des dossiers  
+Liste les fichiers ouverts qui n'ont aucun lien vers eux sur le système de fichiers  
+Afficher les informations du BIOS  
+Ouvrez le chemin avec votre programme par défaut (sur Linux/*BSD)  
+Copier un élément de la commande précédente  
+Afficher l'activité des utilisateurs par répertoire.  
+Utiliser les paramètres des commandes précédentes dans la commande actuelle  
+Mettre en miroir une structure de répertoires à partir de sites Web avec des index de fichiers générés par Apache  
+Partagez rapidement du code ou du texte de vim avec d'autres.  
+Copiez de host1 à host2, via votre hébergeur  
+Convertissez tous les Flac d'un répertoire en MP3 en utilisant un débit binaire variable de qualité maximale  
+Limiter l'utilisation de la bande passante par apt-get  
+Accordez votre guitare depuis la ligne de commande.  
+Grep -v avec plusieurs modèles.  
+Rediriger stdout et stderr chacun vers des fichiers séparés et imprimer les deux à l'écran  
+Identifier les longues lignes dans un fichier  
+Utiliser tous les cœurs ou processeurs lors de la compilation  
+Imprime la contribution totale du nombre de lignes par utilisateur pour un référentiel SVN  
+Analyser les champs awk  
+Différence SVN colorée  
+Exécutez une commande, stockez la sortie dans un pastebin sur Internet et placez l'URL sur le xclipboard  
+Afficher les branches git par date - utile pour afficher les branches actives  
+Rechercher si la commande a un alias  
+Trouver l'heure du dernier redémarrage  
+Afficher un fichier de configuration sans commentaires  
+Écran de démarrage en mode détaché  
+Iso-8859-1 à utf-8 renommage récursif sécurisé  
+Créer une arborescence de répertoires  
+Exécutez n'importe quel programme GUI à distance  
+Supprimer toutes les lignes vides d'un fichier avec vim  
+Lister les fichiers utilisés par n'importe quel processus  
+Afficher les plus gros fichiers/répertoires, le plus gros en premier avec 'k, m, g' eyecandy  
+Remplacez le répertoire par le chemin réel au lieu du chemin du lien symbolique  
+Téléchargez un site Web statique complet sur votre machine locale  
+Supprimer récursivement les répertoires .svn de l'emplacement actuel  
+Compter les fichiers sous le répertoire actuel (y compris les sous-dossiers)  
+Lire et écrire sur les sockets TCP ou UDP avec les outils bash courants  
+Utilisez top pour surveiller uniquement tous les processus avec le même fragment de nom 'foo'  
+Supprimer le dernier mot de la ligne de commande  
+Dessine le graphe de dépendance des modules du noyau.  
+Pages de manuel en couleur  
+Imprimer sans exécuter la dernière commande qui commence par...  
+A quoi sert cet interrupteur ?  
+Enregistrez la liste de toutes les commandes disponibles dans votre boîte dans un fichier  
+Protéger le répertoire d'un rm -rf trop zélé *  
+Regarder le débit RX/TX d'une interface en kb/s  
+Lister les 10 plus grands répertoires du répertoire courant  
+Réutiliser le dernier paramètre  
+LED clignotante Port de la carte réseau  
+Faire semblant d'être occupé au bureau pour savourer une tasse de café  
+Voir où une URL raccourcie vous mène avant de cliquer  
+Diffusez l'URL YouTube directement sur MPlayer  
+Générer une adresse MAC aléatoire  
+Exécution de scripts après un redémarrage pour les utilisateurs non root .  
+Exécuter la commande sur un groupe de nœuds en parallèle  
+Créer ou exécuter un script chaque fois qu'un fichier dans un répertoire est modifié  
+Choisissez dans un joli menu graphique quelle station de radio DI.FM écouter  
+Vérifier l'état de 'dd' en cours (OS X)  
+Balayage ping sans nmap  
+Convertir un fichier image Nero en ISO  
+Afficher l'activité réseau de n'importe quelle application ou utilisateur en temps réel  
+Copie avec progression  
+Imprimez une liste des codes d'erreur standard et des descriptions.  
+Recherche récursive et remplacement de l'ancien par une nouvelle chaîne, à l'intérieur des fichiers  
+Générer un mot de passe aléatoire  
+Une fonction pour produire une page de manuel sous forme de fichier pdf  
+Couleurs de coque incroyables, ombrage, arrière-plans, effets pour non-X  
+Afficher les répertoires dans le PATH, un par ligne  
+Déplacez toutes les images d'un répertoire dans une hiérarchie de répertoires basée sur l'année, le mois et le jour en fonction des informations exif 
+Suivre la queue par son nom (correction pour les journaux roulants avec la queue -f)  
+Convertir "man page" en fichier texte  
+Obtenez votre adresse IP publique en utilisant dyndns  
+Afficher les statistiques de bande passante actuelles  
+L'ID de processus donné imprime ses variables d'environnement  
+Restauration de certaines données à partir d'un fichier texte corrompu  
+Afficher la console système à distance  
+Rechercher la définition d'un mot  
+Diff fichiers sur deux hôtes distants.  
+Ctrl+S Ctrl+Q verrouillage et déverrouillage de la sortie du terminal  
+Rediriger STDIN  
+Je déteste `echo X | Y`  
+Envoyer des pressions de touches à une application X  
+Ajouter un calendrier au fond d'écran du bureau  
+Parcourir la RAM système sous une forme lisible par l'homme  
+Sauvegardez votre disque dur avec dd  
+Calcule la date il y a 2 semaines à partir de samedi au format spécifié.  
+Obtenir des informations sur le réseau Cisco  
+Appuyez sur ctrl + r dans un shell bash et tapez quelques lettres d'une commande précédente  
+Extraire l'audio d'une vidéo  
+Coup d'œil rapide sur qui a utilisé votre système récemment  
+Ping une plage d'adresses IP  
+Utiliser le dernier argument de la dernière commande  
+Afficher les programmes qui écoutent sur les ports TCP et UDP  
+Déterminer si un port est ouvert avec bash  
+Rechercher un processus par nom  
+Télécharger tous les mp3 répertoriés dans une page html  
+Exécutez le serveur PHP intégré dans le dossier actuel  
+Appuyez sur Entrée et prenez une photo WebCam.  
+Conversion de documents en ligne de commande avec Libreoffice  
+Sablier  
+Obtient la prononciation anglaise d'une phrase  
+Vérifier la syntaxe de tous les fichiers PHP dans le répertoire courant et tous les sous-répertoires  
+Demander un mot de passe, le style passwd  
+Surveiller l'utilisation de la mémoire  
+Recherche de contenu.  
+Minuterie avec alarme sonore  
+Invoquez rapidement un éditeur pour écrire une commande longue, complexe ou délicate  
+Exécuter la commande sur un groupe de nœuds en parallèle  
+Liste des commandes que vous utilisez le plus souvent  
+Tuer le processus par nom  
+Remplacer l'invite par MS-DOS one (blague)  
+Créer une image ISO d'un dossier  
+Une fonction shell pour imprimer une règle de la largeur de la fenêtre du terminal.  
+Taper la date actuelle (ou n'importe quelle chaîne) via un raccourci comme si les touches avaient été réellement tapées avec le clavier matériel dans n'importe quelle application.  
+Mettez à jour Twitter via curl (et définissez également le bit "de")  
+Le moyen le plus rapide (i blv) d'obtenir le nom du programme actuel moins le chemin (BASH)  
+Une fonction poubelle pour bash  
+Nettoyez votre terminal cassé  
+Écouter de la musique depuis youtube sans téléchargement  
+Générez un mot de passe unique et sécurisé pour chaque site Web auquel vous vous connectez  
+Rechercher dans les commandes précédentes  
+Identifier les différences entre les répertoires (éventuellement sur différents serveurs)  
+Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Afficher les répertoires dans le PATH, un par ligne  
+Déplacez beaucoup de fichiers sur ssh  
+Rechercher et supprimer les répertoires vides, démarrer dans le répertoire de travail actuel  
+Répertoriez vos plus gros packages installés.  
+Surveiller les connexions TCP ouvertes  
+Réparer le serveur de son cassé d'Ubuntu  
+Télécharger tous les marque-pages Delicious  
+Bip lorsqu'un serveur se déconnecte  
+Nombre de connexions ouvertes par IP.  
+Nombres de Fibonacci avec awk  
+Créer un favicon  
+Vérifiez la vitesse et le type de RAM sous Linux  
+Exécutez le gestionnaire de profils Firefox  
+Ajouter les modifications oubliées au dernier commit git  
+Trier les quads en pointillés  
+Obtenir le numéro d'étiquette de service Dell d'une machine Dell  
+Reprendre les transferts de fichiers scp abandonnés  
+Ajoutez votre clé SSH publique à un serveur en une seule commande  
+Parcourez une palette de 256 couleurs  
+Google text-to-speech au format mp3  
+Recherche verbatim Google sur votre terminal  
+Grep traite la liste en évitant le grep lui-même  
+Échangez les deux derniers arguments de la ligne de commande courante  
+Transférer un fichier vers plusieurs hôtes via ssh  
+Suivre un journal sur ssh  
+Du avec histogramme coloré  
+Triez la sortie de la commande 'du' en commençant par la plus grande, en utilisant une sortie lisible par l'homme.  
+Vérifier/modifier la commande d'historique bash avant de l'exécuter  
+Redimensionner une image à au moins une résolution spécifique  
+Interroger la liste des ports bien connus  
+Créer .pdf à partir de .doc  
+Fichiers XML de différences  
+Découvrir tous les fichiers/répertoires ouverts sous un répertoire  
+Effacer l'écran, maintenir l'invite au niveau des yeux (plus rapide que clear(1), tput cl, etc.)  
+Bas pour tout le monde ou juste moi ?  
+Un test de formatage pour David Winterbottom : amélioration de la ligne de commande pour les soumissionnaires  
+Exécutez un programme de manière transparente, mais imprimez une trace de pile en cas d'échec  
+Comparer les copies d'un fichier avec md5  
+Sauvegardez de délicieux signets  
+Continuer une tâche en cours en arrière-plan  
+Obtenir tous les liens d'un site Web  
+Trouver toutes les adresses IP actives dans un sous-réseau  
+Afficher les informations du BIOS  
+Désassembler du code shell  
+Liste les fonctions bash définies dans .bash_profile ou .bashrc  
+Ignorer le répertoire .svn dans l'achèvement du nom de fichier  
+Générateur de faits aléatoires fonctionnel  
+Sauvegardes à distance avec tar sur ssh  
+Prononcer un mot anglais avec Dictionary.com  
+Changer le statut du pidgin  
+Grep par paragraphe au lieu de par ligne.  
+Vim : Passer de la division horizontale à la division verticale  
+Jeu de devinettes sur les nombres  
+Triez tous les processus en cours d'exécution en fonction de leur utilisation de la mémoire et du processeur  
+Changer d'utilisateur, assumer l'environnement, rester dans le répertoire actuel  
+Enregistrer la disposition actuelle du haut  
+Fonction qui génère des points toutes les secondes jusqu'à la fin de la commande  
+Test de la vitesse de lecture du disque dur  
+Quelle est la vitesse de connexion à une URL, quelques statistiques de curl  
+Un œuf de Pâques intégré à Python pour vous donner le Zen de Python  
+Obtenir toutes les IP via ifconfig  
+Utilisez Cygwin pour parler au presse-papiers de Windows  
+Répertorier les programmes avec des ports et des connexions ouverts  
+Trouver des fichiers image jpeg corrompus  
+'Corriger' un fichier dactylographié créé par le programme 'script' pour supprimer les caractères de contrôle  
+Partager une session "écran"  
+Purger les fichiers de configuration des paquets supprimés sur les systèmes basés sur Debian  
+Afficher tous les disques/partitions/blocs périphériques détectés pouvant être montés  
+Fusionner les fichiers *.pdf  
+Ajouter stdout et stderr à un fichier et imprimer stderr à l'écran [bash]  
+Remplacez rapidement toutes les extensions .html des fichiers du dossier par .htm  
+Supprimer la ligne spécifiée  
+Lire la sortie d'une commande dans le tampon de vim  
+Trouver des liens symboliques brisés  
+Tunnel SSH avec capacité de reconnexion automatique  
+Trouver le processus associé à un port  
+Scping de fichiers avec compression simplifiée (tar gzip)  
+Ajouter tous les fichiers non sous contrôle de version au référentiel  
+Lumières disco dans le terminal  
+Sélectionnez la zone d'écran rectangulaire  
+Montrez l'âge de l'installation de votre système d'exploitation Linux  
+Découvrez l'heure de début du processus  
+Rechercher et rattacher automatiquement à une session d'écran détachée  
+C'est ainsi que vous devez pousser une chaîne dans le stdin d'une commande.  
+Ping comme traceroute  
+Quel modèle d'ordinateur j'utilise ?  
+Extraire le contenu tar sans répertoire parent principal  
+Cibler une colonne spécifique pour la substitution de modèle  
+Exécuter une commande lorsqu'un fichier est modifié  
+Sous-chaîne une variable  
+Un serveur Web en ligne de commande sur le port 80 utilisant nc (netcat)  
+RDP via un tunnel SSH  
+"Clone" une liste de packages installés d'un serveur Debian/Ubuntu à un autre  
+Capture d'écran à distance  
+Google text-to-speech au format mp3  
+Ajouter le résultat d'une commande dans vi  
+Placez le NUM-ème argument de la commande la plus récente sur le shell  
+Trouver le paquet auquel appartient une commande sur Debian  
+Rechercher un caractère unicode par son nom  
+Démarrer dd et afficher la progression toutes les X secondes  
+Demander à l'utilisateur de confirmer  
+Entier non signé aléatoire  
+Tuez tous les processus qui vous appartiennent  
+Rendre un fichier non inscriptible / immuable par root  
+Analysez le trafic à distance via ssh avec wireshark  
+Envoyer un e-mail avec curl et gmail  
+Traduit les acronymes pour vous  
+Supprimer les caractères DOS via VIM (^M)  
+Créer un gif animé à partir d'une vidéo Youtube  
+Imprimer juste la ligne 4 d'un fichier texte  
+Imprimer juste la ligne 4 d'un fichier texte  
+Galerie d'images HTML rapide à partir du contenu du dossier  
+Obtenez votre adresse IP externe sans curl  
+Reprendre une session d'écran détaché, en redimensionnant pour s'adapter au terminal actuel  
+Démarrer un serveur HTTP qui sert des documents Python  
+Faites un peu d'apprentissage...  
+Insérer le dernier argument de la commande précédente  
+Retour chariot pour réimpression sur la même ligne  
+Copiez une arborescence de dossiers via ssh en utilisant la compression (pas de fichiers temporaires)  
+Calculateur de ligne de commande  
+Sauvegardez un lecteur local dans un fichier sur l'hôte distant via ssh  
+Tuer les processus qui ont été exécutés pendant plus d'une semaine  
+Liste des outils réseau sous Linux  
+Imprimer la chaîne de texte verticalement, un caractère par ligne.  
+Ajouter un préfixe aux noms de fichiers  
+Récupérer un terminal bouché  
+Choisir une ligne au hasard dans un fichier  
+Obtenez toutes ces commandes dans un fichier texte avec description.  
+Suppression de ^M à la fin de chaque ligne pour les fichiers  
+Fichiers de sauvegarde incrémentiels avec rsync sur une partition NTFS  
+Trouver les fichiers supprimés encore utilisés via /proc  
+Connectez-vous à google talk via ssh en configurant votre client de messagerie instantanée pour utiliser le port localhost 5432  
+Décodage URL  
+Pour tous les fichiers flv dans un répertoire, saisissez la première image et créez un fichier jpg.  
+Enrouler de longues lignes d'un texte  
+Validez et imprimez joliment les expressions JSON.  
+Grep colorisé  
+Depuis vi, dirigez un morceau de lignes vers une ligne de commande et remplacez le morceau par le résultat  
+Grep pour mot dans le répertoire (récursif)  
+Alias ​​Unix pour la commande de date qui vous permet de créer des horodatages au format ISO 8601  
+Une autre commande Curl your IP  
+Compter les connexions IPv4 par IP  
+Modification de l'extension des fichiers  
+Archiver tous les fichiers contenant des modifications locales (svn)  
+Lancez-le ;)  
+Correspondance de modèle dans awk - pas de grep  
+Moyen optimal de supprimer un grand nombre de fichiers  
+Du avec histogramme coloré  
+Monter un fichier de disque virtuel VMware (.vmdk) sur une machine Linux  
+Copie rapide  
+Envoi d'un fichier via icmp avec hping  
+Récupérer la population humaine actuelle de la Terre  
+Tuer une connexion ssh cassée  
+Convertir JSON en YAML  
+Convertir le texte Shell en majuscules/minuscules  
+Le répertoire distant le plus rapide rsync sur l'archivage ssh que je peux rassembler (40 Mo/s sur 1 Go de cartes réseau)  
+Chiffres binaires Effet matrice  
+Ouvrez deux fichiers côte à côte dans vim (une fenêtre, deux volets)  
+Répéter une commande toutes les secondes  
+Mettre à jour tous les packages installés via homebrew  
+Daemonize nc - Transmettre un fichier comme un serveur http  
+Trouver les valeurs ulimit du processus en cours d'exécution  
+Diffère les modifications actuelles du tampon vi par rapport au fichier d'origine  
+Rediriger l'extrait tar vers un autre répertoire  
+Imprimer des formules de multiplication  
+Trouvez les logiciels malveillants dans les répertoires actuels et les sous-répertoires par hachage MD5  
+Regardez plusieurs fichiers journaux de différentes machines dans une seule fenêtre multitail sur votre propre machine  
+Exécutez une commande, convertissez la sortie en fichier .png, téléchargez le fichier sur imgur.com, puis renvoyez l'adresse du .png. 
+Tous dehors  
+Renommer le fichier de remplissage numérique zéro  
+Connaître le répertoire de démarrage d'un script  
+Sélection d'un fichier/dossier aléatoire d'un dossier  
+Indiquez votre adresse MAC  
+Ssh vers machine derrière NAT partagé  
+Compte à rebours  
+Lister toutes les extensions de fichiers dans un répertoire  
+Envoyer une requête http HEAD avec curl  
+Afficher le mode hexadécimal dans vim  
+Afficher les informations sur la clé ~/.ssh/known_hosts  
+Tuez tous les processus Zombie (garanti !)  
+Prévenez les accidents et testez votre commande avec echo  
+Exclure une colonne avec awk  
+Obtenir mon adresse IP publique  
+Faire semblant d'être occupé au bureau pour savourer une tasse de café  
+Vider un fichier  
+Meilleure façon d'utiliser l'envoi de notification avec at ou cron  
+Vider un fichier texte en une seule fois  
+Calcule les mots les plus fréquemment utilisés d'un fichier texte  
+Compte à rebours  
+Imprimez des informations sur votre véritable utilisateur.  
+Servir l'arborescence de répertoires actuelle à http://$HOSTNAME:8080/  
+Traitement JSON avec Python  
+Déplacer les éléments des sous-répertoires vers le répertoire courant  
+Restreindre la bande passante pour la commande SCP  
+Optimiser les documents PDF  
+Test de débit du réseau ssh en direct  
+Économiseur d'écran Bash (défilement de l'art ascii avec message personnalisable)  
+Mettre à niveau tous les modules perl via CPAN  
+Supprimez les lignes contenant un motif spécifique ($1) du fichier ($2).  
+Listez vos plus gros packages installés (sur Debian/Ubuntu)  
+Rsync + trouver  
+Autossh + ssh + screen = sessions permanentes super rad  
+Enregistrez l'entrée et la sortie du microphone dans un fichier mp3 horodaté  
+Trouver des exécutables binaires en cours d'exécution qui n'ont pas été installés à l'aide de dpkg  
+Parcourez une palette de 256 couleurs  
+Téléchargement de fichiers en parallèle avec wget  
+Déplacez beaucoup de fichiers sur ssh  
+Nettoyez la base de données de firefox.  
+Oeuf de Pâques Vim  
+Trouvez le processus que vous recherchez moins celui greppé  
+Diffusez l'URL YouTube directement sur mplayer  
+Mettre à jour Twitter via curl  
+Ssh saisie semi-automatique  
+Obtenir toutes les IP via ifconfig  
+VIM : remplace une chaîne par un nombre incrémenté entre les marques 'a et 'b (par exemple, convertit la chaîne ZZZZ en 1, 2, 3, ...) Obtenir le chemin canonique absolu donné un chemin relatif et/ou non canonique  
+Obtenir le chemin canonique absolu donné un chemin relatif et/ou non canonique 
+Créer une archive en plusieurs parties sans logiciel indésirable propriétaire  
+Lister et supprimer les fichiers de plus d'un an  
+Afficher le dernier état de sortie d'une commande  
+Activer ** pour développer les fichiers de manière récursive (>=bash-4.0)  
+Ligne de commande pour obtenir la cotation boursière via Yahoo  
+Lit la musique de SomaFM  
+Convertir camelCase en traits de soulignement (camel_case)  
+Définissez votre profil pour reprendre ou démarrer une session d'écran lors de la connexion  
+Lire des fichiers vidéo haute résolution sur un processeur lent  
+Créer un répertoire nommé d'après la date actuelle  
+Surveillez les modifications dynamiques dans le journal dmesg.  
+Générer une liste des packages installés sur les systèmes basés sur Debian  
+Trouvez le processus qui utilise un certain port, par exemple le port 3000  
+Suspendre le fil en cours  
+Convertit en PDF tous les fichiers OpenOffice.org du répertoire  
+Créer un tas de fichiers factices pour les tests  
+Convertir des fichiers .wma en .ogg avec ffmpeg  
+Trouver le nom de la distribution et/ou la version/l'édition  
+Générer des mots de passe aléatoires  
+Raccourci bash : !$ !^ !* !:3 !:h et !:t  
+Grep sans qu'il montre son propre processus dans les résultats  
+Recherchez de manière récursive, à partir du répertoire courant vers le bas, les fichiers et répertoires dont les noms contiennent un ou plusieurs espaces blancs et remplacez chacune de ces occurrences par un seul trait de soulignement.
+Indique à quel groupe vous n'appartenez PAS (à l'opposé de la commande "groups") --- utilise sed  
+Obtenez rapidement un résumé des tailles des fichiers et des dossiers  
+Faites écho aux dernières commandes de commandlinefu sur la console  
+Moyen optimal de supprimer un grand nombre de fichiers  
+Déposez la première colonne de sortie en la dirigeant vers cette  
+Créer un tas de fichiers texte factices  
+Récupère le Nième argument de la dernière commande (en gérant correctement les espaces)  
+Ignorer temporairement la clé d'hôte SSH incompatible  
+Supprimer tous les fichiers de taille nulle du répertoire actuel (non récursif)  
+Regardez la progression de 'dd'  
+Obtenir un flux de flux d'un utilisateur Twitter  
+Créer l'en-tête d'autorisation requis pour un flux de flux Twitter  
+Créer la chaîne de base de signature requise pour un flux de flux Twitter  
+Créer le jeton oauth requis pour un flux de flux Twitter  
+Ouvrir une capture d'écran d'un bureau distant via ssh  
+Vérifie ton orthographe  
+Trouvez tous les fichiers de plus de 500 Mo et de moins de 1 Go  
+Afficher la bande passante utiliser oneliner  
+Changer/Modifier l'horodatage de manière interactive  
+Trier le contenu d'un fichier texte en place.  
+Charger instantanément l'historique bash d'un shell dans un autre shell en cours d'exécution  
+Copie avec barre de progression - rsync  
+Plusieurs affectations de variables à partir de la sortie de commande dans BASH  
+Générer un mot de passe aléatoire de 30 caractères  
+Exécutez une vérification du système de fichiers ext4 et une analyse des badblocks avec des informations de progression  
+Indiquez votre adresse MAC  
+Renommez tous les fichiers contenant la sous-chaîne 'foo' en la remplaçant par 'bar'  
+Créer un fichier vierge de 5 Mo via un trou de recherche  
+ROT13 à l'aide de la commande tr  
+Rendre vim ouvert dans les onglets par défaut (enregistrer dans .profile)  
+Copie sécurisée d'un serveur à un autre sans rsync et préservation des utilisateurs, etc.  
+Identique à [Esc] dans vim  
+Horloge binaire  
+Fonction pour diviser une chaîne en un tableau  
+Générer un hachage MD5 
+Recompressez tous les fichiers .gz dans le répertoire actuel à l'aide de bzip2 en exécutant 1 tâche par cœur de processeur en parallèle 
+Phpinfo depuis la ligne de commande  
+Exécuter une commande chaque fois qu'un fichier est touché  
+Échappez aux bombes tar potentielles  
+Faire semblant d'être occupé au bureau pour savourer une tasse de café  
+Soyez averti lorsqu'un travail que vous exécutez dans un terminal est terminé, en utilisant NotifyOSD  
+Exécute une session X dans votre session X  
+Utilisez l'écran comme émulateur de terminal pour vous connecter aux consoles série  
+Avoir une "vache" au hasard dire une chose au hasard  
+Envoie un fichier postscript à une imprimante postscript en utilisant netcat  
+Lignes du fichier2 qui ne sont pas dans le fichier1  
+Afficher quelle distribution est installée  
+Récupérer toutes les polices de dafont.com dans le dossier actuel  
+Intercepter stdout/stderr d'un autre processus  
+Envoyer un signal à DD pour imprimer sa progression  
+Ouvrez Remote Desktop (RDP) à partir de la ligne de commande et connectez les ressources locales  
+Voir votre fréquence RAM actuelle  
+Scp avec compression.  
+Interprète de ligne de commande Perl  
+Rechercher des adresses IP inutilisées sur un sous-réseau donné  
+Rechercher et supprimer les répertoires vides, démarrer dans le répertoire de travail actuel  
+Vérifiez quels fichiers sont ouverts par Firefox puis triez par taille la plus grande.  
+Moyen optimal de supprimer un grand nombre de fichiers  
+Informations géoip  
+Quel est mon ip?  
+Recherche et remplacement rapides des chaînes dans tous les fichiers du répertoire  
+Obtenir la longueur totale de toutes les vidéos / audio dans le répertoire actuel (et en dessous) en H:m:s  
+Envoyez des données en toute sécurité sur le net.  
+Quand votre système d'exploitation a-t-il été installé ?  
+Comment exécuter une commande sur une liste de serveurs distants lus à partir d'un fichier  
+Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Trouvez les fichiers les plus volumineux de manière récursive, quel que soit leur nombre  
+Grep certains types de fichiers de manière récursive  
+Modifier l'affinité du processus.  
+Sauvegardez vos commandes commandlinefu contribuées  
+Systèmes de fichiers actuellement montés dans une belle disposition  
+Serveur Web de référence avec l'outil d'analyse comparative apache  
+Récupérer un terminal bouché  
+Plusieurs tunnels SSH  
+Recherche LDAP pour interroger un serveur ActiveDirectory  
+Renvoyez facilement un fichier à l'hôte à partir duquel vous vous connectez  
+Calculs hexadécimaux ou octaux super rapides et conversions en décimal.  
+Rechercher et remplacer les tabulations pour les espaces dans les fichiers de manière récursive  
+Supprimer tous les fichiers trouvés dans le répertoire A du répertoire B  
+Synchronicité  
+Redirection terminale  
+Affiche le nom d'utilisateur tenté, l'adresse IP et l'heure des échecs de connexion SSH sur les machines Debian  
+Rot13 à l'aide de la commande tr  
+Mesure la vitesse de téléchargement sur eth0  
+Nettoyer la zone d'échange après avoir utilisé une application monopolisant la mémoire  
+Boucle sur un ensemble d'éléments contenant des espaces  
+Traceroute w/TCP pour passer à travers les pare-feux.  
+Lancer une commande à partir d'une page de manuel  
+Diviser le fichier en plusieurs parties  
+Prononcez les 6 premières lignes de votre chronologie Twitter toutes les 5 minutes .....  
+Créez un serveur proxy SSH SOCKS sur localhost:8000 qui redémarrera si quelque chose interrompt temporairement la connexion  
+Pour vous lancer !  
+Exclure grep de votre sortie grep de ps (alias inclus dans la description)  
+Renomme plusieurs fichiers qui correspondent au modèle  
+Empêcher une adresse IP de se connecter à un serveur  
+Recherche et remplacement d'un fichier sur N fichiers (y compris la sauvegarde des fichiers)  
+Afficher les services en cours d'exécution (à l'aide de systemctl)  
+Horloge binaire  
+Horloge terminale pulsée  
+Supprime les caractères du curseur jusqu'à la fin de la ligne  
+Tout ce qui existe dans le répertoire B et non dans le répertoire A sera copié du répertoire B vers le répertoire C nouveau ou existant
+Rechercher les commandes saisies précédemment (nécessite la configuration de .inputrc)  
+Ajouter un répertoire à $PATH s'il n'y est pas déjà  
+Déboguer l'accès aux fichiers par un processus  
+Réessayez la commande précédente jusqu'à ce qu'elle se termine avec succès  
+Convertir JSON en YAML  
+Recherchez google.com sur votre terminal  
+Jouez un bruit rythmique impressionnant en utilisant aplay  
+Passe au rouge la sortie stderr  
+Unrar récursivement dans le répertoire contenant l'archive  
+Véritable lancer de dés aléatoire  
+Trouvez les 10 plus gros fichiers dans les répertoires actuels et les sous-répertoires et triez par taille de fichier  
+Obtenez votre adresse IP externe et les informations réseau  
+Lister toutes les commandes présentes sur le système  
+Une ligne sur toute la largeur du terminal  
+Trouver de manière récursive les 20 fichiers les plus volumineux (> 1 Mo) trier le format lisible par l'homme  
+Créez les quatre clés oauth requises pour un flux de flux Twitter  
+Vérifier si une machine est en ligne  
+Extraire l'élément de xml  
+Générer un mot de passe aléatoire de 30 caractères  
+Supprimer le premier et le dernier caractère d'une chaîne  
+Charger le fichier dans la RAM (cache) pour un accès plus rapide pour une utilisation répétée  
+Afficher l'adresse IP dans l'invite -> PS1 var  
+Connectez une commande à la console et à 2 fichiers séparément stdout et stderr  
+Joindre les lignes séparées par une barre oblique inverse à la fin  
+Convertir du texte en minuscule  
+Trouver intégré dans bash v4+  
+Rendre l'image semi-transparente  
+Comparer des répertoires via diff  
+Exécute un shell avec netcat sans -e  
+Enregistrez vos commandes de terminal dans l'historique bash en temps réel  
+Connectez-vous via SSH à la machine virtuelle invitée VirtualBox sans connaître l'adresse IP  
+Rendre les redirections vers localhost via /etc/hosts plus intéressantes  
+Économiseur d'écran  
+Implémentation délicate d'un tableau à deux dimensions dans Bash.  
+Texte du niveau de menace terroriste  
+Enregistreur bash  
+Utilisez wget pour télécharger une page et toutes ses conditions requises pour une visualisation hors ligne  
+Convertir une chaîne en "Title Case"  
+Fonction RTFM  
+Retour ssh à partir d'hôtes protégés par un pare-feu  
+Renommer les fichiers HTML en fonction de leur balise de titre  
+Renommer les fichiers en fonction du fichier avec des colonnes de noms correspondants  
+Créer un nouveau fichier  
+Surveiller un fichier avec une queue avec des horodatages ajoutés  
+Vérifier le disque pour les secteurs défectueux  
+Créer un fichier d'une taille donnée sous Linux  
+Faire semblant d'être occupé au bureau pour savourer une tasse de café  
+Commande man étendue  
+Afficher quel processus bloque le démontage (le périphérique ou la ressource est occupé)  
+Afficher l'UUID d'un système de fichiers ou d'une partition  
+Exécuter la commande sur un groupe de nœuds  
+Définition de la redirection globale de STDERR vers STDOUT dans un script  
+IP sortant du serveur  
+Isoler le nom du fichier du chemin complet/trouver la sortie  
+Afficher les valeurs numériques pour chacune des 256 couleurs en bash  
+Trouver tous les liens symboliques qui pointent vers des répertoires  
+Utiliser le style de codage Kernighan & Ritchie dans le programme C  
+Retarder l'exécution jusqu'à ce que la charge moyenne tombe en dessous de 1,5  
+Sauvegardez avec mysqldump une très grande base de données mysql sur une machine distante via ssh  
+Tail -f à votre rythme  
+Regardez la progression de 'dd'  
+Lignes en temps réel par seconde dans un fichier journal  
+Smart `cd` .. cd vers le répertoire de fichiers si vous essayez de cd vers un fichier  
+Ignorer temporairement les hôtes SSH connus  
+Dd avec barre de progression  
+Enregistrez les 2500 principales commandes de commandlinefu dans un seul fichier texte  
+Imprimer une rangée de 50 traits d'union  
+Afficher un motif de vagues  
+Caractères de tabulation Grep  
+Envoyer un message à une machine Windows dans une fenêtre contextuelle  
+Utilisation de mplayer pour lire uniquement l'audio mais supprimer la vidéo  
+Utilisation de mplayer pour lire uniquement l'audio mais supprimer la vidéo  
+Créer un fichier temporaire dans un appel de ligne de commande  
+Fonction shell pour que gnu info agisse comme un homme.  
+Remplacer les espaces dans les noms de fichiers par des traits de soulignement  
+Insérer le dernier argument de la commande précédente  
+Modifier l'adresse De : à la volée pour les e-mails envoyés depuis la ligne de commande  
+Télécommande pour Rhythmbox sur un PC Ubuntu Media  
+Utilisez colordiff en mode côte à côte et avec des largeurs de colonne automatiques.  
+Extraire les adresses e-mail d'un fichier (ou de tout autre modèle)  
+Incroyable image en temps réel du soleil dans votre fond d'écran  
+Bash économiseur d'écran désactivé  
+Convertir vdi en vmdk (conversion de disque dur virtualbox au format de disque dur vmware)  
+Renommage intelligent  
+C'est aujourd'hui la fin du mois ?  
+Analysez les ports d'une gamme d'hôtes avec Netcat.  
+Enregistrez votre vitesse de téléchargement Internet  
+Afficher les répertoires dans le PATH qui n'existent PAS  
+Sauvegardez les fichiers de plus d'un jour sur /home/dir, gzippez-les, déplacez l'ancien fichier vers un fichier daté.  
+Alias ​​pour fermer le terminal avec :q  
+Afficher un message d'aide intégré à partir de l'en-tête du script bash  
+Trier les fichiers supérieurs à une taille spécifiée dans un format lisible par l'homme, y compris leur chemin et leurs types par couleur, exécutés à partir du répertoire actuel 
+Imprimer le fichier sans lignes dupliquées en utilisant awk  
+Obtenez les 10 plus gros fichiers/dossiers pour le répertoire actuel  
+Obtenez votre adresse IP externe  
+Envoyer un e-mail avec une ou plusieurs pièces jointes binaires  
+Convertir une page web en png  
+Décommentez les lignes où se trouve le mot DEBUG  
+Cela permet de désactiver le son sur le canal principal d'une carte son alsa  
+Soumettez les données à un formulaire HTML avec la méthode POST et enregistrez la réponse  
+Compter le nombre de fois qu'une chaîne apparaît dans une arborescence (de code source)  
+Rechercher commandlinefu à partir de la CLI  
+Comparer un fichier distant avec un fichier local  
+Utilisation de netcat pour copier des fichiers entre serveurs  
+Rechercher l'historique des commandes sur bash  
+Redirigez le trafic entrant vers SSH, à partir d'un port de votre choix  
+Utiliser bash en ligne  
+Alt + 1 .  
+Créer plusieurs copies d'un fichier  
+Rechercher un seul fichier et y accéder  
+Bon navigateur d'informations  
+Envoie votre IP interne par email  
+Télécharger l'horaire  
+Utilisez mtr pour créer un rapport de fichier texte  
+Capture d'écran rapide  
+Modifiez la dernière ligne de commande ou la précédente dans un éditeur, puis exécutez  
+Déplacement plus rapide vers le répertoire parent  
+Afficher la sortie de la webcam  
+Ouvrez le dernier fichier que vous avez édité dans Vim.  
+Évitez d'avoir à ajuster votre volume en permanence  
+[re]vérifier un disque avec une sortie très conviviale  
+Processus par utilisation du processeur  
+Faites pivoter un ensemble de photos correspondant à leurs données EXIF.  
+Awk utilisant plusieurs séparateurs de champs  
+Affiche la taille des répertoires et des fichiers, cachés ou non, triés.  
+Informations sur le disque dur - Modèle/numéro de série.  
+Utilisez mplayer pour enregistrer les flux vidéo dans un fichier  
+Enveloppez les fichiers texte sur la ligne de commande pour une lecture facile  
+Relire la table de partition sur le périphérique spécifié sans redémarrer le système (ici /dev/sda).  
+Demandez à votre mac de vous parler  
+Trier une liste d'adresses e-mail une par ligne, en éliminant les doublons  
+Changer récursivement le nom du fichier de majuscule à minuscule (ou vice versa)  
+Vérifier l'âge du système de fichiers  
+Sauvegardez toutes les bases de données MySQL dans des fichiers individuels  
+Supprimer tous les fichiers subversion d'un projet de manière récursive  
+Cliquez sur une fenêtre de l'interface graphique et affichez son ID de processus et la commande utilisée pour exécuter le processus 
+Imprimer des informations détaillées sur le matériel  
+Concaténer (joindre) des fichiers vidéo  
+Convertir le contenu d'une liste de répertoires en une variable d'environnement séparée par deux-points  
+Créer un journal d'une session de terminal  
+Supprimer les clés d'hôte invalides de ~/.ssh/known_hosts  
+Supprimer tous les espaces de tous les fichiers du dossier actuel  
+Une fonction pour trouver le serveur DNS gratuit le plus rapide  
+Nouveau mainteneur pour CommandLineFu  
+Client IRC sans système d'exploitation  
+Obtenez votre historique Firefox  
+Soumettre la commande et réécrire la commande d'origine  
+Vérifiez tous les scripts bash dans le répertoire actuel pour les erreurs de syntaxe  
+Chat crypté avec netcat et openssl (one-liner)  
+Lier symboliquement tous les fichiers d'un répertoire de base vers un répertoire cible  
+Lister les répertoires uniquement
